@@ -16,8 +16,8 @@
       "region": "East Asia & Pacific",
       "population": 270625568,
       "area": 0,
-      "gdp": "4680.60",
-      "development": "0.507"
+      "gdp": "1265.57",
+      "development": "0.222"
     },
     {
       "name": "马来西亚",
@@ -34,8 +34,8 @@
       "region": "East Asia & Pacific",
       "population": 31949777,
       "area": 0,
-      "gdp": "2267.06",
-      "development": "0.361"
+      "gdp": "3599.10",
+      "development": "0.423"
     },
     {
       "name": "智利",
@@ -52,8 +52,8 @@
       "region": "Latin America & Caribbean",
       "population": 18952038,
       "area": 0,
-      "gdp": "4308.62",
-      "development": "0.274"
+      "gdp": "734.76",
+      "development": "0.510"
     },
     {
       "name": "玻利维亚",
@@ -70,8 +70,8 @@
       "region": "Latin America & Caribbean",
       "population": 11513100,
       "area": 0,
-      "gdp": "4116.92",
-      "development": "0.525"
+      "gdp": "354.14",
+      "development": "0.959"
     },
     {
       "name": "秘鲁",
@@ -88,8 +88,8 @@
       "region": "Latin America & Caribbean",
       "population": 32510453,
       "area": 0,
-      "gdp": "1941.93",
-      "development": "0.703"
+      "gdp": "637.38",
+      "development": "0.288"
     },
     {
       "name": "阿根廷",
@@ -106,8 +106,8 @@
       "region": "Latin America & Caribbean",
       "population": 44938712,
       "area": 0,
-      "gdp": "1031.61",
-      "development": "0.826"
+      "gdp": "1977.43",
+      "development": "0.576"
     },
     {
       "name": "塞浦路斯",
@@ -124,8 +124,8 @@
       "region": "Europe & Central Asia",
       "population": 1198575,
       "area": 0,
-      "gdp": "2823.10",
-      "development": "0.557"
+      "gdp": "3842.69",
+      "development": "0.798"
     },
     {
       "name": "印度",
@@ -142,8 +142,8 @@
       "region": "South Asia",
       "population": 1366417754,
       "area": 0,
-      "gdp": "1270.57",
-      "development": "0.776"
+      "gdp": "1109.76",
+      "development": "0.744"
     },
     {
       "name": "中国",
@@ -160,8 +160,8 @@
       "region": "East Asia & Pacific",
       "population": 1397715000,
       "area": 0,
-      "gdp": "2025.93",
-      "development": "0.246"
+      "gdp": "3938.03",
+      "development": "0.637"
     },
     {
       "name": "以色列",
@@ -178,8 +178,8 @@
       "region": "Middle East & North Africa",
       "population": 9053300,
       "area": 0,
-      "gdp": "2557.43",
-      "development": "0.332"
+      "gdp": "3999.54",
+      "development": "0.505"
     },
     {
       "name": "黎巴嫩",
@@ -196,8 +196,8 @@
       "region": "Middle East & North Africa",
       "population": 6855713,
       "area": 0,
-      "gdp": "1309.72",
-      "development": "0.903"
+      "gdp": "105.04",
+      "development": "0.983"
     },
     {
       "name": "埃塞俄比亚",
@@ -214,8 +214,8 @@
       "region": "Sub-Saharan Africa",
       "population": 112078730,
       "area": 0,
-      "gdp": "4138.54",
-      "development": "0.471"
+      "gdp": "213.34",
+      "development": "0.963"
     },
     {
       "name": "南苏丹",
@@ -232,8 +232,8 @@
       "region": "Sub-Saharan Africa",
       "population": 11062113,
       "area": 0,
-      "gdp": "4361.89",
-      "development": "0.238"
+      "gdp": "2429.17",
+      "development": "0.330"
     },
     {
       "name": "索马里",
@@ -250,8 +250,8 @@
       "region": "Sub-Saharan Africa",
       "population": 10192317.3,
       "area": 0,
-      "gdp": "4320.87",
-      "development": "0.968"
+      "gdp": "1935.75",
+      "development": "0.935"
     },
     {
       "name": "肯尼亚",
@@ -268,8 +268,8 @@
       "region": "Sub-Saharan Africa",
       "population": 52573973,
       "area": 0,
-      "gdp": "1762.10",
-      "development": "0.836"
+      "gdp": "959.33",
+      "development": "0.948"
     },
     {
       "name": "马拉维",
@@ -286,8 +286,8 @@
       "region": "Sub-Saharan Africa",
       "population": 18628747,
       "area": 0,
-      "gdp": "4365.33",
-      "development": "0.791"
+      "gdp": "4718.42",
+      "development": "0.543"
     },
     {
       "name": "坦桑尼亚",
@@ -304,8 +304,8 @@
       "region": "Sub-Saharan Africa",
       "population": 58005463,
       "area": 0,
-      "gdp": "548.11",
-      "development": "0.444"
+      "gdp": "4828.13",
+      "development": "0.592"
     },
     {
       "name": "叙利亚",
@@ -322,8 +322,8 @@
       "region": "Middle East & North Africa",
       "population": 17070135,
       "area": 0,
-      "gdp": "4710.75",
-      "development": "0.373"
+      "gdp": "2087.29",
+      "development": "0.222"
     },
     {
       "name": "苏里南",
@@ -340,8 +340,8 @@
       "region": "Latin America & Caribbean",
       "population": 581363,
       "area": 0,
-      "gdp": "1250.70",
-      "development": "0.257"
+      "gdp": "915.85",
+      "development": "0.583"
     },
     {
       "name": "圭亚那",
@@ -358,8 +358,8 @@
       "region": "Latin America & Caribbean",
       "population": 782766,
       "area": 0,
-      "gdp": "2902.40",
-      "development": "0.759"
+      "gdp": "3272.60",
+      "development": "0.543"
     },
     {
       "name": "Republic of Korea",
@@ -376,8 +376,8 @@
       "region": "East Asia & Pacific",
       "population": 51709098,
       "area": 0,
-      "gdp": "1231.06",
-      "development": "0.908"
+      "gdp": "4043.04",
+      "development": "0.540"
     },
     {
       "name": "Dem. Rep. Korea",
@@ -394,8 +394,8 @@
       "region": "East Asia & Pacific",
       "population": 25666161,
       "area": 0,
-      "gdp": "1198.91",
-      "development": "0.930"
+      "gdp": "1825.63",
+      "development": "0.603"
     },
     {
       "name": "摩洛哥",
@@ -412,8 +412,8 @@
       "region": "Middle East & North Africa",
       "population": 36471769,
       "area": 0,
-      "gdp": "4653.01",
-      "development": "0.523"
+      "gdp": "4554.13",
+      "development": "0.446"
     },
     {
       "name": "Western Sahara",
@@ -430,8 +430,8 @@
       "region": "Middle East & North Africa",
       "population": 603253,
       "area": 0,
-      "gdp": "4828.06",
-      "development": "0.868"
+      "gdp": "1818.98",
+      "development": "0.319"
     },
     {
       "name": "哥斯达黎加",
@@ -448,8 +448,8 @@
       "region": "Latin America & Caribbean",
       "population": 5047561,
       "area": 0,
-      "gdp": "4313.56",
-      "development": "0.468"
+      "gdp": "56.16",
+      "development": "0.878"
     },
     {
       "name": "尼加拉瓜",
@@ -466,8 +466,8 @@
       "region": "Latin America & Caribbean",
       "population": 6545502,
       "area": 0,
-      "gdp": "3798.61",
-      "development": "0.799"
+      "gdp": "299.17",
+      "development": "0.518"
     },
     {
       "name": "Republic of the Congo",
@@ -484,8 +484,8 @@
       "region": "Sub-Saharan Africa",
       "population": 5380508,
       "area": 0,
-      "gdp": "2804.66",
-      "development": "0.514"
+      "gdp": "576.69",
+      "development": "0.650"
     },
     {
       "name": "刚果民主共和国",
@@ -502,8 +502,8 @@
       "region": "Sub-Saharan Africa",
       "population": 86790567,
       "area": 0,
-      "gdp": "4942.22",
-      "development": "0.574"
+      "gdp": "4637.15",
+      "development": "0.545"
     },
     {
       "name": "不丹",
@@ -520,8 +520,8 @@
       "region": "South Asia",
       "population": 763092,
       "area": 0,
-      "gdp": "3893.52",
-      "development": "0.956"
+      "gdp": "2325.84",
+      "development": "0.452"
     },
     {
       "name": "乌克兰",
@@ -538,8 +538,8 @@
       "region": "Europe & Central Asia",
       "population": 44385155,
       "area": 0,
-      "gdp": "1254.37",
-      "development": "0.394"
+      "gdp": "3449.27",
+      "development": "0.232"
     },
     {
       "name": "白俄罗斯",
@@ -556,8 +556,8 @@
       "region": "Europe & Central Asia",
       "population": 9466856,
       "area": 0,
-      "gdp": "2415.66",
-      "development": "0.352"
+      "gdp": "4326.54",
+      "development": "0.916"
     },
     {
       "name": "纳米比亚",
@@ -574,8 +574,8 @@
       "region": "Sub-Saharan Africa",
       "population": 2494530,
       "area": 0,
-      "gdp": "2471.12",
-      "development": "0.230"
+      "gdp": "4671.84",
+      "development": "0.239"
     },
     {
       "name": "南非",
@@ -592,8 +592,8 @@
       "region": "Sub-Saharan Africa",
       "population": 58558270,
       "area": 0,
-      "gdp": "4877.62",
-      "development": "0.799"
+      "gdp": "4717.12",
+      "development": "0.441"
     },
     {
       "name": "Saint-Martin",
@@ -610,8 +610,8 @@
       "region": "Latin America & Caribbean",
       "population": 38002,
       "area": 0,
-      "gdp": "1575.85",
-      "development": "0.579"
+      "gdp": "4660.25",
+      "development": "0.459"
     },
     {
       "name": "Sint Maarten",
@@ -628,8 +628,8 @@
       "region": "Latin America & Caribbean",
       "population": 40733,
       "area": 0,
-      "gdp": "2950.93",
-      "development": "0.547"
+      "gdp": "3016.06",
+      "development": "0.853"
     },
     {
       "name": "阿曼",
@@ -646,8 +646,8 @@
       "region": "Middle East & North Africa",
       "population": 4974986,
       "area": 0,
-      "gdp": "2780.63",
-      "development": "0.885"
+      "gdp": "3025.29",
+      "development": "0.300"
     },
     {
       "name": "乌兹别克斯坦",
@@ -664,8 +664,8 @@
       "region": "Europe & Central Asia",
       "population": 33580650,
       "area": 0,
-      "gdp": "3910.49",
-      "development": "0.442"
+      "gdp": "639.03",
+      "development": "0.763"
     },
     {
       "name": "哈萨克斯坦",
@@ -682,8 +682,8 @@
       "region": "Europe & Central Asia",
       "population": 18513930,
       "area": 0,
-      "gdp": "2468.38",
-      "development": "0.336"
+      "gdp": "878.08",
+      "development": "0.484"
     },
     {
       "name": "塔吉克斯坦",
@@ -700,8 +700,8 @@
       "region": "Europe & Central Asia",
       "population": 9321018,
       "area": 0,
-      "gdp": "3246.25",
-      "development": "0.601"
+      "gdp": "2108.75",
+      "development": "0.895"
     },
     {
       "name": "立陶宛",
@@ -718,8 +718,8 @@
       "region": "Europe & Central Asia",
       "population": 2786844,
       "area": 0,
-      "gdp": "642.20",
-      "development": "0.763"
+      "gdp": "162.75",
+      "development": "0.816"
     },
     {
       "name": "巴西",
@@ -736,8 +736,8 @@
       "region": "Latin America & Caribbean",
       "population": 211049527,
       "area": 0,
-      "gdp": "132.65",
-      "development": "0.703"
+      "gdp": "3918.07",
+      "development": "0.835"
     },
     {
       "name": "乌拉圭",
@@ -754,8 +754,8 @@
       "region": "Latin America & Caribbean",
       "population": 3461734,
       "area": 0,
-      "gdp": "4163.38",
-      "development": "0.677"
+      "gdp": "2216.97",
+      "development": "0.979"
     },
     {
       "name": "蒙古",
@@ -772,8 +772,8 @@
       "region": "East Asia & Pacific",
       "population": 3225167,
       "area": 0,
-      "gdp": "1600.38",
-      "development": "0.819"
+      "gdp": "2860.90",
+      "development": "0.245"
     },
     {
       "name": "Russian Federation",
@@ -790,8 +790,8 @@
       "region": "Europe & Central Asia",
       "population": 144373535,
       "area": 0,
-      "gdp": "144.41",
-      "development": "0.259"
+      "gdp": "1637.54",
+      "development": "0.714"
     },
     {
       "name": "Czech Republic",
@@ -808,8 +808,8 @@
       "region": "Europe & Central Asia",
       "population": 10669709,
       "area": 0,
-      "gdp": "3027.69",
-      "development": "0.983"
+      "gdp": "23.62",
+      "development": "0.364"
     },
     {
       "name": "德国",
@@ -826,8 +826,8 @@
       "region": "Europe & Central Asia",
       "population": 83132799,
       "area": 0,
-      "gdp": "3104.25",
-      "development": "0.289"
+      "gdp": "4118.81",
+      "development": "0.386"
     },
     {
       "name": "爱沙尼亚",
@@ -844,8 +844,8 @@
       "region": "Europe & Central Asia",
       "population": 1326590,
       "area": 0,
-      "gdp": "231.93",
-      "development": "0.295"
+      "gdp": "1817.76",
+      "development": "0.448"
     },
     {
       "name": "拉脱维亚",
@@ -862,8 +862,8 @@
       "region": "Europe & Central Asia",
       "population": 1912789,
       "area": 0,
-      "gdp": "3612.00",
-      "development": "0.463"
+      "gdp": "2722.78",
+      "development": "0.365"
     },
     {
       "name": "瑞典",
@@ -880,8 +880,8 @@
       "region": "Europe & Central Asia",
       "population": 10285453,
       "area": 0,
-      "gdp": "4953.40",
-      "development": "0.242"
+      "gdp": "2575.71",
+      "development": "0.398"
     },
     {
       "name": "芬兰",
@@ -898,8 +898,8 @@
       "region": "Europe & Central Asia",
       "population": 5520314,
       "area": 0,
-      "gdp": "3290.49",
-      "development": "0.412"
+      "gdp": "3105.97",
+      "development": "0.384"
     },
     {
       "name": "越南",
@@ -916,8 +916,8 @@
       "region": "East Asia & Pacific",
       "population": 96462106,
       "area": 0,
-      "gdp": "4062.96",
-      "development": "0.292"
+      "gdp": "2099.39",
+      "development": "0.840"
     },
     {
       "name": "柬埔寨",
@@ -934,8 +934,8 @@
       "region": "East Asia & Pacific",
       "population": 16486542,
       "area": 0,
-      "gdp": "1017.52",
-      "development": "0.252"
+      "gdp": "2200.86",
+      "development": "0.281"
     },
     {
       "name": "卢森堡",
@@ -952,8 +952,8 @@
       "region": "Europe & Central Asia",
       "population": 619896,
       "area": 0,
-      "gdp": "3217.99",
-      "development": "0.275"
+      "gdp": "3127.94",
+      "development": "0.740"
     },
     {
       "name": "阿拉伯联合酋长国",
@@ -970,8 +970,8 @@
       "region": "Middle East & North Africa",
       "population": 9770529,
       "area": 0,
-      "gdp": "2326.36",
-      "development": "0.805"
+      "gdp": "4579.99",
+      "development": "0.470"
     },
     {
       "name": "比利时",
@@ -988,8 +988,8 @@
       "region": "Europe & Central Asia",
       "population": 11484055,
       "area": 0,
-      "gdp": "3945.79",
-      "development": "0.649"
+      "gdp": "2037.75",
+      "development": "0.927"
     },
     {
       "name": "格鲁吉亚",
@@ -1006,8 +1006,8 @@
       "region": "Europe & Central Asia",
       "population": 3720382,
       "area": 0,
-      "gdp": "3169.02",
-      "development": "0.235"
+      "gdp": "2926.23",
+      "development": "0.883"
     },
     {
       "name": "北马其顿",
@@ -1024,8 +1024,8 @@
       "region": "Europe & Central Asia",
       "population": 2083459,
       "area": 0,
-      "gdp": "3011.14",
-      "development": "0.876"
+      "gdp": "1164.40",
+      "development": "0.760"
     },
     {
       "name": "阿尔巴尼亚",
@@ -1042,8 +1042,8 @@
       "region": "Europe & Central Asia",
       "population": 2854191,
       "area": 0,
-      "gdp": "3634.50",
-      "development": "0.767"
+      "gdp": "1811.12",
+      "development": "0.344"
     },
     {
       "name": "阿塞拜疆",
@@ -1060,8 +1060,8 @@
       "region": "Europe & Central Asia",
       "population": 10023318,
       "area": 0,
-      "gdp": "678.20",
-      "development": "0.323"
+      "gdp": "869.69",
+      "development": "0.375"
     },
     {
       "name": "土耳其",
@@ -1078,8 +1078,8 @@
       "region": "Europe & Central Asia",
       "population": 83429615,
       "area": 0,
-      "gdp": "1326.78",
-      "development": "0.224"
+      "gdp": "463.63",
+      "development": "0.382"
     },
     {
       "name": "西班牙",
@@ -1096,8 +1096,8 @@
       "region": "Europe & Central Asia",
       "population": 47076781,
       "area": 0,
-      "gdp": "4224.50",
-      "development": "0.644"
+      "gdp": "1305.33",
+      "development": "0.284"
     },
     {
       "name": "Lao PDR",
@@ -1114,8 +1114,8 @@
       "region": "East Asia & Pacific",
       "population": 7169455,
       "area": 0,
-      "gdp": "2781.71",
-      "development": "0.759"
+      "gdp": "948.34",
+      "development": "0.408"
     },
     {
       "name": "吉尔吉斯斯坦",
@@ -1132,8 +1132,8 @@
       "region": "Europe & Central Asia",
       "population": 6456900,
       "area": 0,
-      "gdp": "2487.85",
-      "development": "0.446"
+      "gdp": "3914.62",
+      "development": "0.867"
     },
     {
       "name": "亚美尼亚",
@@ -1150,8 +1150,8 @@
       "region": "Europe & Central Asia",
       "population": 2957731,
       "area": 0,
-      "gdp": "977.69",
-      "development": "0.718"
+      "gdp": "2729.77",
+      "development": "0.362"
     },
     {
       "name": "丹麦",
@@ -1168,8 +1168,8 @@
       "region": "Europe & Central Asia",
       "population": 5818553,
       "area": 0,
-      "gdp": "56.58",
-      "development": "0.571"
+      "gdp": "1378.72",
+      "development": "0.662"
     },
     {
       "name": "利比亚",
@@ -1186,8 +1186,8 @@
       "region": "Middle East & North Africa",
       "population": 6777452,
       "area": 0,
-      "gdp": "1927.47",
-      "development": "0.320"
+      "gdp": "3189.56",
+      "development": "0.637"
     },
     {
       "name": "突尼斯",
@@ -1204,8 +1204,8 @@
       "region": "Middle East & North Africa",
       "population": 11694719,
       "area": 0,
-      "gdp": "1070.01",
-      "development": "0.910"
+      "gdp": "1648.33",
+      "development": "0.719"
     },
     {
       "name": "罗马尼亚",
@@ -1222,8 +1222,8 @@
       "region": "Europe & Central Asia",
       "population": 19356544,
       "area": 0,
-      "gdp": "2477.02",
-      "development": "0.786"
+      "gdp": "1295.82",
+      "development": "0.251"
     },
     {
       "name": "匈牙利",
@@ -1240,8 +1240,8 @@
       "region": "Europe & Central Asia",
       "population": 9769949,
       "area": 0,
-      "gdp": "2891.60",
-      "development": "0.857"
+      "gdp": "4208.13",
+      "development": "0.499"
     },
     {
       "name": "斯洛伐克",
@@ -1258,8 +1258,8 @@
       "region": "Europe & Central Asia",
       "population": 5454073,
       "area": 0,
-      "gdp": "3258.19",
-      "development": "0.906"
+      "gdp": "1640.79",
+      "development": "0.714"
     },
     {
       "name": "波兰",
@@ -1276,8 +1276,8 @@
       "region": "Europe & Central Asia",
       "population": 37970874,
       "area": 0,
-      "gdp": "761.72",
-      "development": "0.724"
+      "gdp": "3089.17",
+      "development": "0.760"
     },
     {
       "name": "爱尔兰",
@@ -1294,8 +1294,8 @@
       "region": "Europe & Central Asia",
       "population": 4941444,
       "area": 0,
-      "gdp": "251.61",
-      "development": "0.929"
+      "gdp": "2520.97",
+      "development": "0.595"
     },
     {
       "name": "英国",
@@ -1312,8 +1312,8 @@
       "region": "Europe & Central Asia",
       "population": 66834405,
       "area": 0,
-      "gdp": "859.07",
-      "development": "0.661"
+      "gdp": "1983.79",
+      "development": "0.444"
     },
     {
       "name": "希腊",
@@ -1330,8 +1330,8 @@
       "region": "Europe & Central Asia",
       "population": 10716322,
       "area": 0,
-      "gdp": "4388.86",
-      "development": "0.901"
+      "gdp": "3301.91",
+      "development": "0.341"
     },
     {
       "name": "赞比亚",
@@ -1348,8 +1348,8 @@
       "region": "Sub-Saharan Africa",
       "population": 17861030,
       "area": 0,
-      "gdp": "3950.99",
-      "development": "0.718"
+      "gdp": "1339.93",
+      "development": "0.807"
     },
     {
       "name": "塞拉利昂",
@@ -1366,8 +1366,8 @@
       "region": "Sub-Saharan Africa",
       "population": 7813215,
       "area": 0,
-      "gdp": "1203.63",
-      "development": "0.606"
+      "gdp": "3651.01",
+      "development": "0.404"
     },
     {
       "name": "几内亚",
@@ -1384,8 +1384,8 @@
       "region": "Sub-Saharan Africa",
       "population": 12771246,
       "area": 0,
-      "gdp": "653.77",
-      "development": "0.774"
+      "gdp": "841.63",
+      "development": "0.962"
     },
     {
       "name": "利比里亚",
@@ -1402,8 +1402,8 @@
       "region": "Sub-Saharan Africa",
       "population": 4937374,
       "area": 0,
-      "gdp": "3778.39",
-      "development": "0.848"
+      "gdp": "1496.53",
+      "development": "0.895"
     },
     {
       "name": "中非共和国",
@@ -1420,8 +1420,8 @@
       "region": "Sub-Saharan Africa",
       "population": 4745185,
       "area": 0,
-      "gdp": "3667.56",
-      "development": "0.261"
+      "gdp": "520.53",
+      "development": "0.234"
     },
     {
       "name": "苏丹",
@@ -1438,8 +1438,8 @@
       "region": "Sub-Saharan Africa",
       "population": 42813238,
       "area": 0,
-      "gdp": "2109.45",
-      "development": "0.294"
+      "gdp": "1240.32",
+      "development": "0.655"
     },
     {
       "name": "吉布提",
@@ -1456,8 +1456,8 @@
       "region": "Middle East & North Africa",
       "population": 973560,
       "area": 0,
-      "gdp": "4841.23",
-      "development": "0.550"
+      "gdp": "4269.90",
+      "development": "0.783"
     },
     {
       "name": "厄立特里亚",
@@ -1474,8 +1474,8 @@
       "region": "Sub-Saharan Africa",
       "population": 6081196,
       "area": 0,
-      "gdp": "2671.57",
-      "development": "0.849"
+      "gdp": "2485.19",
+      "development": "0.249"
     },
     {
       "name": "奥地利",
@@ -1492,8 +1492,8 @@
       "region": "Europe & Central Asia",
       "population": 8877067,
       "area": 0,
-      "gdp": "1344.82",
-      "development": "0.933"
+      "gdp": "3775.41",
+      "development": "0.709"
     },
     {
       "name": "伊拉克",
@@ -1510,8 +1510,8 @@
       "region": "Middle East & North Africa",
       "population": 39309783,
       "area": 0,
-      "gdp": "1481.08",
-      "development": "0.273"
+      "gdp": "3881.59",
+      "development": "0.934"
     },
     {
       "name": "意大利",
@@ -1528,8 +1528,8 @@
       "region": "Europe & Central Asia",
       "population": 60297396,
       "area": 0,
-      "gdp": "952.12",
-      "development": "0.869"
+      "gdp": "1564.16",
+      "development": "0.347"
     },
     {
       "name": "瑞士",
@@ -1546,8 +1546,8 @@
       "region": "Europe & Central Asia",
       "population": 8574832,
       "area": 0,
-      "gdp": "1058.38",
-      "development": "0.598"
+      "gdp": "746.80",
+      "development": "0.332"
     },
     {
       "name": "伊朗",
@@ -1564,8 +1564,8 @@
       "region": "Middle East & North Africa",
       "population": 82913906,
       "area": 0,
-      "gdp": "3504.30",
-      "development": "0.362"
+      "gdp": "2004.86",
+      "development": "0.947"
     },
     {
       "name": "荷兰",
@@ -1582,8 +1582,8 @@
       "region": "Europe & Central Asia",
       "population": 17332850,
       "area": 0,
-      "gdp": "4000.70",
-      "development": "0.904"
+      "gdp": "814.31",
+      "development": "0.526"
     },
     {
       "name": "列支敦士登",
@@ -1600,8 +1600,8 @@
       "region": "Europe & Central Asia",
       "population": 38019,
       "area": 0,
-      "gdp": "2151.79",
-      "development": "0.777"
+      "gdp": "278.20",
+      "development": "0.468"
     },
     {
       "name": "Côte d'Ivoire",
@@ -1618,8 +1618,8 @@
       "region": "Sub-Saharan Africa",
       "population": 25716544,
       "area": 0,
-      "gdp": "3991.37",
-      "development": "0.955"
+      "gdp": "973.79",
+      "development": "0.316"
     },
     {
       "name": "塞尔维亚",
@@ -1636,8 +1636,8 @@
       "region": "Europe & Central Asia",
       "population": 6944975,
       "area": 0,
-      "gdp": "4913.56",
-      "development": "0.702"
+      "gdp": "2025.07",
+      "development": "0.710"
     },
     {
       "name": "马里",
@@ -1654,8 +1654,8 @@
       "region": "Sub-Saharan Africa",
       "population": 19658031,
       "area": 0,
-      "gdp": "59.39",
-      "development": "0.653"
+      "gdp": "1396.42",
+      "development": "0.939"
     },
     {
       "name": "塞内加尔",
@@ -1672,8 +1672,8 @@
       "region": "Sub-Saharan Africa",
       "population": 16296364,
       "area": 0,
-      "gdp": "4218.58",
-      "development": "0.507"
+      "gdp": "4026.48",
+      "development": "0.596"
     },
     {
       "name": "尼日利亚",
@@ -1690,8 +1690,8 @@
       "region": "Sub-Saharan Africa",
       "population": 200963599,
       "area": 0,
-      "gdp": "1870.17",
-      "development": "0.814"
+      "gdp": "3517.87",
+      "development": "0.494"
     },
     {
       "name": "贝宁",
@@ -1708,8 +1708,8 @@
       "region": "Sub-Saharan Africa",
       "population": 11801151,
       "area": 0,
-      "gdp": "2502.54",
-      "development": "0.328"
+      "gdp": "721.45",
+      "development": "0.524"
     },
     {
       "name": "安哥拉",
@@ -1726,8 +1726,8 @@
       "region": "Sub-Saharan Africa",
       "population": 31825295,
       "area": 0,
-      "gdp": "2262.93",
-      "development": "0.778"
+      "gdp": "148.47",
+      "development": "0.482"
     },
     {
       "name": "克罗地亚",
@@ -1744,8 +1744,8 @@
       "region": "Europe & Central Asia",
       "population": 4067500,
       "area": 0,
-      "gdp": "3762.51",
-      "development": "0.269"
+      "gdp": "1544.66",
+      "development": "0.884"
     },
     {
       "name": "斯洛文尼亚",
@@ -1762,8 +1762,8 @@
       "region": "Europe & Central Asia",
       "population": 2087946,
       "area": 0,
-      "gdp": "3040.48",
-      "development": "0.659"
+      "gdp": "864.62",
+      "development": "0.289"
     },
     {
       "name": "卡塔尔",
@@ -1780,8 +1780,8 @@
       "region": "Middle East & North Africa",
       "population": 2832067,
       "area": 0,
-      "gdp": "2298.15",
-      "development": "0.250"
+      "gdp": "3396.77",
+      "development": "0.323"
     },
     {
       "name": "沙特阿拉伯",
@@ -1798,8 +1798,8 @@
       "region": "Middle East & North Africa",
       "population": 34268528,
       "area": 0,
-      "gdp": "3077.99",
-      "development": "0.787"
+      "gdp": "4928.64",
+      "development": "0.496"
     },
     {
       "name": "博茨瓦纳",
@@ -1816,8 +1816,8 @@
       "region": "Sub-Saharan Africa",
       "population": 2303697,
       "area": 0,
-      "gdp": "862.82",
-      "development": "0.448"
+      "gdp": "2684.80",
+      "development": "0.396"
     },
     {
       "name": "津巴布韦",
@@ -1834,8 +1834,8 @@
       "region": "Sub-Saharan Africa",
       "population": 14645468,
       "area": 0,
-      "gdp": "4364.75",
-      "development": "0.766"
+      "gdp": "1838.64",
+      "development": "0.974"
     },
     {
       "name": "巴基斯坦",
@@ -1852,8 +1852,8 @@
       "region": "South Asia",
       "population": 216565318,
       "area": 0,
-      "gdp": "2749.61",
-      "development": "0.275"
+      "gdp": "3833.56",
+      "development": "0.521"
     },
     {
       "name": "保加利亚",
@@ -1870,8 +1870,8 @@
       "region": "Europe & Central Asia",
       "population": 6975761,
       "area": 0,
-      "gdp": "4895.02",
-      "development": "0.501"
+      "gdp": "4711.30",
+      "development": "0.683"
     },
     {
       "name": "泰国",
@@ -1888,8 +1888,8 @@
       "region": "East Asia & Pacific",
       "population": 69625582,
       "area": 0,
-      "gdp": "2428.80",
-      "development": "0.896"
+      "gdp": "1592.03",
+      "development": "0.924"
     },
     {
       "name": "圣马力诺",
@@ -1906,8 +1906,8 @@
       "region": "Europe & Central Asia",
       "population": 33860,
       "area": 0,
-      "gdp": "3346.71",
-      "development": "0.405"
+      "gdp": "1392.95",
+      "development": "0.999"
     },
     {
       "name": "海地",
@@ -1924,8 +1924,8 @@
       "region": "Latin America & Caribbean",
       "population": 11263077,
       "area": 0,
-      "gdp": "3311.98",
-      "development": "0.811"
+      "gdp": "318.49",
+      "development": "0.207"
     },
     {
       "name": "多米尼加共和国",
@@ -1942,8 +1942,8 @@
       "region": "Latin America & Caribbean",
       "population": 10738958,
       "area": 0,
-      "gdp": "1014.23",
-      "development": "0.431"
+      "gdp": "939.68",
+      "development": "0.416"
     },
     {
       "name": "乍得",
@@ -1960,8 +1960,8 @@
       "region": "Sub-Saharan Africa",
       "population": 15946876,
       "area": 0,
-      "gdp": "1288.21",
-      "development": "0.735"
+      "gdp": "3025.84",
+      "development": "0.362"
     },
     {
       "name": "科威特",
@@ -1978,8 +1978,8 @@
       "region": "Middle East & North Africa",
       "population": 4207083,
       "area": 0,
-      "gdp": "3718.81",
-      "development": "0.771"
+      "gdp": "2463.26",
+      "development": "0.677"
     },
     {
       "name": "萨尔瓦多",
@@ -1996,8 +1996,8 @@
       "region": "Latin America & Caribbean",
       "population": 6453553,
       "area": 0,
-      "gdp": "1429.09",
-      "development": "0.901"
+      "gdp": "3743.64",
+      "development": "0.673"
     },
     {
       "name": "危地马拉",
@@ -2014,8 +2014,8 @@
       "region": "Latin America & Caribbean",
       "population": 16604026,
       "area": 0,
-      "gdp": "724.41",
-      "development": "0.690"
+      "gdp": "2627.05",
+      "development": "0.981"
     },
     {
       "name": "东帝汶",
@@ -2032,8 +2032,8 @@
       "region": "East Asia & Pacific",
       "population": 1293119,
       "area": 0,
-      "gdp": "3707.17",
-      "development": "0.412"
+      "gdp": "1615.28",
+      "development": "0.900"
     },
     {
       "name": "Brunei Darussalam",
@@ -2050,8 +2050,8 @@
       "region": "East Asia & Pacific",
       "population": 433285,
       "area": 0,
-      "gdp": "1253.85",
-      "development": "0.624"
+      "gdp": "2464.49",
+      "development": "0.230"
     },
     {
       "name": "摩纳哥",
@@ -2068,8 +2068,8 @@
       "region": "Europe & Central Asia",
       "population": 38964,
       "area": 0,
-      "gdp": "447.31",
-      "development": "0.418"
+      "gdp": "1835.20",
+      "development": "0.569"
     },
     {
       "name": "阿尔及利亚",
@@ -2086,8 +2086,8 @@
       "region": "Middle East & North Africa",
       "population": 43053054,
       "area": 0,
-      "gdp": "3374.23",
-      "development": "0.482"
+      "gdp": "2693.65",
+      "development": "0.564"
     },
     {
       "name": "莫桑比克",
@@ -2104,8 +2104,8 @@
       "region": "Sub-Saharan Africa",
       "population": 30366036,
       "area": 0,
-      "gdp": "831.46",
-      "development": "0.464"
+      "gdp": "749.56",
+      "development": "0.613"
     },
     {
       "name": "Kingdom of eSwatini",
@@ -2122,8 +2122,8 @@
       "region": "Sub-Saharan Africa",
       "population": 1148130,
       "area": 0,
-      "gdp": "2894.62",
-      "development": "0.701"
+      "gdp": "203.07",
+      "development": "0.951"
     },
     {
       "name": "布隆迪",
@@ -2140,8 +2140,8 @@
       "region": "Sub-Saharan Africa",
       "population": 11530580,
       "area": 0,
-      "gdp": "552.79",
-      "development": "0.535"
+      "gdp": "1665.31",
+      "development": "0.877"
     },
     {
       "name": "卢旺达",
@@ -2158,8 +2158,8 @@
       "region": "Sub-Saharan Africa",
       "population": 12626950,
       "area": 0,
-      "gdp": "3428.46",
-      "development": "0.540"
+      "gdp": "3882.09",
+      "development": "0.520"
     },
     {
       "name": "缅甸",
@@ -2176,8 +2176,8 @@
       "region": "East Asia & Pacific",
       "population": 54045420,
       "area": 0,
-      "gdp": "1949.09",
-      "development": "0.292"
+      "gdp": "3278.60",
+      "development": "0.944"
     },
     {
       "name": "孟加拉国",
@@ -2194,8 +2194,8 @@
       "region": "South Asia",
       "population": 163046161,
       "area": 0,
-      "gdp": "3954.33",
-      "development": "0.667"
+      "gdp": "2505.66",
+      "development": "0.818"
     },
     {
       "name": "安道尔",
@@ -2212,8 +2212,8 @@
       "region": "Europe & Central Asia",
       "population": 77142,
       "area": 0,
-      "gdp": "1890.26",
-      "development": "0.813"
+      "gdp": "4879.41",
+      "development": "0.908"
     },
     {
       "name": "阿富汗",
@@ -2230,8 +2230,8 @@
       "region": "South Asia",
       "population": 38041754,
       "area": 0,
-      "gdp": "4386.63",
-      "development": "0.882"
+      "gdp": "3737.36",
+      "development": "0.873"
     },
     {
       "name": "黑山",
@@ -2248,8 +2248,8 @@
       "region": "Europe & Central Asia",
       "population": 622137,
       "area": 0,
-      "gdp": "3855.55",
-      "development": "0.952"
+      "gdp": "3818.49",
+      "development": "0.493"
     },
     {
       "name": "波斯尼亚和黑塞哥维那",
@@ -2266,8 +2266,8 @@
       "region": "Europe & Central Asia",
       "population": 3301000,
       "area": 0,
-      "gdp": "2267.88",
-      "development": "0.652"
+      "gdp": "2828.45",
+      "development": "0.431"
     },
     {
       "name": "乌干达",
@@ -2284,8 +2284,8 @@
       "region": "Sub-Saharan Africa",
       "population": 44269594,
       "area": 0,
-      "gdp": "3657.12",
-      "development": "0.796"
+      "gdp": "2228.20",
+      "development": "0.477"
     },
     {
       "name": "古巴",
@@ -2302,8 +2302,8 @@
       "region": "Latin America & Caribbean",
       "population": 11333483,
       "area": 0,
-      "gdp": "1923.02",
-      "development": "0.407"
+      "gdp": "3484.54",
+      "development": "0.408"
     },
     {
       "name": "洪都拉斯",
@@ -2320,8 +2320,8 @@
       "region": "Latin America & Caribbean",
       "population": 9746117,
       "area": 0,
-      "gdp": "4687.03",
-      "development": "0.567"
+      "gdp": "2202.44",
+      "development": "0.905"
     },
     {
       "name": "厄瓜多尔",
@@ -2338,8 +2338,8 @@
       "region": "Latin America & Caribbean",
       "population": 17373662,
       "area": 0,
-      "gdp": "2986.12",
-      "development": "0.530"
+      "gdp": "1766.24",
+      "development": "0.455"
     },
     {
       "name": "哥伦比亚",
@@ -2356,8 +2356,8 @@
       "region": "Latin America & Caribbean",
       "population": 50339443,
       "area": 0,
-      "gdp": "328.85",
-      "development": "0.557"
+      "gdp": "809.59",
+      "development": "0.338"
     },
     {
       "name": "巴拉圭",
@@ -2374,8 +2374,8 @@
       "region": "Latin America & Caribbean",
       "population": 7044636,
       "area": 0,
-      "gdp": "583.13",
-      "development": "0.972"
+      "gdp": "811.30",
+      "development": "0.979"
     },
     {
       "name": "葡萄牙",
@@ -2392,8 +2392,8 @@
       "region": "Europe & Central Asia",
       "population": 10269417,
       "area": 0,
-      "gdp": "119.76",
-      "development": "0.308"
+      "gdp": "3531.47",
+      "development": "0.612"
     },
     {
       "name": "摩尔多瓦",
@@ -2410,8 +2410,8 @@
       "region": "Europe & Central Asia",
       "population": 2657637,
       "area": 0,
-      "gdp": "1306.95",
-      "development": "0.224"
+      "gdp": "3038.16",
+      "development": "0.537"
     },
     {
       "name": "土库曼斯坦",
@@ -2428,8 +2428,8 @@
       "region": "Europe & Central Asia",
       "population": 5942089,
       "area": 0,
-      "gdp": "2218.95",
-      "development": "0.846"
+      "gdp": "1102.17",
+      "development": "0.864"
     },
     {
       "name": "约旦",
@@ -2446,8 +2446,8 @@
       "region": "Middle East & North Africa",
       "population": 10101694,
       "area": 0,
-      "gdp": "2624.01",
-      "development": "0.374"
+      "gdp": "2342.73",
+      "development": "0.670"
     },
     {
       "name": "尼泊尔",
@@ -2464,8 +2464,8 @@
       "region": "South Asia",
       "population": 28608710,
       "area": 0,
-      "gdp": "941.67",
-      "development": "0.865"
+      "gdp": "2318.16",
+      "development": "0.264"
     },
     {
       "name": "莱索托",
@@ -2482,8 +2482,8 @@
       "region": "Sub-Saharan Africa",
       "population": 2125268,
       "area": 0,
-      "gdp": "741.72",
-      "development": "0.207"
+      "gdp": "4771.33",
+      "development": "0.825"
     },
     {
       "name": "喀麦隆",
@@ -2500,8 +2500,8 @@
       "region": "Sub-Saharan Africa",
       "population": 25876380,
       "area": 0,
-      "gdp": "4615.79",
-      "development": "0.850"
+      "gdp": "2770.75",
+      "development": "0.375"
     },
     {
       "name": "加蓬",
@@ -2518,8 +2518,8 @@
       "region": "Sub-Saharan Africa",
       "population": 2172579,
       "area": 0,
-      "gdp": "2182.58",
-      "development": "0.579"
+      "gdp": "3245.34",
+      "development": "0.958"
     },
     {
       "name": "尼日尔",
@@ -2536,8 +2536,8 @@
       "region": "Sub-Saharan Africa",
       "population": 23310715,
       "area": 0,
-      "gdp": "3190.15",
-      "development": "0.319"
+      "gdp": "1804.34",
+      "development": "0.383"
     },
     {
       "name": "布基纳法索",
@@ -2554,8 +2554,8 @@
       "region": "Sub-Saharan Africa",
       "population": 20321378,
       "area": 0,
-      "gdp": "4386.73",
-      "development": "0.342"
+      "gdp": "1294.70",
+      "development": "0.504"
     },
     {
       "name": "多哥",
@@ -2572,8 +2572,8 @@
       "region": "Sub-Saharan Africa",
       "population": 8082366,
       "area": 0,
-      "gdp": "3227.22",
-      "development": "0.439"
+      "gdp": "396.57",
+      "development": "0.558"
     },
     {
       "name": "加纳",
@@ -2590,8 +2590,8 @@
       "region": "Sub-Saharan Africa",
       "population": 30417856,
       "area": 0,
-      "gdp": "2039.12",
-      "development": "0.272"
+      "gdp": "3797.10",
+      "development": "0.939"
     },
     {
       "name": "几内亚比绍",
@@ -2608,8 +2608,8 @@
       "region": "Sub-Saharan Africa",
       "population": 1920922,
       "area": 0,
-      "gdp": "3749.36",
-      "development": "0.366"
+      "gdp": "2025.55",
+      "development": "0.764"
     },
     {
       "name": "Gibraltar",
@@ -2626,8 +2626,8 @@
       "region": "Europe & Central Asia",
       "population": 33701,
       "area": 0,
-      "gdp": "4740.16",
-      "development": "0.392"
+      "gdp": "4732.37",
+      "development": "0.472"
     },
     {
       "name": "美国",
@@ -2644,8 +2644,8 @@
       "region": "North America",
       "population": 328239523,
       "area": 0,
-      "gdp": "3271.65",
-      "development": "0.899"
+      "gdp": "487.16",
+      "development": "0.563"
     },
     {
       "name": "加拿大",
@@ -2662,8 +2662,8 @@
       "region": "North America",
       "population": 37589262,
       "area": 0,
-      "gdp": "1903.28",
-      "development": "0.288"
+      "gdp": "312.05",
+      "development": "0.413"
     },
     {
       "name": "墨西哥",
@@ -2680,8 +2680,8 @@
       "region": "Latin America & Caribbean",
       "population": 127575529,
       "area": 0,
-      "gdp": "3946.84",
-      "development": "0.727"
+      "gdp": "903.92",
+      "development": "0.225"
     },
     {
       "name": "伯利兹",
@@ -2698,8 +2698,8 @@
       "region": "Latin America & Caribbean",
       "population": 390353,
       "area": 0,
-      "gdp": "3215.27",
-      "development": "0.656"
+      "gdp": "3566.96",
+      "development": "0.907"
     },
     {
       "name": "巴拿马",
@@ -2716,8 +2716,8 @@
       "region": "Latin America & Caribbean",
       "population": 4246439,
       "area": 0,
-      "gdp": "388.15",
-      "development": "0.708"
+      "gdp": "4535.19",
+      "development": "0.928"
     },
     {
       "name": "委内瑞拉",
@@ -2734,8 +2734,8 @@
       "region": "Latin America & Caribbean",
       "population": 28515829,
       "area": 0,
-      "gdp": "2950.38",
-      "development": "0.241"
+      "gdp": "4520.03",
+      "development": "0.551"
     },
     {
       "name": "巴布亚新几内亚",
@@ -2752,8 +2752,8 @@
       "region": "East Asia & Pacific",
       "population": 8776109,
       "area": 0,
-      "gdp": "4213.35",
-      "development": "0.290"
+      "gdp": "4433.87",
+      "development": "0.247"
     },
     {
       "name": "埃及",
@@ -2770,8 +2770,8 @@
       "region": "Middle East & North Africa",
       "population": 100388073,
       "area": 0,
-      "gdp": "257.28",
-      "development": "0.367"
+      "gdp": "27.55",
+      "development": "0.641"
     },
     {
       "name": "也门",
@@ -2788,8 +2788,8 @@
       "region": "Middle East & North Africa",
       "population": 29161922,
       "area": 0,
-      "gdp": "4135.56",
-      "development": "0.432"
+      "gdp": "3273.00",
+      "development": "0.700"
     },
     {
       "name": "毛里塔尼亚",
@@ -2806,8 +2806,8 @@
       "region": "Sub-Saharan Africa",
       "population": 4525696,
       "area": 0,
-      "gdp": "4145.84",
-      "development": "0.902"
+      "gdp": "3318.60",
+      "development": "0.321"
     },
     {
       "name": "赤道几内亚",
@@ -2824,8 +2824,8 @@
       "region": "Sub-Saharan Africa",
       "population": 1355986,
       "area": 0,
-      "gdp": "4742.15",
-      "development": "0.660"
+      "gdp": "2549.97",
+      "development": "0.313"
     },
     {
       "name": "The Gambia",
@@ -2842,8 +2842,8 @@
       "region": "Sub-Saharan Africa",
       "population": 2347706,
       "area": 0,
-      "gdp": "92.75",
-      "development": "0.623"
+      "gdp": "3651.07",
+      "development": "0.416"
     },
     {
       "name": "Hong Kong",
@@ -2860,8 +2860,8 @@
       "region": "East Asia & Pacific",
       "population": 7507400,
       "area": 0,
-      "gdp": "4287.14",
-      "development": "0.321"
+      "gdp": "4689.57",
+      "development": "0.309"
     },
     {
       "name": "Vatican",
@@ -2878,8 +2878,8 @@
       "region": "Europe & Central Asia",
       "population": 825,
       "area": 0,
-      "gdp": "3435.68",
-      "development": "0.823"
+      "gdp": "639.32",
+      "development": "0.415"
     },
     {
       "name": "澳大利亚",
@@ -2896,8 +2896,8 @@
       "region": "East Asia & Pacific",
       "population": 25364307,
       "area": 0,
-      "gdp": "209.48",
-      "development": "0.970"
+      "gdp": "4697.24",
+      "development": "0.927"
     },
     {
       "name": "Greenland",
@@ -2914,8 +2914,8 @@
       "region": "Europe & Central Asia",
       "population": 56225,
       "area": 0,
-      "gdp": "3129.16",
-      "development": "0.529"
+      "gdp": "1762.60",
+      "development": "0.972"
     },
     {
       "name": "斐济",
@@ -2932,8 +2932,8 @@
       "region": "East Asia & Pacific",
       "population": 889953,
       "area": 0,
-      "gdp": "2405.89",
-      "development": "0.649"
+      "gdp": "1582.86",
+      "development": "0.717"
     },
     {
       "name": "新西兰",
@@ -2950,8 +2950,8 @@
       "region": "East Asia & Pacific",
       "population": 4917000,
       "area": 0,
-      "gdp": "346.28",
-      "development": "0.256"
+      "gdp": "3677.01",
+      "development": "0.396"
     },
     {
       "name": "New Caledonia",
@@ -2968,8 +2968,8 @@
       "region": "East Asia & Pacific",
       "population": 287800,
       "area": 0,
-      "gdp": "2642.62",
-      "development": "0.660"
+      "gdp": "1891.22",
+      "development": "0.317"
     },
     {
       "name": "马达加斯加",
@@ -2986,8 +2986,8 @@
       "region": "Sub-Saharan Africa",
       "population": 26969307,
       "area": 0,
-      "gdp": "296.52",
-      "development": "0.555"
+      "gdp": "1592.49",
+      "development": "0.760"
     },
     {
       "name": "菲律宾",
@@ -3004,8 +3004,8 @@
       "region": "East Asia & Pacific",
       "population": 108116615,
       "area": 0,
-      "gdp": "4381.62",
-      "development": "0.607"
+      "gdp": "3594.89",
+      "development": "0.689"
     },
     {
       "name": "斯里兰卡",
@@ -3022,8 +3022,8 @@
       "region": "South Asia",
       "population": 21803000,
       "area": 0,
-      "gdp": "1267.66",
-      "development": "0.241"
+      "gdp": "2899.05",
+      "development": "0.391"
     },
     {
       "name": "Curaçao",
@@ -3040,8 +3040,8 @@
       "region": "Latin America & Caribbean",
       "population": 157538,
       "area": 0,
-      "gdp": "1910.09",
-      "development": "0.981"
+      "gdp": "1004.78",
+      "development": "0.767"
     },
     {
       "name": "Aruba",
@@ -3058,8 +3058,8 @@
       "region": "Latin America & Caribbean",
       "population": 106314,
       "area": 0,
-      "gdp": "2695.13",
-      "development": "0.757"
+      "gdp": "3419.17",
+      "development": "0.724"
     },
     {
       "name": "巴哈马",
@@ -3076,8 +3076,8 @@
       "region": "Latin America & Caribbean",
       "population": 389482,
       "area": 0,
-      "gdp": "2158.98",
-      "development": "0.400"
+      "gdp": "904.28",
+      "development": "0.566"
     },
     {
       "name": "Turks and Caicos Islands",
@@ -3094,8 +3094,8 @@
       "region": "Latin America & Caribbean",
       "population": 38191,
       "area": 0,
-      "gdp": "3266.83",
-      "development": "0.336"
+      "gdp": "4702.70",
+      "development": "0.865"
     },
     {
       "name": "日本",
@@ -3112,8 +3112,8 @@
       "region": "East Asia & Pacific",
       "population": 126264931,
       "area": 0,
-      "gdp": "4743.34",
-      "development": "0.634"
+      "gdp": "914.91",
+      "development": "0.448"
     },
     {
       "name": "Saint Pierre and Miquelon",
@@ -3130,8 +3130,8 @@
       "region": "North America",
       "population": 5997,
       "area": 0,
-      "gdp": "3880.47",
-      "development": "0.599"
+      "gdp": "149.86",
+      "development": "0.363"
     },
     {
       "name": "冰岛",
@@ -3148,8 +3148,8 @@
       "region": "Europe & Central Asia",
       "population": 361313,
       "area": 0,
-      "gdp": "2866.91",
-      "development": "0.222"
+      "gdp": "4151.77",
+      "development": "0.680"
     },
     {
       "name": "Pitcairn Islands",
@@ -3166,8 +3166,8 @@
       "region": "East Asia & Pacific",
       "population": 54,
       "area": 0,
-      "gdp": "2572.09",
-      "development": "0.402"
+      "gdp": "2753.08",
+      "development": "0.351"
     },
     {
       "name": "French Polynesia",
@@ -3184,8 +3184,8 @@
       "region": "East Asia & Pacific",
       "population": 279287,
       "area": 0,
-      "gdp": "4008.51",
-      "development": "0.379"
+      "gdp": "298.64",
+      "development": "0.965"
     },
     {
       "name": "French Southern and Antarctic Lands",
@@ -3202,8 +3202,8 @@
       "region": "Sub-Saharan Africa",
       "population": 140,
       "area": 0,
-      "gdp": "3246.13",
-      "development": "0.392"
+      "gdp": "2178.71",
+      "development": "0.824"
     },
     {
       "name": "塞舌尔",
@@ -3220,8 +3220,8 @@
       "region": "Sub-Saharan Africa",
       "population": 97625,
       "area": 0,
-      "gdp": "2831.67",
-      "development": "0.633"
+      "gdp": "121.60",
+      "development": "0.480"
     },
     {
       "name": "基里巴斯",
@@ -3238,8 +3238,8 @@
       "region": "East Asia & Pacific",
       "population": 117606,
       "area": 0,
-      "gdp": "3919.57",
-      "development": "0.908"
+      "gdp": "2770.96",
+      "development": "0.857"
     },
     {
       "name": "马绍尔群岛",
@@ -3256,8 +3256,8 @@
       "region": "East Asia & Pacific",
       "population": 58791,
       "area": 0,
-      "gdp": "621.04",
-      "development": "0.242"
+      "gdp": "3548.13",
+      "development": "0.701"
     },
     {
       "name": "特立尼达和多巴哥",
@@ -3274,8 +3274,8 @@
       "region": "Latin America & Caribbean",
       "population": 1394973,
       "area": 0,
-      "gdp": "50.44",
-      "development": "0.392"
+      "gdp": "711.77",
+      "development": "0.518"
     },
     {
       "name": "格林纳达",
@@ -3292,8 +3292,8 @@
       "region": "Latin America & Caribbean",
       "population": 112003,
       "area": 0,
-      "gdp": "2981.88",
-      "development": "0.382"
+      "gdp": "750.36",
+      "development": "0.594"
     },
     {
       "name": "圣文森特和格林纳丁斯",
@@ -3310,8 +3310,8 @@
       "region": "Latin America & Caribbean",
       "population": 110589,
       "area": 0,
-      "gdp": "4915.21",
-      "development": "0.404"
+      "gdp": "2011.03",
+      "development": "0.534"
     },
     {
       "name": "巴巴多斯",
@@ -3328,8 +3328,8 @@
       "region": "Latin America & Caribbean",
       "population": 287025,
       "area": 0,
-      "gdp": "404.06",
-      "development": "0.998"
+      "gdp": "3814.73",
+      "development": "0.578"
     },
     {
       "name": "圣卢西亚",
@@ -3346,8 +3346,8 @@
       "region": "Latin America & Caribbean",
       "population": 182790,
       "area": 0,
-      "gdp": "3168.77",
-      "development": "0.312"
+      "gdp": "1214.48",
+      "development": "0.653"
     },
     {
       "name": "多米尼克",
@@ -3364,8 +3364,8 @@
       "region": "Latin America & Caribbean",
       "population": 71808,
       "area": 0,
-      "gdp": "4511.04",
-      "development": "0.334"
+      "gdp": "4879.96",
+      "development": "0.975"
     },
     {
       "name": "United States Minor Outlying Islands",
@@ -3382,8 +3382,8 @@
       "region": "East Asia & Pacific",
       "population": 300,
       "area": 0,
-      "gdp": "107.16",
-      "development": "0.616"
+      "gdp": "4262.74",
+      "development": "0.407"
     },
     {
       "name": "Montserrat",
@@ -3400,8 +3400,8 @@
       "region": "Latin America & Caribbean",
       "population": 4649,
       "area": 0,
-      "gdp": "3279.81",
-      "development": "0.638"
+      "gdp": "1414.85",
+      "development": "0.410"
     },
     {
       "name": "安提瓜和巴布达",
@@ -3418,8 +3418,8 @@
       "region": "Latin America & Caribbean",
       "population": 97118,
       "area": 0,
-      "gdp": "3845.64",
-      "development": "0.433"
+      "gdp": "1741.57",
+      "development": "0.302"
     },
     {
       "name": "圣基茨和尼维斯",
@@ -3436,8 +3436,8 @@
       "region": "Latin America & Caribbean",
       "population": 52834,
       "area": 0,
-      "gdp": "3752.65",
-      "development": "0.754"
+      "gdp": "3995.94",
+      "development": "0.811"
     },
     {
       "name": "United States Virgin Islands",
@@ -3454,8 +3454,8 @@
       "region": "Latin America & Caribbean",
       "population": 106631,
       "area": 0,
-      "gdp": "3933.76",
-      "development": "0.933"
+      "gdp": "1562.03",
+      "development": "0.677"
     },
     {
       "name": "Saint-Barthélemy",
@@ -3472,8 +3472,8 @@
       "region": "Latin America & Caribbean",
       "population": 9961,
       "area": 0,
-      "gdp": "3751.76",
-      "development": "0.293"
+      "gdp": "3508.82",
+      "development": "0.528"
     },
     {
       "name": "Puerto Rico",
@@ -3490,8 +3490,8 @@
       "region": "Latin America & Caribbean",
       "population": 3193694,
       "area": 0,
-      "gdp": "732.85",
-      "development": "0.487"
+      "gdp": "3077.52",
+      "development": "0.336"
     },
     {
       "name": "Anguilla",
@@ -3508,8 +3508,8 @@
       "region": "Latin America & Caribbean",
       "population": 14731,
       "area": 0,
-      "gdp": "1962.82",
-      "development": "0.546"
+      "gdp": "3124.69",
+      "development": "0.953"
     },
     {
       "name": "British Virgin Islands",
@@ -3526,8 +3526,8 @@
       "region": "Latin America & Caribbean",
       "population": 30030,
       "area": 0,
-      "gdp": "1690.57",
-      "development": "0.954"
+      "gdp": "3794.27",
+      "development": "0.456"
     },
     {
       "name": "牙买加",
@@ -3544,8 +3544,8 @@
       "region": "Latin America & Caribbean",
       "population": 2948279,
       "area": 0,
-      "gdp": "2264.69",
-      "development": "0.844"
+      "gdp": "2571.23",
+      "development": "0.351"
     },
     {
       "name": "Cayman Islands",
@@ -3562,8 +3562,8 @@
       "region": "Latin America & Caribbean",
       "population": 64948,
       "area": 0,
-      "gdp": "4439.33",
-      "development": "0.753"
+      "gdp": "3448.97",
+      "development": "0.421"
     },
     {
       "name": "Bermuda",
@@ -3580,8 +3580,8 @@
       "region": "North America",
       "population": 63918,
       "area": 0,
-      "gdp": "1709.95",
-      "development": "0.669"
+      "gdp": "2594.74",
+      "development": "0.633"
     },
     {
       "name": "Heard I. and McDonald Islands",
@@ -3598,8 +3598,8 @@
       "region": "Sub-Saharan Africa",
       "population": 0,
       "area": 0,
-      "gdp": "1198.10",
-      "development": "0.983"
+      "gdp": "3656.39",
+      "development": "0.344"
     },
     {
       "name": "Saint Helena",
@@ -3616,8 +3616,8 @@
       "region": "Sub-Saharan Africa",
       "population": 4534,
       "area": 0,
-      "gdp": "3462.92",
-      "development": "0.292"
+      "gdp": "1754.21",
+      "development": "0.766"
     },
     {
       "name": "毛里求斯",
@@ -3634,8 +3634,8 @@
       "region": "Sub-Saharan Africa",
       "population": 1265711,
       "area": 0,
-      "gdp": "4721.03",
-      "development": "0.882"
+      "gdp": "114.73",
+      "development": "0.436"
     },
     {
       "name": "科摩罗",
@@ -3652,8 +3652,8 @@
       "region": "Sub-Saharan Africa",
       "population": 850886,
       "area": 0,
-      "gdp": "2387.57",
-      "development": "0.559"
+      "gdp": "3195.12",
+      "development": "0.667"
     },
     {
       "name": "São Tomé and Principe",
@@ -3670,8 +3670,8 @@
       "region": "Sub-Saharan Africa",
       "population": 215056,
       "area": 0,
-      "gdp": "560.29",
-      "development": "0.485"
+      "gdp": "2813.92",
+      "development": "0.828"
     },
     {
       "name": "Republic of Cabo Verde",
@@ -3688,8 +3688,8 @@
       "region": "Sub-Saharan Africa",
       "population": 549935,
       "area": 0,
-      "gdp": "123.45",
-      "development": "0.645"
+      "gdp": "3332.27",
+      "development": "0.902"
     },
     {
       "name": "马耳他",
@@ -3706,8 +3706,8 @@
       "region": "Middle East & North Africa",
       "population": 502653,
       "area": 0,
-      "gdp": "4680.02",
-      "development": "0.579"
+      "gdp": "2008.12",
+      "development": "0.394"
     },
     {
       "name": "Jersey",
@@ -3724,8 +3724,8 @@
       "region": "Europe & Central Asia",
       "population": 107800,
       "area": 0,
-      "gdp": "2620.89",
-      "development": "0.491"
+      "gdp": "2905.09",
+      "development": "0.916"
     },
     {
       "name": "Guernsey",
@@ -3742,8 +3742,8 @@
       "region": "Europe & Central Asia",
       "population": 62792,
       "area": 0,
-      "gdp": "1372.49",
-      "development": "0.682"
+      "gdp": "4658.59",
+      "development": "0.550"
     },
     {
       "name": "Isle of Man",
@@ -3760,8 +3760,8 @@
       "region": "Europe & Central Asia",
       "population": 84584,
       "area": 0,
-      "gdp": "2890.71",
-      "development": "0.212"
+      "gdp": "1417.01",
+      "development": "0.842"
     },
     {
       "name": "Åland Islands",
@@ -3778,8 +3778,8 @@
       "region": "Europe & Central Asia",
       "population": 29884,
       "area": 0,
-      "gdp": "2654.63",
-      "development": "0.851"
+      "gdp": "4355.71",
+      "development": "0.963"
     },
     {
       "name": "Faeroe Islands",
@@ -3796,8 +3796,8 @@
       "region": "Europe & Central Asia",
       "population": 48678,
       "area": 0,
-      "gdp": "4427.25",
-      "development": "0.360"
+      "gdp": "4146.40",
+      "development": "0.965"
     },
     {
       "name": "British Indian Ocean Territory",
@@ -3814,8 +3814,8 @@
       "region": "Sub-Saharan Africa",
       "population": 3000,
       "area": 0,
-      "gdp": "1802.14",
-      "development": "0.264"
+      "gdp": "3218.17",
+      "development": "0.330"
     },
     {
       "name": "新加坡",
@@ -3832,8 +3832,8 @@
       "region": "East Asia & Pacific",
       "population": 5703569,
       "area": 0,
-      "gdp": "4125.21",
-      "development": "0.989"
+      "gdp": "2048.65",
+      "development": "0.857"
     },
     {
       "name": "Norfolk Island",
@@ -3850,8 +3850,8 @@
       "region": "East Asia & Pacific",
       "population": 2169,
       "area": 0,
-      "gdp": "195.39",
-      "development": "0.389"
+      "gdp": "3783.38",
+      "development": "0.961"
     },
     {
       "name": "Cook Islands",
@@ -3868,8 +3868,8 @@
       "region": "East Asia & Pacific",
       "population": 17459,
       "area": 0,
-      "gdp": "615.03",
-      "development": "0.447"
+      "gdp": "4879.80",
+      "development": "0.612"
     },
     {
       "name": "汤加",
@@ -3886,8 +3886,8 @@
       "region": "East Asia & Pacific",
       "population": 104494,
       "area": 0,
-      "gdp": "693.08",
-      "development": "0.830"
+      "gdp": "4023.32",
+      "development": "0.687"
     },
     {
       "name": "Wallis and Futuna Islands",
@@ -3904,8 +3904,8 @@
       "region": "East Asia & Pacific",
       "population": 11558,
       "area": 0,
-      "gdp": "3186.61",
-      "development": "0.684"
+      "gdp": "2517.92",
+      "development": "0.699"
     },
     {
       "name": "萨摩亚",
@@ -3922,8 +3922,8 @@
       "region": "East Asia & Pacific",
       "population": 197097,
       "area": 0,
-      "gdp": "697.19",
-      "development": "0.257"
+      "gdp": "551.81",
+      "development": "0.766"
     },
     {
       "name": "所罗门群岛",
@@ -3940,8 +3940,8 @@
       "region": "East Asia & Pacific",
       "population": 669823,
       "area": 0,
-      "gdp": "2955.16",
-      "development": "0.866"
+      "gdp": "1480.89",
+      "development": "0.908"
     },
     {
       "name": "图瓦卢",
@@ -3958,8 +3958,8 @@
       "region": "East Asia & Pacific",
       "population": 11646,
       "area": 0,
-      "gdp": "4092.65",
-      "development": "0.898"
+      "gdp": "4247.31",
+      "development": "0.974"
     },
     {
       "name": "马尔代夫",
@@ -3976,8 +3976,8 @@
       "region": "South Asia",
       "population": 530953,
       "area": 0,
-      "gdp": "194.83",
-      "development": "0.253"
+      "gdp": "4273.59",
+      "development": "0.889"
     },
     {
       "name": "瑙鲁",
@@ -3994,8 +3994,8 @@
       "region": "East Asia & Pacific",
       "population": 12581,
       "area": 0,
-      "gdp": "1381.65",
-      "development": "0.384"
+      "gdp": "1799.85",
+      "development": "0.687"
     },
     {
       "name": "Federated States of Micronesia",
@@ -4012,8 +4012,8 @@
       "region": "East Asia & Pacific",
       "population": 113815,
       "area": 0,
-      "gdp": "2880.54",
-      "development": "0.399"
+      "gdp": "4770.65",
+      "development": "0.931"
     },
     {
       "name": "South Georgia and the Islands",
@@ -4030,8 +4030,8 @@
       "region": "Antarctica",
       "population": 30,
       "area": 0,
-      "gdp": "3123.22",
-      "development": "0.342"
+      "gdp": "1608.49",
+      "development": "0.550"
     },
     {
       "name": "Falkland Islands / Malvinas",
@@ -4048,8 +4048,8 @@
       "region": "Latin America & Caribbean",
       "population": 3398,
       "area": 0,
-      "gdp": "1774.37",
-      "development": "0.472"
+      "gdp": "232.38",
+      "development": "0.875"
     },
     {
       "name": "瓦努阿图",
@@ -4066,8 +4066,8 @@
       "region": "East Asia & Pacific",
       "population": 299882,
       "area": 0,
-      "gdp": "3256.28",
-      "development": "0.974"
+      "gdp": "991.18",
+      "development": "0.756"
     },
     {
       "name": "Niue",
@@ -4084,8 +4084,8 @@
       "region": "East Asia & Pacific",
       "population": 1620,
       "area": 0,
-      "gdp": "24.25",
-      "development": "0.999"
+      "gdp": "1603.04",
+      "development": "0.245"
     },
     {
       "name": "American Samoa",
@@ -4102,8 +4102,8 @@
       "region": "East Asia & Pacific",
       "population": 55312,
       "area": 0,
-      "gdp": "2379.30",
-      "development": "0.318"
+      "gdp": "110.58",
+      "development": "0.536"
     },
     {
       "name": "帕劳",
@@ -4120,8 +4120,8 @@
       "region": "East Asia & Pacific",
       "population": 18008,
       "area": 0,
-      "gdp": "416.80",
-      "development": "0.599"
+      "gdp": "1462.79",
+      "development": "0.268"
     },
     {
       "name": "Guam",
@@ -4138,8 +4138,8 @@
       "region": "East Asia & Pacific",
       "population": 167294,
       "area": 0,
-      "gdp": "2424.00",
-      "development": "0.219"
+      "gdp": "2088.38",
+      "development": "0.486"
     },
     {
       "name": "Northern Mariana Islands",
@@ -4156,8 +4156,8 @@
       "region": "East Asia & Pacific",
       "population": 57216,
       "area": 0,
-      "gdp": "3500.68",
-      "development": "0.443"
+      "gdp": "2729.69",
+      "development": "0.510"
     },
     {
       "name": "巴林",
@@ -4174,8 +4174,8 @@
       "region": "Middle East & North Africa",
       "population": 1641172,
       "area": 0,
-      "gdp": "397.77",
-      "development": "0.987"
+      "gdp": "2440.51",
+      "development": "0.737"
     },
     {
       "name": "Macao",
@@ -4192,8 +4192,8 @@
       "region": "East Asia & Pacific",
       "population": 640445,
       "area": 0,
-      "gdp": "2933.88",
-      "development": "0.538"
+      "gdp": "2084.14",
+      "development": "0.828"
     }
   ]
 }

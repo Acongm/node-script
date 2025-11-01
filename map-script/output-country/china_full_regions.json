@@ -1,0 +1,865 @@
+{
+  "country": {
+    "adcode": "100000",
+    "name": "中国",
+    "level": "country"
+  },
+  "provinces": [
+    {
+      "adcode": 110000,
+      "name": "北京市",
+      "center": [
+        116.405285,
+        39.904989
+      ],
+      "centroid": [
+        116.41995,
+        40.18994
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 120000,
+      "name": "天津市",
+      "center": [
+        117.190182,
+        39.125596
+      ],
+      "centroid": [
+        117.347043,
+        39.288036
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 130000,
+      "name": "河北省",
+      "center": [
+        114.502461,
+        38.045474
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 140000,
+      "name": "山西省",
+      "center": [
+        112.549248,
+        37.857014
+      ],
+      "centroid": [
+        112.304436,
+        37.618179
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 150000,
+      "name": "内蒙古自治区",
+      "center": [
+        111.670801,
+        40.818311
+      ],
+      "centroid": [
+        114.077429,
+        44.331087
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 210000,
+      "name": "辽宁省",
+      "center": [
+        123.429096,
+        41.796767
+      ],
+      "centroid": [
+        122.604994,
+        41.299712
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 220000,
+      "name": "吉林省",
+      "center": [
+        125.3245,
+        43.886841
+      ],
+      "centroid": [
+        126.171208,
+        43.703954
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 230000,
+      "name": "黑龙江省",
+      "center": [
+        126.642464,
+        45.756967
+      ],
+      "centroid": [
+        127.693027,
+        48.040465
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 310000,
+      "name": "上海市",
+      "center": [
+        121.472644,
+        31.231706
+      ],
+      "centroid": [
+        121.438737,
+        31.072559
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 320000,
+      "name": "江苏省",
+      "center": [
+        118.767413,
+        32.041544
+      ],
+      "centroid": [
+        119.486506,
+        32.983991
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 330000,
+      "name": "浙江省",
+      "center": [
+        120.153576,
+        30.287459
+      ],
+      "centroid": [
+        120.109913,
+        29.181466
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 340000,
+      "name": "安徽省",
+      "center": [
+        117.283042,
+        31.86119
+      ],
+      "centroid": [
+        117.226884,
+        31.849254
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 350000,
+      "name": "福建省",
+      "center": [
+        119.306239,
+        26.075302
+      ],
+      "centroid": [
+        118.006468,
+        26.069925
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 360000,
+      "name": "江西省",
+      "center": [
+        115.892151,
+        28.676493
+      ],
+      "centroid": [
+        115.732975,
+        27.636112
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 370000,
+      "name": "山东省",
+      "center": [
+        117.000923,
+        36.675807
+      ],
+      "centroid": [
+        118.187759,
+        36.376092
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 410000,
+      "name": "河南省",
+      "center": [
+        113.665412,
+        34.757975
+      ],
+      "centroid": [
+        113.619717,
+        33.902648
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 420000,
+      "name": "湖北省",
+      "center": [
+        114.298572,
+        30.584355
+      ],
+      "centroid": [
+        112.271301,
+        30.987527
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 430000,
+      "name": "湖南省",
+      "center": [
+        112.982279,
+        28.19409
+      ],
+      "centroid": [
+        111.711649,
+        27.629216
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 440000,
+      "name": "广东省",
+      "center": [
+        113.280637,
+        23.125178
+      ],
+      "centroid": [
+        113.429919,
+        23.334643
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 450000,
+      "name": "广西壮族自治区",
+      "center": [
+        108.320004,
+        22.82402
+      ],
+      "centroid": [
+        108.7944,
+        23.833381
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 460000,
+      "name": "海南省",
+      "center": [
+        110.33119,
+        20.031971
+      ],
+      "centroid": [
+        109.754859,
+        19.189767
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 500000,
+      "name": "重庆市",
+      "center": [
+        106.504962,
+        29.533155
+      ],
+      "centroid": [
+        107.8839,
+        30.067297
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 510000,
+      "name": "四川省",
+      "center": [
+        104.065735,
+        30.659462
+      ],
+      "centroid": [
+        102.693453,
+        30.674545
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 520000,
+      "name": "贵州省",
+      "center": [
+        106.713478,
+        26.578343
+      ],
+      "centroid": [
+        106.880455,
+        26.826368
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 530000,
+      "name": "云南省",
+      "center": [
+        102.712251,
+        25.040609
+      ],
+      "centroid": [
+        101.485106,
+        25.008643
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 540000,
+      "name": "西藏自治区",
+      "center": [
+        91.132212,
+        29.660361
+      ],
+      "centroid": [
+        88.388277,
+        31.56375
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 610000,
+      "name": "陕西省",
+      "center": [
+        108.948024,
+        34.263161
+      ],
+      "centroid": [
+        108.887114,
+        35.263661
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 620000,
+      "name": "甘肃省",
+      "center": [
+        103.823557,
+        36.058039
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 630000,
+      "name": "青海省",
+      "center": [
+        101.778916,
+        36.623178
+      ],
+      "centroid": [
+        96.043533,
+        35.726403
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 640000,
+      "name": "宁夏回族自治区",
+      "center": [
+        106.278179,
+        38.46637
+      ],
+      "centroid": [
+        106.169866,
+        37.291332
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 650000,
+      "name": "新疆维吾尔自治区",
+      "center": [
+        87.617733,
+        43.792818
+      ],
+      "centroid": [
+        85.294711,
+        41.371801
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 710000,
+      "name": "台湾省",
+      "center": [
+        121.509062,
+        25.044332
+      ],
+      "centroid": [
+        120.971485,
+        23.749452
+      ],
+      "level": "province",
+      "cities": []
+    },
+    {
+      "adcode": 810000,
+      "name": "香港特别行政区",
+      "center": [
+        114.173355,
+        22.320048
+      ],
+      "centroid": [
+        114.134357,
+        22.377366
+      ],
+      "level": "province",
+      "cities": [
+        {
+          "adcode": 810001,
+          "name": "中西区",
+          "center": [
+            114.1543731,
+            22.28198083
+          ],
+          "centroid": [
+            114.152342,
+            22.274164
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810002,
+          "name": "湾仔区",
+          "center": [
+            114.1829153,
+            22.27638889
+          ],
+          "centroid": [
+            114.189433,
+            22.266406
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810003,
+          "name": "东区",
+          "center": [
+            114.2260031,
+            22.27969306
+          ],
+          "centroid": [
+            114.227107,
+            22.270314
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810004,
+          "name": "南区",
+          "center": [
+            114.1600117,
+            22.24589667
+          ],
+          "centroid": [
+            114.206983,
+            22.23293
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810005,
+          "name": "油尖旺区",
+          "center": [
+            114.1733317,
+            22.31170389
+          ],
+          "centroid": [
+            114.172222,
+            22.303469
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810006,
+          "name": "深水埗区",
+          "center": [
+            114.1632417,
+            22.33385417
+          ],
+          "centroid": [
+            114.156935,
+            22.328966
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810007,
+          "name": "九龙城区",
+          "center": [
+            114.1928467,
+            22.31251
+          ],
+          "centroid": [
+            114.197767,
+            22.314545
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810008,
+          "name": "黄大仙区",
+          "center": [
+            114.2038856,
+            22.33632056
+          ],
+          "centroid": [
+            114.20974,
+            22.341657
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810009,
+          "name": "观塘区",
+          "center": [
+            114.2140542,
+            22.32083778
+          ],
+          "centroid": [
+            114.230773,
+            22.309542
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810010,
+          "name": "荃湾区",
+          "center": [
+            114.1210792,
+            22.36830667
+          ],
+          "centroid": [
+            114.086798,
+            22.365421
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810011,
+          "name": "屯门区",
+          "center": [
+            113.9765742,
+            22.39384417
+          ],
+          "centroid": [
+            113.979886,
+            22.388499
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810012,
+          "name": "元朗区",
+          "center": [
+            114.0324381,
+            22.44142833
+          ],
+          "centroid": [
+            114.047174,
+            22.445964
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810013,
+          "name": "北区",
+          "center": [
+            114.1473639,
+            22.49610389
+          ],
+          "centroid": [
+            114.182122,
+            22.510784
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810014,
+          "name": "大埔区",
+          "center": [
+            114.1717431,
+            22.44565306
+          ],
+          "centroid": [
+            114.205562,
+            22.458868
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810015,
+          "name": "西贡区",
+          "center": [
+            114.264645,
+            22.31421306
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810016,
+          "name": "沙田区",
+          "center": [
+            114.1953653,
+            22.37953167
+          ],
+          "centroid": [
+            114.207032,
+            22.386019
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810017,
+          "name": "葵青区",
+          "center": [
+            114.1393194,
+            22.36387667
+          ],
+          "centroid": [
+            114.118692,
+            22.34175
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        },
+        {
+          "adcode": 810018,
+          "name": "离岛区",
+          "center": [
+            113.94612,
+            22.28640778
+          ],
+          "centroid": [
+            113.944813,
+            22.260175
+          ],
+          "level": "city",
+          "parent": 810000,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "adcode": 820000,
+      "name": "澳门特别行政区",
+      "center": [
+        113.54909,
+        22.198951
+      ],
+      "centroid": [
+        113.566988,
+        22.159307
+      ],
+      "level": "province",
+      "cities": [
+        {
+          "adcode": 820001,
+          "name": "花地玛堂区",
+          "center": [
+            113.5528956,
+            22.20787
+          ],
+          "centroid": [
+            113.561427,
+            22.201995
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        },
+        {
+          "adcode": 820002,
+          "name": "花王堂区",
+          "center": [
+            113.5489608,
+            22.1992075
+          ],
+          "centroid": [
+            113.546753,
+            22.198828
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        },
+        {
+          "adcode": 820003,
+          "name": "望德堂区",
+          "center": [
+            113.5501828,
+            22.19372083
+          ],
+          "centroid": [
+            113.554545,
+            22.195889
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        },
+        {
+          "adcode": 820004,
+          "name": "大堂区",
+          "center": [
+            113.5536475,
+            22.18853944
+          ],
+          "centroid": [
+            113.557955,
+            22.17835
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        },
+        {
+          "adcode": 820005,
+          "name": "风顺堂区",
+          "center": [
+            113.5419278,
+            22.18736806
+          ],
+          "centroid": [
+            113.539116,
+            22.185895
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        },
+        {
+          "adcode": 820006,
+          "name": "嘉模堂区",
+          "center": [
+            113.5587044,
+            22.15375944
+          ],
+          "centroid": [
+            113.573356,
+            22.157677
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        },
+        {
+          "adcode": 820007,
+          "name": "路凼填海区",
+          "center": [
+            113.5695992,
+            22.13663
+          ],
+          "centroid": [
+            113.56766,
+            22.139899
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        },
+        {
+          "adcode": 820008,
+          "name": "圣方济各堂区",
+          "center": [
+            113.5599542,
+            22.12348639
+          ],
+          "centroid": [
+            113.577403,
+            22.123389
+          ],
+          "level": "city",
+          "parent": 820000,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

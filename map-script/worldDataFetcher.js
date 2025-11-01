@@ -1,7 +1,7 @@
 const https = require('https');
 const fs = require('fs-extra');
 const JSONStream = require('JSONStream');
-// const { Writable } = require('stream');
+const rawData = require('./utils/raw-natural-earth-10m.json');
 
 class WorldDataFetcher {
   constructor() {
@@ -32,9 +32,9 @@ class WorldDataFetcher {
         console.log(`📡 尝试数据源: ${source.name}`);
         console.log(`   ${source.description}`);
 
-        // const data = await this.fetchFromSource(source.url);
-        const data = await this.fetchLargeJsonStream(source.url);
-        
+        const data = await this.fetchFromSource(source.url);
+        // const data = await this.fetchLargeJsonStream(source.url);
+
 
         if (data && data.features && data.features.length > 0) {
           console.log(`✅ 成功获取 ${data.features.length} 个国家数据`);
@@ -585,7 +585,8 @@ class WorldDataFetcher {
 const fetcher = new WorldDataFetcher();
 
 async function fetchCompleteWorldData () {
-  const data = await fetcher.fetchCompleteWorldData();
+  // const data = await fetcher.fetchCompleteWorldData();
+  const data = fetcher.processGeoJSONData(rawData);
   return await fetcher.saveProcessedData(data);
 }
 
