@@ -1,0 +1,979 @@
+{
+  "title": {
+    "text": "世界国家数据地图",
+    "subtext": "包含 233 个国家",
+    "left": "center"
+  },
+  "tooltip": {
+    "trigger": "item"
+  },
+  "visualMap": {
+    "type": "continuous",
+    "min": 0,
+    "max": 100,
+    "calculable": true,
+    "inRange": {
+      "color": [
+        "#4575b4",
+        "#74add1",
+        "#abd9e9",
+        "#e0f3f8",
+        "#ffffbf",
+        "#fee090",
+        "#fdae61",
+        "#f46d43",
+        "#d73027"
+      ]
+    },
+    "textStyle": {
+      "color": "#fff"
+    }
+  },
+  "series": [
+    {
+      "name": "国家数据",
+      "type": "map",
+      "map": "world",
+      "roam": true,
+      "emphasis": {
+        "label": {
+          "show": true
+        }
+      },
+      "data": [
+        {
+          "name": "印度尼西亚",
+          "value": 100
+        },
+        {
+          "name": "马来西亚",
+          "value": 100
+        },
+        {
+          "name": "智利",
+          "value": 100
+        },
+        {
+          "name": "玻利维亚",
+          "value": 100
+        },
+        {
+          "name": "秘鲁",
+          "value": 100
+        },
+        {
+          "name": "阿根廷",
+          "value": 100
+        },
+        {
+          "name": "塞浦路斯",
+          "value": 100
+        },
+        {
+          "name": "印度",
+          "value": 100
+        },
+        {
+          "name": "中国",
+          "value": 100
+        },
+        {
+          "name": "以色列",
+          "value": 100
+        },
+        {
+          "name": "黎巴嫩",
+          "value": 100
+        },
+        {
+          "name": "埃塞俄比亚",
+          "value": 100
+        },
+        {
+          "name": "南苏丹",
+          "value": 100
+        },
+        {
+          "name": "索马里",
+          "value": 100
+        },
+        {
+          "name": "肯尼亚",
+          "value": 100
+        },
+        {
+          "name": "马拉维",
+          "value": 100
+        },
+        {
+          "name": "坦桑尼亚",
+          "value": 100
+        },
+        {
+          "name": "叙利亚",
+          "value": 100
+        },
+        {
+          "name": "苏里南",
+          "value": 100
+        },
+        {
+          "name": "圭亚那",
+          "value": 100
+        },
+        {
+          "name": "Republic of Korea",
+          "value": 100
+        },
+        {
+          "name": "Dem. Rep. Korea",
+          "value": 100
+        },
+        {
+          "name": "摩洛哥",
+          "value": 100
+        },
+        {
+          "name": "Western Sahara",
+          "value": 100
+        },
+        {
+          "name": "哥斯达黎加",
+          "value": 100
+        },
+        {
+          "name": "尼加拉瓜",
+          "value": 100
+        },
+        {
+          "name": "Republic of the Congo",
+          "value": 100
+        },
+        {
+          "name": "刚果民主共和国",
+          "value": 100
+        },
+        {
+          "name": "不丹",
+          "value": 100
+        },
+        {
+          "name": "乌克兰",
+          "value": 100
+        },
+        {
+          "name": "白俄罗斯",
+          "value": 100
+        },
+        {
+          "name": "纳米比亚",
+          "value": 100
+        },
+        {
+          "name": "南非",
+          "value": 100
+        },
+        {
+          "name": "Saint-Martin",
+          "value": 100
+        },
+        {
+          "name": "Sint Maarten",
+          "value": 100
+        },
+        {
+          "name": "阿曼",
+          "value": 100
+        },
+        {
+          "name": "乌兹别克斯坦",
+          "value": 100
+        },
+        {
+          "name": "哈萨克斯坦",
+          "value": 100
+        },
+        {
+          "name": "塔吉克斯坦",
+          "value": 100
+        },
+        {
+          "name": "立陶宛",
+          "value": 100
+        },
+        {
+          "name": "巴西",
+          "value": 100
+        },
+        {
+          "name": "乌拉圭",
+          "value": 100
+        },
+        {
+          "name": "蒙古",
+          "value": 100
+        },
+        {
+          "name": "Russian Federation",
+          "value": 100
+        },
+        {
+          "name": "Czech Republic",
+          "value": 100
+        },
+        {
+          "name": "德国",
+          "value": 100
+        },
+        {
+          "name": "爱沙尼亚",
+          "value": 100
+        },
+        {
+          "name": "拉脱维亚",
+          "value": 100
+        },
+        {
+          "name": "瑞典",
+          "value": 100
+        },
+        {
+          "name": "芬兰",
+          "value": 100
+        },
+        {
+          "name": "越南",
+          "value": 100
+        },
+        {
+          "name": "柬埔寨",
+          "value": 100
+        },
+        {
+          "name": "卢森堡",
+          "value": 100
+        },
+        {
+          "name": "阿拉伯联合酋长国",
+          "value": 100
+        },
+        {
+          "name": "比利时",
+          "value": 100
+        },
+        {
+          "name": "格鲁吉亚",
+          "value": 100
+        },
+        {
+          "name": "北马其顿",
+          "value": 100
+        },
+        {
+          "name": "阿尔巴尼亚",
+          "value": 100
+        },
+        {
+          "name": "阿塞拜疆",
+          "value": 100
+        },
+        {
+          "name": "土耳其",
+          "value": 100
+        },
+        {
+          "name": "西班牙",
+          "value": 100
+        },
+        {
+          "name": "Lao PDR",
+          "value": 100
+        },
+        {
+          "name": "吉尔吉斯斯坦",
+          "value": 100
+        },
+        {
+          "name": "亚美尼亚",
+          "value": 100
+        },
+        {
+          "name": "丹麦",
+          "value": 100
+        },
+        {
+          "name": "利比亚",
+          "value": 100
+        },
+        {
+          "name": "突尼斯",
+          "value": 100
+        },
+        {
+          "name": "罗马尼亚",
+          "value": 100
+        },
+        {
+          "name": "匈牙利",
+          "value": 100
+        },
+        {
+          "name": "斯洛伐克",
+          "value": 100
+        },
+        {
+          "name": "波兰",
+          "value": 100
+        },
+        {
+          "name": "爱尔兰",
+          "value": 100
+        },
+        {
+          "name": "英国",
+          "value": 100
+        },
+        {
+          "name": "希腊",
+          "value": 100
+        },
+        {
+          "name": "赞比亚",
+          "value": 100
+        },
+        {
+          "name": "塞拉利昂",
+          "value": 100
+        },
+        {
+          "name": "几内亚",
+          "value": 100
+        },
+        {
+          "name": "利比里亚",
+          "value": 100
+        },
+        {
+          "name": "中非共和国",
+          "value": 100
+        },
+        {
+          "name": "苏丹",
+          "value": 100
+        },
+        {
+          "name": "吉布提",
+          "value": 100
+        },
+        {
+          "name": "厄立特里亚",
+          "value": 100
+        },
+        {
+          "name": "奥地利",
+          "value": 100
+        },
+        {
+          "name": "伊拉克",
+          "value": 100
+        },
+        {
+          "name": "意大利",
+          "value": 100
+        },
+        {
+          "name": "瑞士",
+          "value": 100
+        },
+        {
+          "name": "伊朗",
+          "value": 100
+        },
+        {
+          "name": "荷兰",
+          "value": 100
+        },
+        {
+          "name": "列支敦士登",
+          "value": 100
+        },
+        {
+          "name": "Côte d'Ivoire",
+          "value": 100
+        },
+        {
+          "name": "塞尔维亚",
+          "value": 100
+        },
+        {
+          "name": "马里",
+          "value": 100
+        },
+        {
+          "name": "塞内加尔",
+          "value": 100
+        },
+        {
+          "name": "尼日利亚",
+          "value": 100
+        },
+        {
+          "name": "贝宁",
+          "value": 100
+        },
+        {
+          "name": "安哥拉",
+          "value": 100
+        },
+        {
+          "name": "克罗地亚",
+          "value": 100
+        },
+        {
+          "name": "斯洛文尼亚",
+          "value": 100
+        },
+        {
+          "name": "卡塔尔",
+          "value": 100
+        },
+        {
+          "name": "沙特阿拉伯",
+          "value": 100
+        },
+        {
+          "name": "博茨瓦纳",
+          "value": 100
+        },
+        {
+          "name": "津巴布韦",
+          "value": 100
+        },
+        {
+          "name": "巴基斯坦",
+          "value": 100
+        },
+        {
+          "name": "保加利亚",
+          "value": 100
+        },
+        {
+          "name": "泰国",
+          "value": 100
+        },
+        {
+          "name": "圣马力诺",
+          "value": 100
+        },
+        {
+          "name": "海地",
+          "value": 100
+        },
+        {
+          "name": "多米尼加共和国",
+          "value": 100
+        },
+        {
+          "name": "乍得",
+          "value": 100
+        },
+        {
+          "name": "科威特",
+          "value": 100
+        },
+        {
+          "name": "萨尔瓦多",
+          "value": 100
+        },
+        {
+          "name": "危地马拉",
+          "value": 100
+        },
+        {
+          "name": "东帝汶",
+          "value": 100
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 100
+        },
+        {
+          "name": "摩纳哥",
+          "value": 100
+        },
+        {
+          "name": "阿尔及利亚",
+          "value": 100
+        },
+        {
+          "name": "莫桑比克",
+          "value": 100
+        },
+        {
+          "name": "Kingdom of eSwatini",
+          "value": 100
+        },
+        {
+          "name": "布隆迪",
+          "value": 100
+        },
+        {
+          "name": "卢旺达",
+          "value": 100
+        },
+        {
+          "name": "缅甸",
+          "value": 100
+        },
+        {
+          "name": "孟加拉国",
+          "value": 100
+        },
+        {
+          "name": "安道尔",
+          "value": 100
+        },
+        {
+          "name": "阿富汗",
+          "value": 100
+        },
+        {
+          "name": "黑山",
+          "value": 100
+        },
+        {
+          "name": "波斯尼亚和黑塞哥维那",
+          "value": 100
+        },
+        {
+          "name": "乌干达",
+          "value": 100
+        },
+        {
+          "name": "古巴",
+          "value": 100
+        },
+        {
+          "name": "洪都拉斯",
+          "value": 100
+        },
+        {
+          "name": "厄瓜多尔",
+          "value": 100
+        },
+        {
+          "name": "哥伦比亚",
+          "value": 100
+        },
+        {
+          "name": "巴拉圭",
+          "value": 100
+        },
+        {
+          "name": "葡萄牙",
+          "value": 100
+        },
+        {
+          "name": "摩尔多瓦",
+          "value": 100
+        },
+        {
+          "name": "土库曼斯坦",
+          "value": 100
+        },
+        {
+          "name": "约旦",
+          "value": 100
+        },
+        {
+          "name": "尼泊尔",
+          "value": 100
+        },
+        {
+          "name": "莱索托",
+          "value": 100
+        },
+        {
+          "name": "喀麦隆",
+          "value": 100
+        },
+        {
+          "name": "加蓬",
+          "value": 100
+        },
+        {
+          "name": "尼日尔",
+          "value": 100
+        },
+        {
+          "name": "布基纳法索",
+          "value": 100
+        },
+        {
+          "name": "多哥",
+          "value": 100
+        },
+        {
+          "name": "加纳",
+          "value": 100
+        },
+        {
+          "name": "几内亚比绍",
+          "value": 100
+        },
+        {
+          "name": "Gibraltar",
+          "value": 100
+        },
+        {
+          "name": "美国",
+          "value": 100
+        },
+        {
+          "name": "加拿大",
+          "value": 100
+        },
+        {
+          "name": "墨西哥",
+          "value": 100
+        },
+        {
+          "name": "伯利兹",
+          "value": 100
+        },
+        {
+          "name": "巴拿马",
+          "value": 100
+        },
+        {
+          "name": "委内瑞拉",
+          "value": 100
+        },
+        {
+          "name": "巴布亚新几内亚",
+          "value": 100
+        },
+        {
+          "name": "埃及",
+          "value": 100
+        },
+        {
+          "name": "也门",
+          "value": 100
+        },
+        {
+          "name": "毛里塔尼亚",
+          "value": 100
+        },
+        {
+          "name": "赤道几内亚",
+          "value": 100
+        },
+        {
+          "name": "The Gambia",
+          "value": 100
+        },
+        {
+          "name": "Hong Kong",
+          "value": 100
+        },
+        {
+          "name": "Vatican",
+          "value": 100
+        },
+        {
+          "name": "澳大利亚",
+          "value": 100
+        },
+        {
+          "name": "Greenland",
+          "value": 100
+        },
+        {
+          "name": "斐济",
+          "value": 100
+        },
+        {
+          "name": "新西兰",
+          "value": 100
+        },
+        {
+          "name": "New Caledonia",
+          "value": 100
+        },
+        {
+          "name": "马达加斯加",
+          "value": 100
+        },
+        {
+          "name": "菲律宾",
+          "value": 100
+        },
+        {
+          "name": "斯里兰卡",
+          "value": 100
+        },
+        {
+          "name": "Curaçao",
+          "value": 100
+        },
+        {
+          "name": "Aruba",
+          "value": 100
+        },
+        {
+          "name": "巴哈马",
+          "value": 100
+        },
+        {
+          "name": "Turks and Caicos Islands",
+          "value": 100
+        },
+        {
+          "name": "日本",
+          "value": 100
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "value": 100
+        },
+        {
+          "name": "冰岛",
+          "value": 100
+        },
+        {
+          "name": "Pitcairn Islands",
+          "value": 84.64787519645938
+        },
+        {
+          "name": "French Polynesia",
+          "value": 100
+        },
+        {
+          "name": "French Southern and Antarctic Lands",
+          "value": 92.92256071356476
+        },
+        {
+          "name": "塞舌尔",
+          "value": 100
+        },
+        {
+          "name": "基里巴斯",
+          "value": 100
+        },
+        {
+          "name": "马绍尔群岛",
+          "value": 100
+        },
+        {
+          "name": "特立尼达和多巴哥",
+          "value": 100
+        },
+        {
+          "name": "格林纳达",
+          "value": 100
+        },
+        {
+          "name": "圣文森特和格林纳丁斯",
+          "value": 100
+        },
+        {
+          "name": "巴巴多斯",
+          "value": 100
+        },
+        {
+          "name": "圣卢西亚",
+          "value": 100
+        },
+        {
+          "name": "多米尼克",
+          "value": 100
+        },
+        {
+          "name": "United States Minor Outlying Islands",
+          "value": 99.54242509439325
+        },
+        {
+          "name": "Montserrat",
+          "value": 100
+        },
+        {
+          "name": "安提瓜和巴布达",
+          "value": 100
+        },
+        {
+          "name": "圣基茨和尼维斯",
+          "value": 100
+        },
+        {
+          "name": "United States Virgin Islands",
+          "value": 100
+        },
+        {
+          "name": "Saint-Barthélemy",
+          "value": 100
+        },
+        {
+          "name": "Puerto Rico",
+          "value": 100
+        },
+        {
+          "name": "Anguilla",
+          "value": 100
+        },
+        {
+          "name": "British Virgin Islands",
+          "value": 100
+        },
+        {
+          "name": "牙买加",
+          "value": 100
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 100
+        },
+        {
+          "name": "Bermuda",
+          "value": 100
+        },
+        {
+          "name": "Heard I. and McDonald Islands",
+          "value": 100
+        },
+        {
+          "name": "Saint Helena",
+          "value": 100
+        },
+        {
+          "name": "毛里求斯",
+          "value": 100
+        },
+        {
+          "name": "科摩罗",
+          "value": 100
+        },
+        {
+          "name": "São Tomé and Principe",
+          "value": 100
+        },
+        {
+          "name": "Republic of Cabo Verde",
+          "value": 100
+        },
+        {
+          "name": "马耳他",
+          "value": 100
+        },
+        {
+          "name": "Jersey",
+          "value": 100
+        },
+        {
+          "name": "Guernsey",
+          "value": 100
+        },
+        {
+          "name": "Isle of Man",
+          "value": 100
+        },
+        {
+          "name": "Åland Islands",
+          "value": 100
+        },
+        {
+          "name": "Faeroe Islands",
+          "value": 100
+        },
+        {
+          "name": "British Indian Ocean Territory",
+          "value": 100
+        },
+        {
+          "name": "新加坡",
+          "value": 100
+        },
+        {
+          "name": "Norfolk Island",
+          "value": 100
+        },
+        {
+          "name": "Cook Islands",
+          "value": 100
+        },
+        {
+          "name": "汤加",
+          "value": 100
+        },
+        {
+          "name": "Wallis and Futuna Islands",
+          "value": 100
+        },
+        {
+          "name": "萨摩亚",
+          "value": 100
+        },
+        {
+          "name": "所罗门群岛",
+          "value": 100
+        },
+        {
+          "name": "图瓦卢",
+          "value": 100
+        },
+        {
+          "name": "马尔代夫",
+          "value": 100
+        },
+        {
+          "name": "瑙鲁",
+          "value": 100
+        },
+        {
+          "name": "Federated States of Micronesia",
+          "value": 100
+        },
+        {
+          "name": "South Georgia and the Islands",
+          "value": 79.54242509439325
+        },
+        {
+          "name": "Falkland Islands / Malvinas",
+          "value": 100
+        },
+        {
+          "name": "瓦努阿图",
+          "value": 100
+        },
+        {
+          "name": "Niue",
+          "value": 100
+        },
+        {
+          "name": "American Samoa",
+          "value": 100
+        },
+        {
+          "name": "帕劳",
+          "value": 100
+        },
+        {
+          "name": "Guam",
+          "value": 100
+        },
+        {
+          "name": "Northern Mariana Islands",
+          "value": 100
+        },
+        {
+          "name": "巴林",
+          "value": 100
+        },
+        {
+          "name": "Macao",
+          "value": 100
+        }
+      ]
+    }
+  ]
+}

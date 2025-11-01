@@ -1,0 +1,4391 @@
+[
+  {
+    "adcode": "ZW",
+    "name": "津巴布韦",
+    "name_en": "Zimbabwe",
+    "center": [
+      29.1153805,
+      -19.0225585
+    ],
+    "centroid": [
+      29.640587717647072,
+      -19.147785505882347
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "population": 14645468,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ZM",
+    "name": "赞比亚",
+    "name_en": "Zambia",
+    "center": [
+      27.8202145,
+      -13.117578
+    ],
+    "centroid": [
+      28.80630260742706,
+      -12.520836286472148
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "population": 17861030,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "YE",
+    "name": "也门",
+    "name_en": "Yemen",
+    "center": [
+      48.530078,
+      15.6575685
+    ],
+    "centroid": [
+      47.23162720444446,
+      15.627906453333338
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "population": 29161922,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "VN",
+    "name": "越南",
+    "name_en": "Vietnam",
+    "center": [
+      105.7861815,
+      15.964233499999999
+    ],
+    "centroid": [
+      106.11140857911892,
+      16.525113580750375
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "population": 96462106,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "VE",
+    "name": "委内瑞拉",
+    "name_en": "Venezuela",
+    "center": [
+      -66.5975585,
+      6.4329345
+    ],
+    "centroid": [
+      -65.79781778130504,
+      7.3981835185185165
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "population": 28515829,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "VA",
+    "name": "Vatican",
+    "name_en": "Vatican",
+    "center": [
+      12.433349499999998,
+      41.901880000000006
+    ],
+    "centroid": [
+      12.434228333333332,
+      41.90112316666667
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "VA",
+    "iso3": "VAT",
+    "population": 825,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "VU",
+    "name": "瓦努阿图",
+    "name_en": "Vanuatu",
+    "center": [
+      168.2111815,
+      -16.975634999999997
+    ],
+    "centroid": [
+      167.9749727204301,
+      -16.413242924731183
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "population": 299882,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "UZ",
+    "name": "乌兹别克斯坦",
+    "name_en": "Uzbekistan",
+    "center": [
+      64.556299,
+      41.363794
+    ],
+    "centroid": [
+      66.07134842636995,
+      41.19480566609589
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "population": 33580650,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "UY",
+    "name": "乌拉圭",
+    "name_en": "Uruguay",
+    "center": [
+      -55.7818605,
+      -32.516943500000004
+    ],
+    "centroid": [
+      -56.018374013986005,
+      -32.29726088811189
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "UY",
+    "iso3": "URY",
+    "population": 3461734,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "FM",
+    "name": "Federated States of Micronesia",
+    "name_en": "Federated States of Micronesia",
+    "center": [
+      150.52768550000002,
+      7.4352785
+    ],
+    "centroid": [
+      151.7885224897959,
+      7.456612734693878
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "FM",
+    "iso3": "FSM",
+    "population": 113815,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MH",
+    "name": "马绍尔群岛",
+    "name_en": "Marshall Islands",
+    "center": [
+      169.3007815,
+      8.4842285
+    ],
+    "centroid": [
+      169.92607217021285,
+      7.436680234042552
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "MH",
+    "iso3": "MHL",
+    "population": 58791,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MP",
+    "name": "Northern Mariana Islands",
+    "name_en": "Northern Mariana Islands",
+    "center": [
+      145.49379850000003,
+      16.4590575
+    ],
+    "centroid": [
+      145.62210854347825,
+      16.105913521739133
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "MP",
+    "iso3": "MNP",
+    "population": 57216,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "VI",
+    "name": "United States Virgin Islands",
+    "name_en": "United States Virgin Islands",
+    "center": [
+      -64.802051,
+      18.043457
+    ],
+    "centroid": [
+      -64.79341073684209,
+      18.129412578947367
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "VI",
+    "iso3": "VIR",
+    "population": 106631,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GU",
+    "name": "Guam",
+    "name_en": "Guam",
+    "center": [
+      144.79506800000001,
+      13.4399415
+    ],
+    "centroid": [
+      144.773169,
+      13.429471666666666
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "GU",
+    "iso3": "GUM",
+    "population": 167294,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AS",
+    "name": "American Samoa",
+    "name_en": "American Samoa",
+    "center": [
+      -170.6943115,
+      -14.308594
+    ],
+    "centroid": [
+      -170.70761125,
+      -14.30708025
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "AS",
+    "iso3": "ASM",
+    "population": 55312,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PR",
+    "name": "Puerto Rico",
+    "name_en": "Puerto Rico",
+    "center": [
+      -66.615967,
+      18.234717
+    ],
+    "centroid": [
+      -66.74931286956522,
+      18.17312892753623
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "population": 3193694,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "US",
+    "name": "美国",
+    "name_en": "United States",
+    "center": [
+      0.7927244999999914,
+      45.185791
+    ],
+    "centroid": [
+      -121.62340192456107,
+      48.74094111333219
+    ],
+    "continent": "Americas",
+    "region": "North America",
+    "iso2": "US",
+    "iso3": "USA",
+    "population": 328239523,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GS",
+    "name": "South Georgia and the Islands",
+    "name_en": "South Georgia and the Islands",
+    "center": [
+      -32.1386475,
+      -56.238183500000005
+    ],
+    "centroid": [
+      -35.40269871428572,
+      -54.85542692063491
+    ],
+    "continent": "Americas",
+    "region": "Antarctica",
+    "iso2": "GS",
+    "iso3": "SGS",
+    "population": 30,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IO",
+    "name": "British Indian Ocean Territory",
+    "name_en": "British Indian Ocean Territory",
+    "center": [
+      72.424121,
+      -7.327881
+    ],
+    "centroid": [
+      72.44874770588234,
+      -7.321449941176471
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "IO",
+    "iso3": "IOT",
+    "population": 3000,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SH",
+    "name": "Saint Helena",
+    "name_en": "Saint Helena",
+    "center": [
+      -10.037329,
+      -11.943310499999999
+    ],
+    "centroid": [
+      -11.000764944444445,
+      -11.05890288888889
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SH",
+    "iso3": "SHN",
+    "population": 4534,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PN",
+    "name": "Pitcairn Islands",
+    "name_en": "Pitcairn Islands",
+    "center": [
+      -128.3201415,
+      -24.367919999999998
+    ],
+    "centroid": [
+      -128.31308577777776,
+      -24.371050222222223
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "PN",
+    "iso3": "PCN",
+    "population": 54,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AI",
+    "name": "Anguilla",
+    "name_en": "Anguilla",
+    "center": [
+      -63.0698,
+      18.220557
+    ],
+    "centroid": [
+      -63.05356449999999,
+      18.224959333333334
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "AI",
+    "iso3": "AIA",
+    "population": 14731,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "FK",
+    "name": "Falkland Islands / Malvinas",
+    "name_en": "Falkland Islands / Malvinas",
+    "center": [
+      -59.4684085,
+      -51.788965000000005
+    ],
+    "centroid": [
+      -59.535988966442964,
+      -51.733873624161106
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "population": 3398,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KY",
+    "name": "Cayman Islands",
+    "name_en": "Cayman Islands",
+    "center": [
+      -80.58068850000001,
+      19.518799
+    ],
+    "centroid": [
+      -80.43170030555552,
+      19.57615427777778
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "KY",
+    "iso3": "CYM",
+    "population": 64948,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BM",
+    "name": "Bermuda",
+    "name_en": "Bermuda",
+    "center": [
+      -64.76557650000001,
+      32.3232665
+    ],
+    "centroid": [
+      -64.765338,
+      32.30740975
+    ],
+    "continent": "Americas",
+    "region": "North America",
+    "iso2": "BM",
+    "iso3": "BMU",
+    "population": 63918,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "VG",
+    "name": "British Virgin Islands",
+    "name_en": "British Virgin Islands",
+    "center": [
+      -64.4843505,
+      18.575903500000003
+    ],
+    "centroid": [
+      -64.44148482608696,
+      18.56064030434782
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "VG",
+    "iso3": "VGB",
+    "population": 30030,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TC",
+    "name": "Turks and Caicos Islands",
+    "name_en": "Turks and Caicos Islands",
+    "center": [
+      -71.9896485,
+      21.851806500000002
+    ],
+    "centroid": [
+      -71.9810614137931,
+      21.8268234137931
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "TC",
+    "iso3": "TCA",
+    "population": 38191,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MS",
+    "name": "Montserrat",
+    "name_en": "Montserrat",
+    "center": [
+      -62.1857425,
+      16.7453855
+    ],
+    "centroid": [
+      -62.180420000000005,
+      16.74670057142857
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "MS",
+    "iso3": "MSR",
+    "population": 4649,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "JE",
+    "name": "Jersey",
+    "name_en": "Jersey",
+    "center": [
+      -2.1228759999999998,
+      49.2180905
+    ],
+    "centroid": [
+      -2.099582333333333,
+      49.209559333333324
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "JE",
+    "iso3": "JEY",
+    "population": 107800,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GG",
+    "name": "Guernsey",
+    "name_en": "Guernsey",
+    "center": [
+      -2.579224,
+      49.4676515
+    ],
+    "centroid": [
+      -2.560030714285715,
+      49.478543571428574
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "GG",
+    "iso3": "GGY",
+    "population": 62792,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IM",
+    "name": "Isle of Man",
+    "name_en": "Isle of Man",
+    "center": [
+      -4.5616699999999994,
+      54.2329345
+    ],
+    "centroid": [
+      -4.545406999999999,
+      54.222522866666665
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "IM",
+    "iso3": "IMN",
+    "population": 84584,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GB",
+    "name": "英国",
+    "name_en": "United Kingdom",
+    "center": [
+      -3.199121,
+      55.426636
+    ],
+    "centroid": [
+      -4.114929627789049,
+      55.56180595334683
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "population": 66834405,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AE",
+    "name": "阿拉伯联合酋长国",
+    "name_en": "United Arab Emirates",
+    "center": [
+      53.9781735,
+      24.344824
+    ],
+    "centroid": [
+      54.3879168251366,
+      24.257819972677606
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "population": 9770529,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "UA",
+    "name": "乌克兰",
+    "name_en": "Ukraine",
+    "center": [
+      31.130078,
+      48.7938475
+    ],
+    "centroid": [
+      31.00621183333336,
+      48.720707284591185
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "population": 44385155,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "UG",
+    "name": "乌干达",
+    "name_en": "Uganda",
+    "center": [
+      32.2700685,
+      1.3751464999999998
+    ],
+    "centroid": [
+      32.127890111111135,
+      1.3849242444444443
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "population": 44269594,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TM",
+    "name": "土库曼斯坦",
+    "name_en": "Turkmenistan",
+    "center": [
+      59.5615725,
+      38.974633999999995
+    ],
+    "centroid": [
+      58.32653319168588,
+      39.51444793302542
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "population": 5942089,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TR",
+    "name": "土耳其",
+    "name_en": "Turkey",
+    "center": [
+      35.2430665,
+      38.962353500000006
+    ],
+    "centroid": [
+      34.294928492882576,
+      39.06608077402137
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "population": 83429615,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TN",
+    "name": "突尼斯",
+    "name_en": "Tunisia",
+    "center": [
+      9.5157715,
+      33.784888
+    ],
+    "centroid": [
+      9.904266408602153,
+      34.21880406989245
+    ],
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "population": 11694719,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TT",
+    "name": "特立尼达和多巴哥",
+    "name_en": "Trinidad and Tobago",
+    "center": [
+      -61.215796,
+      10.6950195
+    ],
+    "centroid": [
+      -61.189690894736835,
+      10.622618947368423
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "population": 1394973,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TO",
+    "name": "汤加",
+    "name_en": "Tonga",
+    "center": [
+      -174.6421145,
+      -20.007959
+    ],
+    "centroid": [
+      -174.77505799999994,
+      -20.399670375
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "TO",
+    "iso3": "TON",
+    "population": 104494,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TG",
+    "name": "多哥",
+    "name_en": "Togo",
+    "center": [
+      0.843872,
+      8.6025145
+    ],
+    "centroid": [
+      0.7282575769230769,
+      8.698815307692305
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "population": 8082366,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TL",
+    "name": "东帝汶",
+    "name_en": "Timor-Leste",
+    "center": [
+      125.666211,
+      -8.8259275
+    ],
+    "centroid": [
+      125.52459825714281,
+      -8.905858042857146
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "population": 1293119,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TH",
+    "name": "泰国",
+    "name_en": "Thailand",
+    "center": [
+      101.507471,
+      13.030591
+    ],
+    "centroid": [
+      100.70948245328725,
+      13.2486541816609
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "TH",
+    "iso3": "THA",
+    "population": 69625582,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TZ",
+    "name": "坦桑尼亚",
+    "name_en": "Tanzania",
+    "center": [
+      34.893506,
+      -6.3555665
+    ],
+    "centroid": [
+      35.056619598404254,
+      -6.572375792553196
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "population": 58005463,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TJ",
+    "name": "塔吉克斯坦",
+    "name_en": "Tajikistan",
+    "center": [
+      71.23417950000001,
+      38.859570000000005
+    ],
+    "centroid": [
+      70.74404905149049,
+      38.94801340650408
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "population": 9321018,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SY",
+    "name": "叙利亚",
+    "name_en": "Syria",
+    "center": [
+      39.0617675,
+      34.8072755
+    ],
+    "centroid": [
+      38.000355797687845,
+      35.08592439306356
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "population": 17070135,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CH",
+    "name": "瑞士",
+    "name_en": "Switzerland",
+    "center": [
+      8.212305,
+      46.802832
+    ],
+    "centroid": [
+      8.312952251336895,
+      46.741566299465276
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "population": 8574832,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SE",
+    "name": "瑞典",
+    "name_en": "Sweden",
+    "center": [
+      17.651318500000002,
+      62.191626
+    ],
+    "centroid": [
+      17.554775613827992,
+      61.88449481112984
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "population": 10285453,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SZ",
+    "name": "Kingdom of eSwatini",
+    "name_en": "Kingdom of eSwatini",
+    "center": [
+      31.4501955,
+      -26.526465
+    ],
+    "centroid": [
+      31.568577842105253,
+      -26.459529236842105
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "population": 1148130,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SR",
+    "name": "苏里南",
+    "name_en": "Suriname",
+    "center": [
+      -56.0224855,
+      3.9178465
+    ],
+    "centroid": [
+      -56.07116114130437,
+      3.725439184782607
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "population": 581363,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SS",
+    "name": "南苏丹",
+    "name_en": "South Sudan",
+    "center": [
+      29.707860999999998,
+      7.8569095
+    ],
+    "centroid": [
+      30.345156745398782,
+      7.90338936809816
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SS",
+    "iso3": "SSD",
+    "population": 11062113,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SD",
+    "name": "苏丹",
+    "name_en": "Sudan",
+    "center": [
+      30.217382999999998,
+      15.434033
+    ],
+    "centroid": [
+      30.12979105145412,
+      13.965282890380312
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "population": 42813238,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LK",
+    "name": "斯里兰卡",
+    "name_en": "Sri Lanka",
+    "center": [
+      80.7923825,
+      7.88103
+    ],
+    "centroid": [
+      80.51236310869565,
+      8.469555619565215
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "population": 21803000,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ES",
+    "name": "西班牙",
+    "name_en": "Spain",
+    "center": [
+      -6.9192385000000005,
+      35.705469
+    ],
+    "centroid": [
+      -5.1917011059479545,
+      38.531432427509316
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "population": 47076781,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KR",
+    "name": "Republic of Korea",
+    "name_en": "Republic of Korea",
+    "center": [
+      128.4708985,
+      35.9124755
+    ],
+    "centroid": [
+      127.33271861538468,
+      35.73367392307696
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "population": 51709098,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ZA",
+    "name": "南非",
+    "name_en": "South Africa",
+    "center": [
+      27.167627,
+      -34.55459
+    ],
+    "centroid": [
+      25.295480447963776,
+      -28.846072975113117
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "population": 58558270,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SO",
+    "name": "索马里",
+    "name_en": "Somalia",
+    "center": [
+      46.1773435,
+      5.1441895
+    ],
+    "centroid": [
+      46.511429902097916,
+      5.965227874125876
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "population": 10192317.3,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SB",
+    "name": "所罗门群岛",
+    "name_en": "Solomon Islands",
+    "center": [
+      161.303369,
+      -9.220557
+    ],
+    "centroid": [
+      159.58571452835807,
+      -8.999077976119397
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "population": 669823,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SK",
+    "name": "斯洛伐克",
+    "name_en": "Slovakia",
+    "center": [
+      19.700683499999997,
+      48.6805665
+    ],
+    "centroid": [
+      19.62059133793103,
+      48.83819067586205
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "population": 5454073,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SI",
+    "name": "斯洛文尼亚",
+    "name_en": "Slovenia",
+    "center": [
+      14.947216999999998,
+      46.145825
+    ],
+    "centroid": [
+      14.843692348484847,
+      46.123203696969696
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "population": 2087946,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SG",
+    "name": "新加坡",
+    "name_en": "Singapore",
+    "center": [
+      103.823291,
+      1.3562255
+    ],
+    "centroid": [
+      103.86655822222222,
+      1.366416888888889
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "SG",
+    "iso3": "SGP",
+    "population": 5703569,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SL",
+    "name": "塞拉利昂",
+    "name_en": "Sierra Leone",
+    "center": [
+      -11.7879395,
+      8.451538
+    ],
+    "centroid": [
+      -11.928333103174607,
+      8.539254325396822
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "population": 7813215,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SC",
+    "name": "塞舌尔",
+    "name_en": "Seychelles",
+    "center": [
+      55.4631835,
+      -4.672168
+    ],
+    "centroid": [
+      55.481945875,
+      -4.6799314999999995
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SC",
+    "iso3": "SYC",
+    "population": 97625,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "RS",
+    "name": "塞尔维亚",
+    "name_en": "Serbia",
+    "center": [
+      20.907958999999998,
+      44.205664
+    ],
+    "centroid": [
+      20.755357191011214,
+      44.247645992509376
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "population": 6944975,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SN",
+    "name": "塞内加尔",
+    "name_en": "Senegal",
+    "center": [
+      -14.4590335,
+      14.503466500000002
+    ],
+    "centroid": [
+      -14.380691176954741,
+      14.033233876543218
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "population": 16296364,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SA",
+    "name": "沙特阿拉伯",
+    "name_en": "Saudi Arabia",
+    "center": [
+      45.1286135,
+      24.248144500000002
+    ],
+    "centroid": [
+      44.88176202752296,
+      23.149258036697248
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "population": 34268528,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ST",
+    "name": "São Tomé and Principe",
+    "name_en": "São Tomé and Principe",
+    "center": [
+      6.960254,
+      0.8732420000000001
+    ],
+    "centroid": [
+      6.964781681818182,
+      0.8587824999999998
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "ST",
+    "iso3": "STP",
+    "population": 215056,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SM",
+    "name": "圣马力诺",
+    "name_en": "San Marino",
+    "center": [
+      12.4557615,
+      43.941919
+    ],
+    "centroid": [
+      12.464746,
+      43.936662999999996
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "SM",
+    "iso3": "SMR",
+    "population": 33860,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "WS",
+    "name": "萨摩亚",
+    "name_en": "Samoa",
+    "center": [
+      -172.1140385,
+      -13.756250000000001
+    ],
+    "centroid": [
+      -172.07109555555556,
+      -13.792751666666668
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "WS",
+    "iso3": "WSM",
+    "population": 197097,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "VC",
+    "name": "圣文森特和格林纳丁斯",
+    "name_en": "Saint Vincent and the Grenadines",
+    "center": [
+      -61.238769500000004,
+      13.026733499999999
+    ],
+    "centroid": [
+      -61.25719071428573,
+      12.961701755102043
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "VC",
+    "iso3": "VCT",
+    "population": 110589,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LC",
+    "name": "圣卢西亚",
+    "name_en": "Saint Lucia",
+    "center": [
+      -60.9799565,
+      13.9054685
+    ],
+    "centroid": [
+      -60.96753429999999,
+      13.911406199999998
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "LC",
+    "iso3": "LCA",
+    "population": 182790,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KN",
+    "name": "圣基茨和尼维斯",
+    "name_en": "Saint Kitts and Nevis",
+    "center": [
+      -62.686353,
+      17.251587
+    ],
+    "centroid": [
+      -62.678090850000004,
+      17.254230899999996
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "KN",
+    "iso3": "KNA",
+    "population": 52834,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "RW",
+    "name": "卢旺达",
+    "name_en": "Rwanda",
+    "center": [
+      29.86709,
+      -1.9358399999999998
+    ],
+    "centroid": [
+      29.912305855421682,
+      -2.005829963855421
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "population": 12626950,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "RU",
+    "name": "Russian Federation",
+    "name_en": "Russian Federation",
+    "center": [
+      0,
+      61.52673349999999
+    ],
+    "centroid": [
+      80.95263494510061,
+      63.38027561852367
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "population": 144373535,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "RO",
+    "name": "罗马尼亚",
+    "name_en": "Romania",
+    "center": [
+      24.973827999999997,
+      45.967139
+    ],
+    "centroid": [
+      24.52921204744525,
+      45.844648529197094
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "population": 19356544,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "QA",
+    "name": "卡塔尔",
+    "name_en": "Qatar",
+    "center": [
+      51.1817385,
+      25.358959499999997
+    ],
+    "centroid": [
+      51.19335655882353,
+      25.19930494117647
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "population": 2832067,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PT",
+    "name": "葡萄牙",
+    "name_en": "Portugal",
+    "center": [
+      -18.747729500000002,
+      37.392846500000005
+    ],
+    "centroid": [
+      -13.268656769811317,
+      39.218082449056595
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "population": 10269417,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PL",
+    "name": "波兰",
+    "name_en": "Poland",
+    "center": [
+      19.1171875,
+      51.929468
+    ],
+    "centroid": [
+      19.099176749999994,
+      51.40067015822783
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "PL",
+    "iso3": "POL",
+    "population": 37970874,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PH",
+    "name": "菲律宾",
+    "name_en": "Philippines",
+    "center": [
+      121.781445,
+      12.950732499999999
+    ],
+    "centroid": [
+      122.68067156785116,
+      11.457296122778668
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "population": 108116615,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PE",
+    "name": "秘鲁",
+    "name_en": "Peru",
+    "center": [
+      -75.0109375,
+      -9.193676499999999
+    ],
+    "centroid": [
+      -73.97537644482169,
+      -7.445722699490661
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "PE",
+    "iso3": "PER",
+    "population": 32510453,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PY",
+    "name": "巴拉圭",
+    "name_en": "Paraguay",
+    "center": [
+      -58.446387,
+      -23.420019500000002
+    ],
+    "centroid": [
+      -57.582876319066116,
+      -23.73778916342412
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "population": 7044636,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PG",
+    "name": "巴布亚新几内亚",
+    "name_en": "Papua New Guinea",
+    "center": [
+      148.409961,
+      -6.4918945
+    ],
+    "centroid": [
+      148.7588430013054,
+      -6.598135349869452
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "population": 8776109,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PA",
+    "name": "巴拿马",
+    "name_en": "Panama",
+    "center": [
+      -80.11167,
+      8.40896
+    ],
+    "centroid": [
+      -80.23858157317073,
+      8.447073284552848
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "population": 4246439,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PW",
+    "name": "帕劳",
+    "name_en": "Palau",
+    "center": [
+      132.8972655,
+      5.366992
+    ],
+    "centroid": [
+      133.11988928571427,
+      5.59939538095238
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "PW",
+    "iso3": "PLW",
+    "population": 18008,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PK",
+    "name": "巴基斯坦",
+    "name_en": "Pakistan",
+    "center": [
+      68.945996,
+      30.3950195
+    ],
+    "centroid": [
+      69.80404599649741,
+      30.175477183887857
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "population": 216565318,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "OM",
+    "name": "阿曼",
+    "name_en": "Oman",
+    "center": [
+      55.9075685,
+      21.502368500000003
+    ],
+    "centroid": [
+      56.003602456790155,
+      21.707075666666654
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "population": 4974986,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KP",
+    "name": "Dem. Rep. Korea",
+    "name_en": "Dem. Rep. Korea",
+    "center": [
+      127.51796900000001,
+      40.358594
+    ],
+    "centroid": [
+      127.34586046303504,
+      40.389745517509745
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "population": 25666161,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NG",
+    "name": "尼日利亚",
+    "name_en": "Nigeria",
+    "center": [
+      8.6565915,
+      9.075122499999999
+    ],
+    "centroid": [
+      7.751852291208793,
+      8.553471368131868
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "population": 200963599,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NE",
+    "name": "尼日尔",
+    "name_en": "Niger",
+    "center": [
+      8.0635255,
+      17.60708
+    ],
+    "centroid": [
+      6.370336650980396,
+      15.34526579215686
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "NE",
+    "iso3": "NER",
+    "population": 23310715,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NI",
+    "name": "尼加拉瓜",
+    "name_en": "Nicaragua",
+    "center": [
+      -85.413843,
+      12.8717045
+    ],
+    "centroid": [
+      -84.81859519886369,
+      13.075517392045453
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "population": 6545502,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NZ",
+    "name": "新西兰",
+    "name_en": "New Zealand",
+    "center": [
+      0.8442869999999942,
+      -30.558398
+    ],
+    "centroid": [
+      147.198791396129,
+      -40.862678803870956
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "population": 4917000,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NU",
+    "name": "Niue",
+    "name_en": "Niue",
+    "center": [
+      -169.87087400000001,
+      -19.0519535
+    ],
+    "centroid": [
+      -169.85709225,
+      -19.043029875
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "NU",
+    "iso3": "NIU",
+    "population": 1620,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CK",
+    "name": "Cook Islands",
+    "name_en": "Cook Islands",
+    "center": [
+      -159.7896725,
+      -21.217969
+    ],
+    "centroid": [
+      -159.7851029090909,
+      -21.22557718181818
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "CK",
+    "iso3": "COK",
+    "population": 17459,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NL",
+    "name": "荷兰",
+    "name_en": "Netherlands",
+    "center": [
+      -30.586914,
+      32.828784
+    ],
+    "centroid": [
+      -1.9093922213740442,
+      48.25837054198473
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "population": 17332850,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AW",
+    "name": "Aruba",
+    "name_en": "Aruba",
+    "center": [
+      -69.980908,
+      12.5185545
+    ],
+    "centroid": [
+      -69.96773420000001,
+      12.507226499999998
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "AW",
+    "iso3": "ABW",
+    "population": 106314,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CW",
+    "name": "Curaçao",
+    "name_en": "Curaçao",
+    "center": [
+      -68.9549805,
+      12.212866
+    ],
+    "centroid": [
+      -68.9649024,
+      12.209072299999999
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "CW",
+    "iso3": "CUW",
+    "population": 157538,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NP",
+    "name": "尼泊尔",
+    "name_en": "Nepal",
+    "center": [
+      84.10659150000001,
+      28.3739015
+    ],
+    "centroid": [
+      84.32216170792077,
+      28.096879331683173
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "population": 28608710,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NR",
+    "name": "瑙鲁",
+    "name_en": "Nauru",
+    "center": [
+      166.93271449999997,
+      -0.520068
+    ],
+    "centroid": [
+      166.935925125,
+      -0.517456
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "NR",
+    "iso3": "NRU",
+    "population": 12581,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NA",
+    "name": "纳米比亚",
+    "name_en": "Namibia",
+    "center": [
+      18.4902345,
+      -22.953223
+    ],
+    "centroid": [
+      18.141386757446814,
+      -21.82045586808509
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "population": 2494530,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MZ",
+    "name": "莫桑比克",
+    "name_en": "Mozambique",
+    "center": [
+      35.533154,
+      -18.662988
+    ],
+    "centroid": [
+      35.31668341151386,
+      -17.108486963752647
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "population": 30366036,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MA",
+    "name": "摩洛哥",
+    "name_en": "Morocco",
+    "center": [
+      -9.0343015,
+      28.675292999999996
+    ],
+    "centroid": [
+      -9.028324842391303,
+      28.485670769021745
+    ],
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "population": 36471769,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "EH",
+    "name": "Western Sahara",
+    "name_en": "Western Sahara",
+    "center": [
+      -12.890454,
+      24.2312985
+    ],
+    "centroid": [
+      -12.375754008733626,
+      24.43087940611358
+    ],
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "iso2": "EH",
+    "iso3": "ESH",
+    "population": 603253,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ME",
+    "name": "黑山",
+    "name_en": "Montenegro",
+    "center": [
+      19.391992000000002,
+      42.705713
+    ],
+    "centroid": [
+      19.25752481521739,
+      42.81717373913043
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "population": 622137,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MN",
+    "name": "蒙古",
+    "name_en": "Mongolia",
+    "center": [
+      103.82050799999999,
+      46.8563965
+    ],
+    "centroid": [
+      102.8787231426631,
+      47.77735646467391
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "population": 3225167,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MD",
+    "name": "摩尔多瓦",
+    "name_en": "Moldova",
+    "center": [
+      28.375,
+      46.9640865
+    ],
+    "centroid": [
+      28.534606402684563,
+      47.082134798657705
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "population": 2657637,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MC",
+    "name": "摩纳哥",
+    "name_en": "Monaco",
+    "center": [
+      7.408203,
+      43.751318
+    ],
+    "centroid": [
+      7.4116490000000015,
+      43.754792
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "MC",
+    "iso3": "MCO",
+    "population": 38964,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MX",
+    "name": "墨西哥",
+    "name_en": "Mexico",
+    "center": [
+      -102.54882799999999,
+      23.630370999999997
+    ],
+    "centroid": [
+      -103.61772510443349,
+      24.217889626601004
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "population": 127575529,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MU",
+    "name": "毛里求斯",
+    "name_en": "Mauritius",
+    "center": [
+      57.554834,
+      -20.2515625
+    ],
+    "centroid": [
+      57.545312578947375,
+      -20.29733757894737
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "MU",
+    "iso3": "MUS",
+    "population": 1265711,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MR",
+    "name": "毛里塔尼亚",
+    "name_en": "Mauritania",
+    "center": [
+      -10.943286,
+      21.015649
+    ],
+    "centroid": [
+      -11.621383062305291,
+      19.775476573208746
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "population": 4525696,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MT",
+    "name": "马耳他",
+    "name_en": "Malta",
+    "center": [
+      14.373290999999998,
+      35.947998
+    ],
+    "centroid": [
+      14.370849687500002,
+      35.961627125
+    ],
+    "continent": "Europe",
+    "region": "Middle East & North Africa",
+    "iso2": "MT",
+    "iso3": "MLT",
+    "population": 502653,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ML",
+    "name": "马里",
+    "name_en": "Mali",
+    "center": [
+      -4.022973499999999,
+      17.569433500000002
+    ],
+    "centroid": [
+      -5.433865780590719,
+      14.817743455696199
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "population": 19658031,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MV",
+    "name": "马尔代夫",
+    "name_en": "Maldives",
+    "center": [
+      73.4551755,
+      3.7385254999999997
+    ],
+    "centroid": [
+      73.4667214090909,
+      3.812659818181818
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "MV",
+    "iso3": "MDV",
+    "population": 530953,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MY",
+    "name": "马来西亚",
+    "name_en": "Malaysia",
+    "center": [
+      109.456299,
+      4.1068115
+    ],
+    "centroid": [
+      110.85643766208254,
+      3.9695833163064838
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "population": 31949777,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MW",
+    "name": "马拉维",
+    "name_en": "Malawi",
+    "center": [
+      34.2815915,
+      -13.2630375
+    ],
+    "centroid": [
+      34.097215775510186,
+      -12.735635399999994
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "population": 18628747,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MG",
+    "name": "马达加斯加",
+    "name_en": "Madagascar",
+    "center": [
+      46.869922,
+      -18.825049
+    ],
+    "centroid": [
+      46.98903206766915,
+      -17.733975928571436
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "population": 26969307,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MK",
+    "name": "北马其顿",
+    "name_en": "North Macedonia",
+    "center": [
+      21.7271485,
+      41.604028
+    ],
+    "centroid": [
+      21.64007769135802,
+      41.63538838271606
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "population": 2083459,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LU",
+    "name": "卢森堡",
+    "name_en": "Luxembourg",
+    "center": [
+      6.109375,
+      49.806323
+    ],
+    "centroid": [
+      6.062349391304349,
+      49.76263158695653
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "population": 619896,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LT",
+    "name": "立陶宛",
+    "name_en": "Lithuania",
+    "center": [
+      23.8377445,
+      55.152075499999995
+    ],
+    "centroid": [
+      24.05534781290321,
+      55.07458196129036
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "population": 2786844,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LI",
+    "name": "列支敦士登",
+    "name_en": "Liechtenstein",
+    "center": [
+      9.5450195,
+      47.1640625
+    ],
+    "centroid": [
+      9.547135333333333,
+      47.14267579999999
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "LI",
+    "iso3": "LIE",
+    "population": 38019,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LY",
+    "name": "利比亚",
+    "name_en": "Libya",
+    "center": [
+      17.230370999999998,
+      26.3392825
+    ],
+    "centroid": [
+      17.63318902723737,
+      28.180448412451362
+    ],
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "population": 6777452,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LR",
+    "name": "利比里亚",
+    "name_en": "Liberia",
+    "center": [
+      -9.453711,
+      6.444506499999999
+    ],
+    "centroid": [
+      -9.107396230215821,
+      6.985899187050358
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "population": 4937374,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LS",
+    "name": "莱索托",
+    "name_en": "Lesotho",
+    "center": [
+      28.2212405,
+      -29.6120115
+    ],
+    "centroid": [
+      28.199658857142847,
+      -29.677135753246755
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "population": 2125268,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LB",
+    "name": "黎巴嫩",
+    "name_en": "Lebanon",
+    "center": [
+      35.8467775,
+      33.8771975
+    ],
+    "centroid": [
+      35.97088282258065,
+      33.860639
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "population": 6855713,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LV",
+    "name": "拉脱维亚",
+    "name_en": "Latvia",
+    "center": [
+      24.608496000000002,
+      56.8654785
+    ],
+    "centroid": [
+      25.36406736428571,
+      56.854189100000006
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "population": 1912789,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "LA",
+    "name": "Lao PDR",
+    "name_en": "Lao PDR",
+    "center": [
+      103.884033,
+      18.2082275
+    ],
+    "centroid": [
+      103.79593848974358,
+      18.43688927179486
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "population": 7169455,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KG",
+    "name": "吉尔吉斯斯坦",
+    "name_en": "Kyrgyzstan",
+    "center": [
+      74.7376465,
+      41.2239505
+    ],
+    "centroid": [
+      73.13323962886595,
+      40.914441796391756
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "population": 6456900,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KW",
+    "name": "科威特",
+    "name_en": "Kuwait",
+    "center": [
+      47.486962500000004,
+      29.315234
+    ],
+    "centroid": [
+      47.81516880597015,
+      29.44597710447761
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "population": 4207083,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KI",
+    "name": "基里巴斯",
+    "name_en": "Kiribati",
+    "center": [
+      0.1190430000000049,
+      -3.7666504999999995
+    ],
+    "centroid": [
+      -29.353933627358526,
+      -1.4074856933962279
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "KI",
+    "iso3": "KIR",
+    "population": 117606,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KE",
+    "name": "肯尼亚",
+    "name_en": "Kenya",
+    "center": [
+      37.891992,
+      0.3999509999999997
+    ],
+    "centroid": [
+      37.67390671555555,
+      0.5562901155555561
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "population": 52573973,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KZ",
+    "name": "哈萨克斯坦",
+    "name_en": "Kazakhstan",
+    "center": [
+      66.966016,
+      47.9991215
+    ],
+    "centroid": [
+      65.81566835438598,
+      47.896277360526284
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "population": 18513930,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "JO",
+    "name": "约旦",
+    "name_en": "Jordan",
+    "center": [
+      37.121776999999994,
+      31.281348
+    ],
+    "centroid": [
+      36.71194767708332,
+      31.335672020833314
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "population": 10101694,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "JP",
+    "name": "日本",
+    "name_en": "Japan",
+    "center": [
+      134.7563965,
+      34.8877925
+    ],
+    "centroid": [
+      135.29238363901555,
+      35.473928318140366
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "population": 126264931,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "JM",
+    "name": "牙买加",
+    "name_en": "Jamaica",
+    "center": [
+      -77.2751465,
+      18.118579
+    ],
+    "centroid": [
+      -77.27983802083334,
+      18.116650416666662
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "population": 2948279,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IT",
+    "name": "意大利",
+    "name_en": "Italy",
+    "center": [
+      12.556787,
+      41.8849855
+    ],
+    "centroid": [
+      11.756749410423458,
+      42.18261297068404
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "population": 60297396,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IL",
+    "name": "以色列",
+    "name_en": "Israel",
+    "center": [
+      35.066645,
+      31.446509
+    ],
+    "centroid": [
+      35.21197230188679,
+      31.89406170754717
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "population": 9053300,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IE",
+    "name": "爱尔兰",
+    "name_en": "Ireland",
+    "center": [
+      -8.2088135,
+      53.419775
+    ],
+    "centroid": [
+      -8.442566047619058,
+      53.497945190476216
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "population": 4941444,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IQ",
+    "name": "伊拉克",
+    "name_en": "Iraq",
+    "center": [
+      43.6600095,
+      33.2177735
+    ],
+    "centroid": [
+      44.57828548927041,
+      33.78983474678112
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "population": 39309783,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IR",
+    "name": "伊朗",
+    "name_en": "Iran",
+    "center": [
+      53.664209,
+      32.4353275
+    ],
+    "centroid": [
+      53.16356552231403,
+      33.29237377355375
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "population": 82913906,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ID",
+    "name": "印度尼西亚",
+    "name_en": "Indonesia",
+    "center": [
+      118.0914065,
+      -2.5013185
+    ],
+    "centroid": [
+      119.48507307936491,
+      -2.996320835889152
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "population": 270625568,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IN",
+    "name": "印度",
+    "name_en": "India",
+    "center": [
+      82.754297,
+      21.12229
+    ],
+    "centroid": [
+      83.50818536495396,
+      23.3841684604743
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "IN",
+    "iso3": "IND",
+    "population": 1366417754,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "IS",
+    "name": "冰岛",
+    "name_en": "Iceland",
+    "center": [
+      -19.015894,
+      64.9663815
+    ],
+    "centroid": [
+      -19.86729001103754,
+      65.30841890949237
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "population": 361313,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "HU",
+    "name": "匈牙利",
+    "name_en": "Hungary",
+    "center": [
+      19.484863,
+      47.153247
+    ],
+    "centroid": [
+      19.42393128971961,
+      47.23226490654206
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "population": 9769949,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "HN",
+    "name": "洪都拉斯",
+    "name_en": "Honduras",
+    "center": [
+      -86.26005900000001,
+      14.746606499999999
+    ],
+    "centroid": [
+      -86.24214597584539,
+      14.763284787439613
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "HN",
+    "iso3": "HND",
+    "population": 9746117,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "HT",
+    "name": "海地",
+    "name_en": "Haiti",
+    "center": [
+      -73.06171850000001,
+      19.066406
+    ],
+    "centroid": [
+      -72.75523553571429,
+      18.94252885714285
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "population": 11263077,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GY",
+    "name": "圭亚那",
+    "name_en": "Guyana",
+    "center": [
+      -58.936816,
+      4.8752685
+    ],
+    "centroid": [
+      -58.81703027177701,
+      4.374312501742162
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "population": 782766,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GW",
+    "name": "几内亚比绍",
+    "name_en": "Guinea-Bissau",
+    "center": [
+      -15.1926755,
+      11.8100345
+    ],
+    "centroid": [
+      -15.403197103225809,
+      11.680270600000004
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "population": 1920922,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GN",
+    "name": "几内亚",
+    "name_en": "Guinea",
+    "center": [
+      -11.366211,
+      9.944922
+    ],
+    "centroid": [
+      -10.714574477011494,
+      10.105041908045978
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "population": 12771246,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GT",
+    "name": "危地马拉",
+    "name_en": "Guatemala",
+    "center": [
+      -90.231738,
+      15.7764645
+    ],
+    "centroid": [
+      -90.22665039999997,
+      15.556898347826092
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "population": 16604026,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GD",
+    "name": "格林纳达",
+    "name_en": "Grenada",
+    "center": [
+      -61.6946045,
+      12.1227295
+    ],
+    "centroid": [
+      -61.70316822222222,
+      12.098562111111113
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "GD",
+    "iso3": "GRD",
+    "population": 112003,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GR",
+    "name": "希腊",
+    "name_en": "Greece",
+    "center": [
+      23.93916,
+      38.339135999999996
+    ],
+    "centroid": [
+      23.940842328277373,
+      38.359825089924215
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "GR",
+    "iso3": "GRC",
+    "population": 10716322,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GH",
+    "name": "加纳",
+    "name_en": "Ghana",
+    "center": [
+      -1.0283445,
+      7.964673
+    ],
+    "centroid": [
+      -1.0788799107981222,
+      8.298039769953053
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "population": 30417856,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "DE",
+    "name": "德国",
+    "name_en": "Germany",
+    "center": [
+      10.437061,
+      51.1687745
+    ],
+    "centroid": [
+      10.440040994661931,
+      51.166183393238356
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "population": 83132799,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GE",
+    "name": "格鲁吉亚",
+    "name_en": "Georgia",
+    "center": [
+      43.3254395,
+      42.319995
+    ],
+    "centroid": [
+      43.85181614024388,
+      42.05945567073173
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "population": 3720382,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GM",
+    "name": "The Gambia",
+    "name_en": "The Gambia",
+    "center": [
+      -15.325757,
+      13.4381345
+    ],
+    "centroid": [
+      -15.505665369863015,
+      13.43639165753425
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "population": 2347706,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GA",
+    "name": "加蓬",
+    "name_en": "Gabon",
+    "center": [
+      11.5918455,
+      -0.807056
+    ],
+    "centroid": [
+      11.622208,
+      -0.8627627195571956
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "population": 2172579,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "name_en": "Saint Pierre and Miquelon",
+    "center": [
+      -56.262134,
+      46.925903500000004
+    ],
+    "centroid": [
+      -56.267173375000006,
+      46.87957758333332
+    ],
+    "continent": "Americas",
+    "region": "North America",
+    "iso2": "PM",
+    "iso3": "SPM",
+    "population": 5997,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "WF",
+    "name": "Wallis and Futuna Islands",
+    "name_en": "Wallis and Futuna Islands",
+    "center": [
+      -177.1612305,
+      -13.773291
+    ],
+    "centroid": [
+      -177.25995474999996,
+      -13.8519531875
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "WF",
+    "iso3": "WLF",
+    "population": 11558,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MF",
+    "name": "Saint-Martin",
+    "name_en": "Saint-Martin",
+    "center": [
+      -63.066235500000005,
+      18.092138499999997
+    ],
+    "centroid": [
+      -63.05110228571429,
+      18.090038999999997
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "MF",
+    "iso3": "MAF",
+    "population": 38002,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BL",
+    "name": "Saint-Barthélemy",
+    "name_en": "Saint-Barthélemy",
+    "center": [
+      -62.837573,
+      17.8987305
+    ],
+    "centroid": [
+      -62.84355481818182,
+      17.896022727272726
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "BL",
+    "iso3": "BLM",
+    "population": 9961,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "PF",
+    "name": "French Polynesia",
+    "name_en": "French Polynesia",
+    "center": [
+      -143.90314899999998,
+      -14.828711
+    ],
+    "centroid": [
+      -142.78111908648654,
+      -15.442853194594605
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "PF",
+    "iso3": "PYF",
+    "population": 279287,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NC",
+    "name": "New Caledonia",
+    "name_en": "New Caledonia",
+    "center": [
+      164.03364299999998,
+      -20.887890499999997
+    ],
+    "centroid": [
+      166.02866025196846,
+      -21.178806362204718
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "population": 287800,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TF",
+    "name": "French Southern and Antarctic Lands",
+    "name_en": "French Southern and Antarctic Lands",
+    "center": [
+      61.107373,
+      -48.018359000000004
+    ],
+    "centroid": [
+      68.33541556302521,
+      -49.05926505042015
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "TF",
+    "iso3": "ATF",
+    "population": 140,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AX",
+    "name": "Åland Islands",
+    "name_en": "Åland Islands",
+    "center": [
+      20.0651855,
+      60.208740500000005
+    ],
+    "centroid": [
+      19.994257076923073,
+      60.20735807692308
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "AX",
+    "iso3": "ALA",
+    "population": 29884,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "FI",
+    "name": "芬兰",
+    "name_en": "Finland",
+    "center": [
+      26.0793455,
+      64.94042999999999
+    ],
+    "centroid": [
+      24.865406373795718,
+      64.32010184007709
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "population": 5520314,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "FJ",
+    "name": "斐济",
+    "name_en": "Fiji",
+    "center": [
+      0,
+      -17.091406
+    ],
+    "centroid": [
+      52.47992160498219,
+      -17.61743321708185
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "population": 889953,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ET",
+    "name": "埃塞俄比亚",
+    "name_en": "Ethiopia",
+    "center": [
+      40.4885745,
+      9.1541995
+    ],
+    "centroid": [
+      38.93542884105965,
+      9.16461382781457
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "population": 112078730,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "EE",
+    "name": "爱沙尼亚",
+    "name_en": "Estonia",
+    "center": [
+      25.002783,
+      58.582251
+    ],
+    "centroid": [
+      24.591368692307693,
+      58.52490709230774
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "EE",
+    "iso3": "EST",
+    "population": 1326590,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "ER",
+    "name": "厄立特里亚",
+    "name_en": "Eritrea",
+    "center": [
+      39.771728499999995,
+      15.19082
+    ],
+    "centroid": [
+      39.36023409374998,
+      15.183059182291656
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "population": 6081196,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GQ",
+    "name": "赤道几内亚",
+    "name_en": "Equatorial Guinea",
+    "center": [
+      9.884814500000001,
+      2.359204
+    ],
+    "centroid": [
+      9.724970865671645,
+      2.0936151492537314
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "population": 1355986,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SV",
+    "name": "萨尔瓦多",
+    "name_en": "El Salvador",
+    "center": [
+      -88.91062,
+      13.797559
+    ],
+    "centroid": [
+      -88.81603016216218,
+      13.850656581081079
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "population": 6453553,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "EG",
+    "name": "埃及",
+    "name_en": "Egypt",
+    "center": [
+      30.787305,
+      26.824926499999997
+    ],
+    "centroid": [
+      30.803739861660056,
+      27.639439561264815
+    ],
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "population": 100388073,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "EC",
+    "name": "厄瓜多尔",
+    "name_en": "Ecuador",
+    "center": [
+      -83.4518795,
+      -1.7676269999999998
+    ],
+    "centroid": [
+      -81.62440576945248,
+      -1.6430672507204587
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "population": 17373662,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "DO",
+    "name": "多米尼加共和国",
+    "name_en": "Dominican Republic",
+    "center": [
+      -70.1697755,
+      18.7747805
+    ],
+    "centroid": [
+      -70.50557954464286,
+      18.825178776785712
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "population": 10738958,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "DM",
+    "name": "多米尼克",
+    "name_en": "Dominica",
+    "center": [
+      -61.366113,
+      15.4302
+    ],
+    "centroid": [
+      -61.3612011,
+      15.4371826
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "population": 71808,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "DJ",
+    "name": "吉布提",
+    "name_en": "Djibouti",
+    "center": [
+      42.587207,
+      11.824805
+    ],
+    "centroid": [
+      42.63477080357143,
+      11.752295821428575
+    ],
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "population": 973560,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "GL",
+    "name": "Greenland",
+    "name_en": "Greenland",
+    "center": [
+      -42.121801500000004,
+      71.707544
+    ],
+    "centroid": [
+      -41.67123999508927,
+      72.51351379062501
+    ],
+    "continent": "Americas",
+    "region": "Europe & Central Asia",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "population": 56225,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "FO",
+    "name": "Faeroe Islands",
+    "name_en": "Faeroe Islands",
+    "center": [
+      -6.914331000000001,
+      61.8849855
+    ],
+    "centroid": [
+      -6.816323365079365,
+      61.94956758730157
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "FO",
+    "iso3": "FRO",
+    "population": 48678,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "DK",
+    "name": "丹麦",
+    "name_en": "Denmark",
+    "center": [
+      11.6292965,
+      56.1828855
+    ],
+    "centroid": [
+      10.731254567114098,
+      55.704732875838936
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "population": 5818553,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CZ",
+    "name": "Czech Republic",
+    "name_en": "Czech Republic",
+    "center": [
+      15.4609865,
+      49.807007
+    ],
+    "centroid": [
+      15.440538775,
+      49.87842160833329
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "population": 10669709,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CY",
+    "name": "塞浦路斯",
+    "name_en": "Cyprus",
+    "center": [
+      33.175586,
+      34.876123
+    ],
+    "centroid": [
+      33.20657262499999,
+      34.95486012500001
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "population": 1198575,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CU",
+    "name": "古巴",
+    "name_en": "Cuba",
+    "center": [
+      -79.5120115,
+      21.5229495
+    ],
+    "centroid": [
+      -79.32908491803279,
+      21.75576347540983
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "population": 11333483,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "HR",
+    "name": "克罗地亚",
+    "name_en": "Croatia",
+    "center": [
+      16.4590825,
+      44.4837645
+    ],
+    "centroid": [
+      16.336596844919768,
+      44.64002888770055
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "population": 4067500,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CI",
+    "name": "Côte d'Ivoire",
+    "name_en": "Côte d'Ivoire",
+    "center": [
+      -5.5547115,
+      7.537694999999999
+    ],
+    "centroid": [
+      -5.7795757278911575,
+      7.970465761904761
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "population": 25716544,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CR",
+    "name": "哥斯达黎加",
+    "name_en": "Costa Rica",
+    "center": [
+      -84.235791,
+      9.630053499999999
+    ],
+    "centroid": [
+      -84.03182896240604,
+      9.745937330827065
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "population": 5047561,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CD",
+    "name": "刚果民主共和国",
+    "name_en": "Democratic Republic of the Congo",
+    "center": [
+      21.7438475,
+      -4.07085
+    ],
+    "centroid": [
+      23.715634160919546,
+      -4.546785924466337
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "CD",
+    "iso3": "COD",
+    "population": 86790567,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CG",
+    "name": "Republic of the Congo",
+    "name_en": "Republic of the Congo",
+    "center": [
+      14.876172,
+      -0.6584960000000002
+    ],
+    "centroid": [
+      14.374565563467474,
+      -1.1440224024767804
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "CG",
+    "iso3": "COG",
+    "population": 5380508,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KM",
+    "name": "科摩罗",
+    "name_en": "Comoros",
+    "center": [
+      43.876709000000005,
+      -11.8683595
+    ],
+    "centroid": [
+      43.859056885714296,
+      -12.002843200000001
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "KM",
+    "iso3": "COM",
+    "population": 850886,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CO",
+    "name": "哥伦比亚",
+    "name_en": "Colombia",
+    "center": [
+      -72.950732,
+      4.099218499999999
+    ],
+    "centroid": [
+      -72.76286856982348,
+      3.471104791332263
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "CO",
+    "iso3": "COL",
+    "population": 50339443,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CN",
+    "name": "中国",
+    "name_en": "China",
+    "center": [
+      104.179834,
+      35.8869385
+    ],
+    "centroid": [
+      106.71046412885062,
+      35.30337019759586
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "population": 1397715000,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MO",
+    "name": "Macao",
+    "name_en": "Macao",
+    "center": [
+      113.5135255,
+      22.220752
+    ],
+    "centroid": [
+      113.50408,
+      22.215511000000003
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "MO",
+    "iso3": "MAC",
+    "population": 640445,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "HK",
+    "name": "Hong Kong",
+    "name_en": "Hong Kong",
+    "center": [
+      114.0870605,
+      22.380078
+    ],
+    "centroid": [
+      114.11241494871793,
+      22.37262992307693
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "HK",
+    "iso3": "HKG",
+    "population": 7507400,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CL",
+    "name": "智利",
+    "name_en": "Chile",
+    "center": [
+      -87.93496099999999,
+      -36.698877
+    ],
+    "centroid": [
+      -72.31220951694918,
+      -44.83841358025919
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "population": 18952038,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TD",
+    "name": "乍得",
+    "name_en": "Chad",
+    "center": [
+      18.71582,
+      15.460254
+    ],
+    "centroid": [
+      18.978079360824747,
+      12.79039881099657
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "population": 15946876,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CF",
+    "name": "中非共和国",
+    "name_en": "Central African Republic",
+    "center": [
+      20.917236000000003,
+      6.633154
+    ],
+    "centroid": [
+      20.08474904012344,
+      6.394382037037038
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "population": 4745185,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CV",
+    "name": "Republic of Cabo Verde",
+    "name_en": "Republic of Cabo Verde",
+    "center": [
+      -24.011719,
+      16.0059325
+    ],
+    "centroid": [
+      -23.904044333333335,
+      16.04142305747126
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "CV",
+    "iso3": "CPV",
+    "population": 549935,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CA",
+    "name": "加拿大",
+    "name_en": "Canada",
+    "center": [
+      -96.827905,
+      62.3954835
+    ],
+    "centroid": [
+      -89.76030030778523,
+      65.29407686848675
+    ],
+    "continent": "Americas",
+    "region": "North America",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "population": 37589262,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "CM",
+    "name": "喀麦隆",
+    "name_en": "Cameroon",
+    "center": [
+      12.3581055,
+      7.3773685
+    ],
+    "centroid": [
+      12.994089580000008,
+      6.252769117142858
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "population": 25876380,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "KH",
+    "name": "柬埔寨",
+    "name_en": "Cambodia",
+    "center": [
+      104.962598,
+      12.558154
+    ],
+    "centroid": [
+      105.13178381447966,
+      12.616583438914024
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "population": 16486542,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "MM",
+    "name": "缅甸",
+    "name_en": "Myanmar",
+    "center": [
+      96.66342800000001,
+      19.196216
+    ],
+    "centroid": [
+      96.92179174346786,
+      18.802993238717328
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "population": 54045420,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BI",
+    "name": "布隆迪",
+    "name_en": "Burundi",
+    "center": [
+      29.912793,
+      -3.3844235
+    ],
+    "centroid": [
+      29.996242756410254,
+      -3.054105294871794
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "population": 11530580,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BF",
+    "name": "布基纳法索",
+    "name_en": "Burkina Faso",
+    "center": [
+      -1.5671875,
+      12.251294
+    ],
+    "centroid": [
+      -1.6034544347826096,
+      11.974494158102766
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "population": 20321378,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BG",
+    "name": "保加利亚",
+    "name_en": "Bulgaria",
+    "center": [
+      25.4646975,
+      42.740674
+    ],
+    "centroid": [
+      24.96090639106145,
+      42.61495098882682
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "population": 6975761,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BN",
+    "name": "Brunei Darussalam",
+    "name_en": "Brunei Darussalam",
+    "center": [
+      114.6953125,
+      4.523169
+    ],
+    "centroid": [
+      114.78236085714289,
+      4.548170678571429
+    ],
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "population": 433285,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BR",
+    "name": "巴西",
+    "name_en": "Brazil",
+    "center": [
+      -54.40376,
+      -14.2421145
+    ],
+    "centroid": [
+      -55.28608159628648,
+      -9.802756118302419
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "population": 211049527,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BW",
+    "name": "博茨瓦纳",
+    "name_en": "Botswana",
+    "center": [
+      24.671094,
+      -22.3208985
+    ],
+    "centroid": [
+      24.58467549773756,
+      -22.523437049773747
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "population": 2303697,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BA",
+    "name": "波斯尼亚和黑塞哥维那",
+    "name_en": "Bosnia and Herzegovina",
+    "center": [
+      17.660204999999998,
+      43.918139499999995
+    ],
+    "centroid": [
+      18.137128109589046,
+      44.06770487671232
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "population": 3301000,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BO",
+    "name": "玻利维亚",
+    "name_en": "Bolivia",
+    "center": [
+      -63.5706785,
+      -16.301074
+    ],
+    "centroid": [
+      -65.15155172009567,
+      -16.55089014354068
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "population": 11513100,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BT",
+    "name": "不丹",
+    "name_en": "Bhutan",
+    "center": [
+      90.411084,
+      27.506372499999998
+    ],
+    "centroid": [
+      90.58430762,
+      27.402659700000005
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "population": 763092,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BJ",
+    "name": "贝宁",
+    "name_en": "Benin",
+    "center": [
+      2.298926,
+      9.3003175
+    ],
+    "centroid": [
+      2.3457184013605445,
+      9.696912510204083
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "population": 11801151,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BZ",
+    "name": "伯利兹",
+    "name_en": "Belize",
+    "center": [
+      -88.51306149999999,
+      17.185498
+    ],
+    "centroid": [
+      -88.46461546153846,
+      17.451550507692303
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "population": 390353,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BE",
+    "name": "比利时",
+    "name_en": "Belgium",
+    "center": [
+      4.4446775,
+      50.501001
+    ],
+    "centroid": [
+      4.727187658536585,
+      50.59562762804879
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "population": 11484055,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BY",
+    "name": "白俄罗斯",
+    "name_en": "Belarus",
+    "center": [
+      27.942676,
+      53.705420000000004
+    ],
+    "centroid": [
+      28.12884847352024,
+      53.51982039252335
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "population": 9466856,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BB",
+    "name": "巴巴多斯",
+    "name_en": "Barbados",
+    "center": [
+      -59.537158500000004,
+      13.1899415
+    ],
+    "centroid": [
+      -59.54626755555556,
+      13.160997111111111
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "BB",
+    "iso3": "BRB",
+    "population": 287025,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BD",
+    "name": "孟加拉国",
+    "name_en": "Bangladesh",
+    "center": [
+      90.3275395,
+      23.6809815
+    ],
+    "centroid": [
+      90.49694214062492,
+      23.50935133072916
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "population": 163046161,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BH",
+    "name": "巴林",
+    "name_en": "Bahrain",
+    "center": [
+      50.5349605,
+      26.0266115
+    ],
+    "centroid": [
+      50.54970715384615,
+      26.05096146153846
+    ],
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "iso2": "BH",
+    "iso3": "BHR",
+    "population": 1641172,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "BS",
+    "name": "巴哈马",
+    "name_en": "Bahamas",
+    "center": [
+      -75.8664555,
+      23.938744999999997
+    ],
+    "centroid": [
+      -76.09284558208961,
+      24.211094361940287
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "population": 389482,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AZ",
+    "name": "阿塞拜疆",
+    "name_en": "Azerbaijan",
+    "center": [
+      47.56709,
+      40.1448485
+    ],
+    "centroid": [
+      46.85050939393939,
+      40.18693071590912
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "population": 10023318,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AT",
+    "name": "奥地利",
+    "name_en": "Austria",
+    "center": [
+      13.335693,
+      47.700415
+    ],
+    "centroid": [
+      13.446065783088235,
+      47.57484939705881
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "population": 8877067,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AU",
+    "name": "澳大利亚",
+    "name_en": "Australia",
+    "center": [
+      135.933545,
+      -32.400488499999994
+    ],
+    "centroid": [
+      137.03582141022773,
+      -25.218444121178415
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "population": 25364307,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "HM",
+    "name": "Heard I. and McDonald Islands",
+    "name_en": "Heard I. and McDonald Islands",
+    "center": [
+      73.5444825,
+      -53.0754395
+    ],
+    "centroid": [
+      73.51009106666667,
+      -53.07556626666666
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "HM",
+    "iso3": "HMD",
+    "population": 0,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "NF",
+    "name": "Norfolk Island",
+    "name_en": "Norfolk Island",
+    "center": [
+      167.94829099999998,
+      -29.055127
+    ],
+    "centroid": [
+      167.94327676923078,
+      -29.05676846153846
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "NF",
+    "iso3": "NFK",
+    "population": 2169,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AM",
+    "name": "亚美尼亚",
+    "name_en": "Armenia",
+    "center": [
+      45.0121095,
+      40.080005
+    ],
+    "centroid": [
+      45.22161949315067,
+      40.216378493150664
+    ],
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "population": 2957731,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AR",
+    "name": "阿根廷",
+    "name_en": "Argentina",
+    "center": [
+      -63.622412499999996,
+      -38.417334
+    ],
+    "centroid": [
+      -65.45453740519739,
+      -37.6669959663138
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "population": 44938712,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AG",
+    "name": "安提瓜和巴布达",
+    "name_en": "Antigua and Barbuda",
+    "center": [
+      -61.786572,
+      17.355615
+    ],
+    "centroid": [
+      -61.78065068181817,
+      17.332850318181816
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "AG",
+    "iso3": "ATG",
+    "population": 97118,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AO",
+    "name": "安哥拉",
+    "name_en": "Angola",
+    "center": [
+      17.894873,
+      -11.2243165
+    ],
+    "centroid": [
+      17.42487491420117,
+      -10.831677047337275
+    ],
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "population": 31825295,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AD",
+    "name": "安道尔",
+    "name_en": "Andorra",
+    "center": [
+      1.577539,
+      42.538599
+    ],
+    "centroid": [
+      1.5632452631578946,
+      42.52996510526315
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "AD",
+    "iso3": "AND",
+    "population": 77142,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "DZ",
+    "name": "阿尔及利亚",
+    "name_en": "Algeria",
+    "center": [
+      1.6422605,
+      28.039502
+    ],
+    "centroid": [
+      1.7899424041994734,
+      29.230014939632554
+    ],
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "population": 43053054,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AL",
+    "name": "阿尔巴尼亚",
+    "name_en": "Albania",
+    "center": [
+      20.1558595,
+      41.150732500000004
+    ],
+    "centroid": [
+      20.102865796460183,
+      41.09108261946905
+    ],
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "population": 2854191,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "AF",
+    "name": "阿富汗",
+    "name_en": "Afghanistan",
+    "center": [
+      67.6885255,
+      33.9241695
+    ],
+    "centroid": [
+      67.56409206829265,
+      34.941269651219514
+    ],
+    "continent": "Asia",
+    "region": "South Asia",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "population": 38041754,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "SX",
+    "name": "Sint Maarten",
+    "name_en": "Sint Maarten",
+    "center": [
+      -63.067944499999996,
+      18.044067
+    ],
+    "centroid": [
+      -63.07253785714285,
+      18.05387814285714
+    ],
+    "continent": "Americas",
+    "region": "Latin America & Caribbean",
+    "iso2": "SX",
+    "iso3": "SXM",
+    "population": 40733,
+    "area_sqkm": 0
+  },
+  {
+    "adcode": "TV",
+    "name": "图瓦卢",
+    "name_en": "Tuvalu",
+    "center": [
+      179.2061525,
+      -8.500634999999999
+    ],
+    "centroid": [
+      179.2052246,
+      -8.5058205
+    ],
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "iso2": "TV",
+    "iso3": "TUV",
+    "population": 11646,
+    "area_sqkm": 0
+  }
+]

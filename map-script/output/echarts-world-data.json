@@ -1,0 +1,4199 @@
+{
+  "type": "world",
+  "countries": [
+    {
+      "name": "印度尼西亚",
+      "name_en": "Indonesia",
+      "value": [
+        117.99516650000001,
+        -2.5062594999999996,
+        100
+      ],
+      "adcode": "ID",
+      "iso2": "ID",
+      "iso3": "IDN",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 270625568,
+      "area": 0,
+      "gdp": "4680.60",
+      "development": "0.507"
+    },
+    {
+      "name": "马来西亚",
+      "name_en": "Malaysia",
+      "value": [
+        109.4616575,
+        4.103575,
+        100
+      ],
+      "adcode": "MY",
+      "iso2": "MY",
+      "iso3": "MYS",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 31949777,
+      "area": 0,
+      "gdp": "2267.06",
+      "development": "0.361"
+    },
+    {
+      "name": "智利",
+      "name_en": "Chile",
+      "value": [
+        -87.9372655,
+        -36.712546,
+        100
+      ],
+      "adcode": "CL",
+      "iso2": "CL",
+      "iso3": "CHL",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 18952038,
+      "area": 0,
+      "gdp": "4308.62",
+      "development": "0.274"
+    },
+    {
+      "name": "玻利维亚",
+      "name_en": "Bolivia",
+      "value": [
+        -63.5660765,
+        -16.2885395,
+        100
+      ],
+      "adcode": "BO",
+      "iso2": "BO",
+      "iso3": "BOL",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 11513100,
+      "area": 0,
+      "gdp": "4116.92",
+      "development": "0.525"
+    },
+    {
+      "name": "秘鲁",
+      "name_en": "Peru",
+      "value": [
+        -75.01090500000001,
+        -9.1834195,
+        100
+      ],
+      "adcode": "PE",
+      "iso2": "PE",
+      "iso3": "PER",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 32510453,
+      "area": 0,
+      "gdp": "1941.93",
+      "development": "0.703"
+    },
+    {
+      "name": "阿根廷",
+      "name_en": "Argentina",
+      "value": [
+        -63.617146,
+        -38.419477,
+        100
+      ],
+      "adcode": "AR",
+      "iso2": "AR",
+      "iso3": "ARG",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 44938712,
+      "area": 0,
+      "gdp": "1031.61",
+      "development": "0.826"
+    },
+    {
+      "name": "塞浦路斯",
+      "name_en": "Cyprus",
+      "value": [
+        33.1854355,
+        34.9060505,
+        100
+      ],
+      "adcode": "CY",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 1198575,
+      "area": 0,
+      "gdp": "2823.10",
+      "development": "0.557"
+    },
+    {
+      "name": "印度",
+      "name_en": "India",
+      "value": [
+        82.752828,
+        21.1204785,
+        100
+      ],
+      "adcode": "IN",
+      "iso2": "IN",
+      "iso3": "IND",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 1366417754,
+      "area": 0,
+      "gdp": "1270.57",
+      "development": "0.776"
+    },
+    {
+      "name": "中国",
+      "name_en": "China",
+      "value": [
+        104.18741750000001,
+        34.6724105,
+        100
+      ],
+      "adcode": "CN",
+      "iso2": "CN",
+      "iso3": "CHN",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 1397715000,
+      "area": 0,
+      "gdp": "2025.93",
+      "development": "0.246"
+    },
+    {
+      "name": "以色列",
+      "name_en": "Israel",
+      "value": [
+        35.068212,
+        31.4482065,
+        100
+      ],
+      "adcode": "IL",
+      "iso2": "IL",
+      "iso3": "ISR",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 9053300,
+      "area": 0,
+      "gdp": "2557.43",
+      "development": "0.332"
+    },
+    {
+      "name": "黎巴嫩",
+      "name_en": "Lebanon",
+      "value": [
+        35.8518605,
+        33.871564,
+        100
+      ],
+      "adcode": "LB",
+      "iso2": "LB",
+      "iso3": "LBN",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 6855713,
+      "area": 0,
+      "gdp": "1309.72",
+      "development": "0.903"
+    },
+    {
+      "name": "埃塞俄比亚",
+      "name_en": "Ethiopia",
+      "value": [
+        40.4844845,
+        9.1414325,
+        100
+      ],
+      "adcode": "ET",
+      "iso2": "ET",
+      "iso3": "ETH",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 112078730,
+      "area": 0,
+      "gdp": "4138.54",
+      "development": "0.471"
+    },
+    {
+      "name": "南苏丹",
+      "name_en": "South Sudan",
+      "value": [
+        30.021195499999997,
+        7.8531785,
+        100
+      ],
+      "adcode": "SS",
+      "iso2": "SS",
+      "iso3": "SSD",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 11062113,
+      "area": 0,
+      "gdp": "4361.89",
+      "development": "0.238"
+    },
+    {
+      "name": "索马里",
+      "name_en": "Somalia",
+      "value": [
+        46.191211499999994,
+        5.146408,
+        100
+      ],
+      "adcode": "SO",
+      "iso2": "SO",
+      "iso3": "SOM",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 10192317.3,
+      "area": 0,
+      "gdp": "4320.87",
+      "development": "0.968"
+    },
+    {
+      "name": "肯尼亚",
+      "name_en": "Kenya",
+      "value": [
+        37.8877435,
+        0.17643600000000026,
+        100
+      ],
+      "adcode": "KE",
+      "iso2": "KE",
+      "iso3": "KEN",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 52573973,
+      "area": 0,
+      "gdp": "1762.10",
+      "development": "0.836"
+    },
+    {
+      "name": "马拉维",
+      "name_en": "Malawi",
+      "value": [
+        34.283803500000005,
+        -13.258285,
+        100
+      ],
+      "adcode": "MW",
+      "iso2": "MW",
+      "iso3": "MWI",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 18628747,
+      "area": 0,
+      "gdp": "4365.33",
+      "development": "0.791"
+    },
+    {
+      "name": "坦桑尼亚",
+      "name_en": "Tanzania",
+      "value": [
+        34.885212,
+        -6.358551,
+        100
+      ],
+      "adcode": "TZ",
+      "iso2": "TZ",
+      "iso3": "TZA",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 58005463,
+      "area": 0,
+      "gdp": "548.11",
+      "development": "0.444"
+    },
+    {
+      "name": "叙利亚",
+      "name_en": "Syria",
+      "value": [
+        39.0502925,
+        34.818974,
+        100
+      ],
+      "adcode": "SY",
+      "iso2": "SY",
+      "iso3": "SYR",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 17070135,
+      "area": 0,
+      "gdp": "4710.75",
+      "development": "0.373"
+    },
+    {
+      "name": "苏里南",
+      "name_en": "Suriname",
+      "value": [
+        -56.027024,
+        3.9225405,
+        100
+      ],
+      "adcode": "SR",
+      "iso2": "SR",
+      "iso3": "SUR",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 581363,
+      "area": 0,
+      "gdp": "1250.70",
+      "development": "0.257"
+    },
+    {
+      "name": "圭亚那",
+      "name_en": "Guyana",
+      "value": [
+        -58.939266,
+        4.8719149999999996,
+        100
+      ],
+      "adcode": "GY",
+      "iso2": "GY",
+      "iso3": "GUY",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 782766,
+      "area": 0,
+      "gdp": "2902.40",
+      "development": "0.759"
+    },
+    {
+      "name": "Republic of Korea",
+      "name_en": "Republic of Korea",
+      "value": [
+        128.2380695,
+        35.910956,
+        100
+      ],
+      "adcode": "KR",
+      "iso2": "KR",
+      "iso3": "KOR",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 51709098,
+      "area": 0,
+      "gdp": "1231.06",
+      "development": "0.908"
+    },
+    {
+      "name": "Dem. Rep. Korea",
+      "name_en": "Dem. Rep. Korea",
+      "value": [
+        127.45563899999999,
+        40.3429375,
+        100
+      ],
+      "adcode": "KP",
+      "iso2": "KP",
+      "iso3": "PRK",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 25666161,
+      "area": 0,
+      "gdp": "1198.91",
+      "development": "0.930"
+    },
+    {
+      "name": "摩洛哥",
+      "name_en": "Morocco",
+      "value": [
+        -9.022871,
+        28.673245,
+        100
+      ],
+      "adcode": "MA",
+      "iso2": "MA",
+      "iso3": "MAR",
+      "continent": "Africa",
+      "region": "Middle East & North Africa",
+      "population": 36471769,
+      "area": 0,
+      "gdp": "4653.01",
+      "development": "0.523"
+    },
+    {
+      "name": "Western Sahara",
+      "name_en": "Western Sahara",
+      "value": [
+        -12.8927265,
+        24.214188999999998,
+        100
+      ],
+      "adcode": "EH",
+      "iso2": "EH",
+      "iso3": "ESH",
+      "continent": "Africa",
+      "region": "Middle East & North Africa",
+      "population": 603253,
+      "area": 0,
+      "gdp": "4828.06",
+      "development": "0.868"
+    },
+    {
+      "name": "哥斯达黎加",
+      "name_en": "Costa Rica",
+      "value": [
+        -84.840251,
+        8.3625095,
+        100
+      ],
+      "adcode": "CR",
+      "iso2": "CR",
+      "iso3": "CRI",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 5047561,
+      "area": 0,
+      "gdp": "4313.56",
+      "development": "0.468"
+    },
+    {
+      "name": "尼加拉瓜",
+      "name_en": "Nicaragua",
+      "value": [
+        -85.205759,
+        12.872226000000001,
+        100
+      ],
+      "adcode": "NI",
+      "iso2": "NI",
+      "iso3": "NIC",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 6545502,
+      "area": 0,
+      "gdp": "3798.61",
+      "development": "0.799"
+    },
+    {
+      "name": "Republic of the Congo",
+      "name_en": "Republic of the Congo",
+      "value": [
+        14.878211499999999,
+        -0.6556775000000001,
+        100
+      ],
+      "adcode": "CG",
+      "iso2": "CG",
+      "iso3": "COG",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 5380508,
+      "area": 0,
+      "gdp": "2804.66",
+      "development": "0.514"
+    },
+    {
+      "name": "刚果民主共和国",
+      "name_en": "Democratic Republic of the Congo",
+      "value": [
+        21.745494,
+        -4.0415355,
+        100
+      ],
+      "adcode": "CD",
+      "iso2": "CD",
+      "iso3": "COD",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 86790567,
+      "area": 0,
+      "gdp": "4942.22",
+      "development": "0.574"
+    },
+    {
+      "name": "不丹",
+      "name_en": "Bhutan",
+      "value": [
+        90.40942150000001,
+        27.527274,
+        100
+      ],
+      "adcode": "BT",
+      "iso2": "BT",
+      "iso3": "BTN",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 763092,
+      "area": 0,
+      "gdp": "3893.52",
+      "development": "0.956"
+    },
+    {
+      "name": "乌克兰",
+      "name_en": "Ukraine",
+      "value": [
+        31.1461915,
+        48.7912585,
+        100
+      ],
+      "adcode": "UA",
+      "iso2": "UA",
+      "iso3": "UKR",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 44385155,
+      "area": 0,
+      "gdp": "1254.37",
+      "development": "0.394"
+    },
+    {
+      "name": "白俄罗斯",
+      "name_en": "Belarus",
+      "value": [
+        27.9425885,
+        53.695987,
+        100
+      ],
+      "adcode": "BY",
+      "iso2": "BY",
+      "iso3": "BLR",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 9466856,
+      "area": 0,
+      "gdp": "2415.66",
+      "development": "0.352"
+    },
+    {
+      "name": "纳米比亚",
+      "name_en": "Namibia",
+      "value": [
+        18.488701,
+        -22.955212500000002,
+        100
+      ],
+      "adcode": "NA",
+      "iso2": "NA",
+      "iso3": "NAM",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 2494530,
+      "area": 0,
+      "gdp": "2471.12",
+      "development": "0.230"
+    },
+    {
+      "name": "南非",
+      "name_en": "South Africa",
+      "value": [
+        27.223887500000004,
+        -34.5461025,
+        100
+      ],
+      "adcode": "ZA",
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 58558270,
+      "area": 0,
+      "gdp": "4877.62",
+      "development": "0.799"
+    },
+    {
+      "name": "Saint-Martin",
+      "name_en": "Saint-Martin",
+      "value": [
+        -63.078785999999994,
+        18.0777645,
+        100
+      ],
+      "adcode": "MF",
+      "iso2": "MF",
+      "iso3": "MAF",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 38002,
+      "area": 0,
+      "gdp": "1575.85",
+      "development": "0.579"
+    },
+    {
+      "name": "Sint Maarten",
+      "name_en": "Sint Maarten",
+      "value": [
+        -63.068227500000006,
+        18.040615000000003,
+        100
+      ],
+      "adcode": "SX",
+      "iso2": "SX",
+      "iso3": "SXM",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 40733,
+      "area": 0,
+      "gdp": "2950.93",
+      "development": "0.547"
+    },
+    {
+      "name": "阿曼",
+      "name_en": "Oman",
+      "value": [
+        55.9115945,
+        21.5141865,
+        100
+      ],
+      "adcode": "OM",
+      "iso2": "OM",
+      "iso3": "OMN",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 4974986,
+      "area": 0,
+      "gdp": "2780.63",
+      "development": "0.885"
+    },
+    {
+      "name": "乌兹别克斯坦",
+      "name_en": "Uzbekistan",
+      "value": [
+        64.56224,
+        41.371933,
+        100
+      ],
+      "adcode": "UZ",
+      "iso2": "UZ",
+      "iso3": "UZB",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 33580650,
+      "area": 0,
+      "gdp": "3910.49",
+      "development": "0.442"
+    },
+    {
+      "name": "哈萨克斯坦",
+      "name_en": "Kazakhstan",
+      "value": [
+        66.9010375,
+        48.009603,
+        100
+      ],
+      "adcode": "KZ",
+      "iso2": "KZ",
+      "iso3": "KAZ",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 18513930,
+      "area": 0,
+      "gdp": "2468.38",
+      "development": "0.336"
+    },
+    {
+      "name": "塔吉克斯坦",
+      "name_en": "Tajikistan",
+      "value": [
+        71.25340750000001,
+        38.859308999999996,
+        100
+      ],
+      "adcode": "TJ",
+      "iso2": "TJ",
+      "iso3": "TJK",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 9321018,
+      "area": 0,
+      "gdp": "3246.25",
+      "development": "0.601"
+    },
+    {
+      "name": "立陶宛",
+      "name_en": "Lithuania",
+      "value": [
+        23.862644500000002,
+        55.1647215,
+        100
+      ],
+      "adcode": "LT",
+      "iso2": "LT",
+      "iso3": "LTU",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 2786844,
+      "area": 0,
+      "gdp": "642.20",
+      "development": "0.763"
+    },
+    {
+      "name": "巴西",
+      "name_en": "Brazil",
+      "value": [
+        -51.44777,
+        -14.2375275,
+        100
+      ],
+      "adcode": "BR",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 211049527,
+      "area": 0,
+      "gdp": "132.65",
+      "development": "0.703"
+    },
+    {
+      "name": "乌拉圭",
+      "name_en": "Uruguay",
+      "value": [
+        -55.7750985,
+        -32.5351365,
+        100
+      ],
+      "adcode": "UY",
+      "iso2": "UY",
+      "iso3": "URY",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 3461734,
+      "area": 0,
+      "gdp": "4163.38",
+      "development": "0.677"
+    },
+    {
+      "name": "蒙古",
+      "name_en": "Mongolia",
+      "value": [
+        103.821368,
+        46.857864500000005,
+        100
+      ],
+      "adcode": "MN",
+      "iso2": "MN",
+      "iso3": "MNG",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 3225167,
+      "area": 0,
+      "gdp": "1600.38",
+      "development": "0.819"
+    },
+    {
+      "name": "Russian Federation",
+      "name_en": "Russian Federation",
+      "value": [
+        0,
+        61.5256955,
+        100
+      ],
+      "adcode": "RU",
+      "iso2": "RU",
+      "iso3": "RUS",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 144373535,
+      "area": 0,
+      "gdp": "144.41",
+      "development": "0.259"
+    },
+    {
+      "name": "Czech Republic",
+      "name_en": "Czech Republic",
+      "value": [
+        15.456787499999999,
+        49.798964,
+        100
+      ],
+      "adcode": "CZ",
+      "iso2": "CZ",
+      "iso3": "CZE",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 10669709,
+      "area": 0,
+      "gdp": "3027.69",
+      "development": "0.983"
+    },
+    {
+      "name": "德国",
+      "name_en": "Germany",
+      "value": [
+        10.437274500000001,
+        51.1682275,
+        100
+      ],
+      "adcode": "DE",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 83132799,
+      "area": 0,
+      "gdp": "3104.25",
+      "development": "0.289"
+    },
+    {
+      "name": "爱沙尼亚",
+      "name_en": "Estonia",
+      "value": [
+        25.009421000000003,
+        58.593351999999996,
+        100
+      ],
+      "adcode": "EE",
+      "iso2": "EE",
+      "iso3": "EST",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 1326590,
+      "area": 0,
+      "gdp": "231.93",
+      "development": "0.295"
+    },
+    {
+      "name": "拉脱维亚",
+      "name_en": "Latvia",
+      "value": [
+        24.5929365,
+        56.8710645,
+        100
+      ],
+      "adcode": "LV",
+      "iso2": "LV",
+      "iso3": "LVA",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 1912789,
+      "area": 0,
+      "gdp": "3612.00",
+      "development": "0.463"
+    },
+    {
+      "name": "瑞典",
+      "name_en": "Sweden",
+      "value": [
+        17.6357895,
+        62.189516999999995,
+        100
+      ],
+      "adcode": "SE",
+      "iso2": "SE",
+      "iso3": "SWE",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 10285453,
+      "area": 0,
+      "gdp": "4953.40",
+      "development": "0.242"
+    },
+    {
+      "name": "芬兰",
+      "name_en": "Finland",
+      "value": [
+        26.096345,
+        64.9432675,
+        100
+      ],
+      "adcode": "FI",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 5520314,
+      "area": 0,
+      "gdp": "3290.49",
+      "development": "0.412"
+    },
+    {
+      "name": "越南",
+      "name_en": "Vietnam",
+      "value": [
+        105.795539,
+        15.965927,
+        100
+      ],
+      "adcode": "VN",
+      "iso2": "VN",
+      "iso3": "VNM",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 96462106,
+      "area": 0,
+      "gdp": "4062.96",
+      "development": "0.292"
+    },
+    {
+      "name": "柬埔寨",
+      "name_en": "Cambodia",
+      "value": [
+        104.96197000000001,
+        12.560178,
+        100
+      ],
+      "adcode": "KH",
+      "iso2": "KH",
+      "iso3": "KHM",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 16486542,
+      "area": 0,
+      "gdp": "1017.52",
+      "development": "0.252"
+    },
+    {
+      "name": "卢森堡",
+      "name_en": "Luxembourg",
+      "value": [
+        6.108753,
+        49.8081495,
+        100
+      ],
+      "adcode": "LU",
+      "iso2": "LU",
+      "iso3": "LUX",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 619896,
+      "area": 0,
+      "gdp": "3217.99",
+      "development": "0.275"
+    },
+    {
+      "name": "阿拉伯联合酋长国",
+      "name_en": "United Arab Emirates",
+      "value": [
+        53.976492,
+        24.347869,
+        100
+      ],
+      "adcode": "AE",
+      "iso2": "AE",
+      "iso3": "ARE",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 9770529,
+      "area": 0,
+      "gdp": "2326.36",
+      "development": "0.805"
+    },
+    {
+      "name": "比利时",
+      "name_en": "Belgium",
+      "value": [
+        4.4481625000000005,
+        50.4957305,
+        100
+      ],
+      "adcode": "BE",
+      "iso2": "BE",
+      "iso3": "BEL",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 11484055,
+      "area": 0,
+      "gdp": "3945.79",
+      "development": "0.649"
+    },
+    {
+      "name": "格鲁吉亚",
+      "name_en": "Georgia",
+      "value": [
+        43.3403895,
+        42.309977,
+        100
+      ],
+      "adcode": "GE",
+      "iso2": "GE",
+      "iso3": "GEO",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 3720382,
+      "area": 0,
+      "gdp": "3169.02",
+      "development": "0.235"
+    },
+    {
+      "name": "北马其顿",
+      "name_en": "North Macedonia",
+      "value": [
+        21.7268695,
+        41.6098645,
+        100
+      ],
+      "adcode": "MK",
+      "iso2": "MK",
+      "iso3": "MKD",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 2083459,
+      "area": 0,
+      "gdp": "3011.14",
+      "development": "0.876"
+    },
+    {
+      "name": "阿尔巴尼亚",
+      "name_en": "Albania",
+      "value": [
+        20.154356,
+        41.145913500000006,
+        100
+      ],
+      "adcode": "AL",
+      "iso2": "AL",
+      "iso3": "ALB",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 2854191,
+      "area": 0,
+      "gdp": "3634.50",
+      "development": "0.767"
+    },
+    {
+      "name": "阿塞拜疆",
+      "name_en": "Azerbaijan",
+      "value": [
+        47.700151000000005,
+        40.1415435,
+        100
+      ],
+      "adcode": "AZ",
+      "iso2": "AZ",
+      "iso3": "AZE",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 10023318,
+      "area": 0,
+      "gdp": "678.20",
+      "development": "0.323"
+    },
+    {
+      "name": "土耳其",
+      "name_en": "Turkey",
+      "value": [
+        35.235126,
+        38.9592805,
+        100
+      ],
+      "adcode": "TR",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 83429615,
+      "area": 0,
+      "gdp": "1326.78",
+      "development": "0.224"
+    },
+    {
+      "name": "西班牙",
+      "name_en": "Spain",
+      "value": [
+        -6.9150694999999995,
+        35.717841,
+        100
+      ],
+      "adcode": "ES",
+      "iso2": "ES",
+      "iso3": "ESP",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 47076781,
+      "area": 0,
+      "gdp": "4224.50",
+      "development": "0.644"
+    },
+    {
+      "name": "Lao PDR",
+      "name_en": "Lao PDR",
+      "value": [
+        103.880718,
+        18.2057505,
+        100
+      ],
+      "adcode": "LA",
+      "iso2": "LA",
+      "iso3": "LAO",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 7169455,
+      "area": 0,
+      "gdp": "2781.71",
+      "development": "0.759"
+    },
+    {
+      "name": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan",
+      "value": [
+        74.7419285,
+        41.2254695,
+        100
+      ],
+      "adcode": "KG",
+      "iso2": "KG",
+      "iso3": "KGZ",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 6456900,
+      "area": 0,
+      "gdp": "2487.85",
+      "development": "0.446"
+    },
+    {
+      "name": "亚美尼亚",
+      "name_en": "Armenia",
+      "value": [
+        45.019453,
+        40.077076500000004,
+        100
+      ],
+      "adcode": "AM",
+      "iso2": "AM",
+      "iso3": "ARM",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 2957731,
+      "area": 0,
+      "gdp": "977.69",
+      "development": "0.718"
+    },
+    {
+      "name": "丹麦",
+      "name_en": "Denmark",
+      "value": [
+        11.622691499999998,
+        56.159878,
+        100
+      ],
+      "adcode": "DK",
+      "iso2": "DK",
+      "iso3": "DNK",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 5818553,
+      "area": 0,
+      "gdp": "56.58",
+      "development": "0.571"
+    },
+    {
+      "name": "利比亚",
+      "name_en": "Libya",
+      "value": [
+        17.2214025,
+        26.338674499999996,
+        100
+      ],
+      "adcode": "LY",
+      "iso2": "LY",
+      "iso3": "LBY",
+      "continent": "Africa",
+      "region": "Middle East & North Africa",
+      "population": 6777452,
+      "area": 0,
+      "gdp": "1927.47",
+      "development": "0.320"
+    },
+    {
+      "name": "突尼斯",
+      "name_en": "Tunisia",
+      "value": [
+        9.521981499999999,
+        33.787053,
+        100
+      ],
+      "adcode": "TN",
+      "iso2": "TN",
+      "iso3": "TUN",
+      "continent": "Africa",
+      "region": "Middle East & North Africa",
+      "population": 11694719,
+      "area": 0,
+      "gdp": "1070.01",
+      "development": "0.910"
+    },
+    {
+      "name": "罗马尼亚",
+      "name_en": "Romania",
+      "value": [
+        24.9711905,
+        45.962441,
+        100
+      ],
+      "adcode": "RO",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 19356544,
+      "area": 0,
+      "gdp": "2477.02",
+      "development": "0.786"
+    },
+    {
+      "name": "匈牙利",
+      "name_en": "Hungary",
+      "value": [
+        19.485818000000002,
+        47.155288,
+        100
+      ],
+      "adcode": "HU",
+      "iso2": "HU",
+      "iso3": "HUN",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 9769949,
+      "area": 0,
+      "gdp": "2891.60",
+      "development": "0.857"
+    },
+    {
+      "name": "斯洛伐克",
+      "name_en": "Slovakia",
+      "value": [
+        19.6920585,
+        48.675893,
+        100
+      ],
+      "adcode": "SK",
+      "iso2": "SK",
+      "iso3": "SVK",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 5454073,
+      "area": 0,
+      "gdp": "3258.19",
+      "development": "0.906"
+    },
+    {
+      "name": "波兰",
+      "name_en": "Poland",
+      "value": [
+        19.1335395,
+        51.9161685,
+        100
+      ],
+      "adcode": "PL",
+      "iso2": "PL",
+      "iso3": "POL",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 37970874,
+      "area": 0,
+      "gdp": "761.72",
+      "development": "0.724"
+    },
+    {
+      "name": "爱尔兰",
+      "name_en": "Ireland",
+      "value": [
+        -8.2358495,
+        53.416042,
+        100
+      ],
+      "adcode": "IE",
+      "iso2": "IE",
+      "iso3": "IRL",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 4941444,
+      "area": 0,
+      "gdp": "251.61",
+      "development": "0.929"
+    },
+    {
+      "name": "英国",
+      "name_en": "United Kingdom",
+      "value": [
+        -5.9600725,
+        55.3787495,
+        100
+      ],
+      "adcode": "GB",
+      "iso2": "GB",
+      "iso3": "GBR",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 66834405,
+      "area": 0,
+      "gdp": "859.07",
+      "development": "0.661"
+    },
+    {
+      "name": "希腊",
+      "name_en": "Greece",
+      "value": [
+        23.933116,
+        38.2827425,
+        100
+      ],
+      "adcode": "GR",
+      "iso2": "GR",
+      "iso3": "GRC",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 10716322,
+      "area": 0,
+      "gdp": "4388.86",
+      "development": "0.901"
+    },
+    {
+      "name": "赞比亚",
+      "name_en": "Zambia",
+      "value": [
+        27.8270405,
+        -13.131678,
+        100
+      ],
+      "adcode": "ZM",
+      "iso2": "ZM",
+      "iso3": "ZMB",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 17861030,
+      "area": 0,
+      "gdp": "3950.99",
+      "development": "0.718"
+    },
+    {
+      "name": "塞拉利昂",
+      "name_en": "Sierra Leone",
+      "value": [
+        -11.791666,
+        8.457713,
+        100
+      ],
+      "adcode": "SL",
+      "iso2": "SL",
+      "iso3": "SLE",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 7813215,
+      "area": 0,
+      "gdp": "1203.63",
+      "development": "0.606"
+    },
+    {
+      "name": "几内亚",
+      "name_en": "Guinea",
+      "value": [
+        -11.371786,
+        9.931798,
+        100
+      ],
+      "adcode": "GN",
+      "iso2": "GN",
+      "iso3": "GIN",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 12771246,
+      "area": 0,
+      "gdp": "653.77",
+      "development": "0.774"
+    },
+    {
+      "name": "利比里亚",
+      "name_en": "Liberia",
+      "value": [
+        -9.430152,
+        6.4563155000000005,
+        100
+      ],
+      "adcode": "LR",
+      "iso2": "LR",
+      "iso3": "LBR",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 4937374,
+      "area": 0,
+      "gdp": "3778.39",
+      "development": "0.848"
+    },
+    {
+      "name": "中非共和国",
+      "name_en": "Central African Republic",
+      "value": [
+        20.9142835,
+        6.618641,
+        100
+      ],
+      "adcode": "CF",
+      "iso2": "CF",
+      "iso3": "CAF",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 4745185,
+      "area": 0,
+      "gdp": "3667.56",
+      "development": "0.261"
+    },
+    {
+      "name": "苏丹",
+      "name_en": "Sudan",
+      "value": [
+        30.206650500000002,
+        15.4543035,
+        100
+      ],
+      "adcode": "SD",
+      "iso2": "SD",
+      "iso3": "SDN",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 42813238,
+      "area": 0,
+      "gdp": "2109.45",
+      "development": "0.294"
+    },
+    {
+      "name": "吉布提",
+      "name_en": "Djibouti",
+      "value": [
+        42.583911,
+        11.818869,
+        100
+      ],
+      "adcode": "DJ",
+      "iso2": "DJ",
+      "iso3": "DJI",
+      "continent": "Africa",
+      "region": "Middle East & North Africa",
+      "population": 973560,
+      "area": 0,
+      "gdp": "4841.23",
+      "development": "0.550"
+    },
+    {
+      "name": "厄立特里亚",
+      "name_en": "Eritrea",
+      "value": [
+        39.773759,
+        15.182425,
+        100
+      ],
+      "adcode": "ER",
+      "iso2": "ER",
+      "iso3": "ERI",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 6081196,
+      "area": 0,
+      "gdp": "2671.57",
+      "development": "0.849"
+    },
+    {
+      "name": "奥地利",
+      "name_en": "Austria",
+      "value": [
+        13.3347465,
+        47.6942085,
+        100
+      ],
+      "adcode": "AT",
+      "iso2": "AT",
+      "iso3": "AUT",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 8877067,
+      "area": 0,
+      "gdp": "1344.82",
+      "development": "0.933"
+    },
+    {
+      "name": "伊拉克",
+      "name_en": "Iraq",
+      "value": [
+        43.666883,
+        33.2193175,
+        100
+      ],
+      "adcode": "IQ",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 39309783,
+      "area": 0,
+      "gdp": "1481.08",
+      "development": "0.273"
+    },
+    {
+      "name": "意大利",
+      "name_en": "Italy",
+      "value": [
+        12.560077,
+        41.287229499999995,
+        100
+      ],
+      "adcode": "IT",
+      "iso2": "IT",
+      "iso3": "ITA",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 60297396,
+      "area": 0,
+      "gdp": "952.12",
+      "development": "0.869"
+    },
+    {
+      "name": "瑞士",
+      "name_en": "Switzerland",
+      "value": [
+        8.210718,
+        46.810942,
+        100
+      ],
+      "adcode": "CH",
+      "iso2": "CH",
+      "iso3": "CHE",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 8574832,
+      "area": 0,
+      "gdp": "1058.38",
+      "development": "0.598"
+    },
+    {
+      "name": "伊朗",
+      "name_en": "Iran",
+      "value": [
+        53.6672455,
+        32.4154675,
+        100
+      ],
+      "adcode": "IR",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 82913906,
+      "area": 0,
+      "gdp": "3504.30",
+      "development": "0.362"
+    },
+    {
+      "name": "荷兰",
+      "name_en": "Netherlands",
+      "value": [
+        -30.609441,
+        32.790066,
+        100
+      ],
+      "adcode": "NL",
+      "iso2": "NL",
+      "iso3": "NLD",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 17332850,
+      "area": 0,
+      "gdp": "4000.70",
+      "development": "0.904"
+    },
+    {
+      "name": "列支敦士登",
+      "name_en": "Liechtenstein",
+      "value": [
+        9.5458045,
+        47.1576005,
+        100
+      ],
+      "adcode": "LI",
+      "iso2": "LI",
+      "iso3": "LIE",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 38019,
+      "area": 0,
+      "gdp": "2151.79",
+      "development": "0.777"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "name_en": "Côte d'Ivoire",
+      "value": [
+        -5.562524,
+        7.535270000000001,
+        100
+      ],
+      "adcode": "CI",
+      "iso2": "CI",
+      "iso3": "CIV",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 25716544,
+      "area": 0,
+      "gdp": "3991.37",
+      "development": "0.955"
+    },
+    {
+      "name": "塞尔维亚",
+      "name_en": "Serbia",
+      "value": [
+        20.9147745,
+        44.20441,
+        100
+      ],
+      "adcode": "RS",
+      "iso2": "RS",
+      "iso3": "SRB",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 6944975,
+      "area": 0,
+      "gdp": "4913.56",
+      "development": "0.702"
+    },
+    {
+      "name": "马里",
+      "name_en": "Mali",
+      "value": [
+        -4.014246,
+        17.5675595,
+        100
+      ],
+      "adcode": "ML",
+      "iso2": "ML",
+      "iso3": "MLI",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 19658031,
+      "area": 0,
+      "gdp": "59.39",
+      "development": "0.653"
+    },
+    {
+      "name": "塞内加尔",
+      "name_en": "Senegal",
+      "value": [
+        -14.4569085,
+        14.498496,
+        100
+      ],
+      "adcode": "SN",
+      "iso2": "SN",
+      "iso3": "SEN",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 16296364,
+      "area": 0,
+      "gdp": "4218.58",
+      "development": "0.507"
+    },
+    {
+      "name": "尼日利亚",
+      "name_en": "Nigeria",
+      "value": [
+        8.670509,
+        9.0762265,
+        100
+      ],
+      "adcode": "NG",
+      "iso2": "NG",
+      "iso3": "NGA",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 200963599,
+      "area": 0,
+      "gdp": "1870.17",
+      "development": "0.814"
+    },
+    {
+      "name": "贝宁",
+      "name_en": "Benin",
+      "value": [
+        2.2986500000000003,
+        9.306569,
+        100
+      ],
+      "adcode": "BJ",
+      "iso2": "BJ",
+      "iso3": "BEN",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 11801151,
+      "area": 0,
+      "gdp": "2502.54",
+      "development": "0.328"
+    },
+    {
+      "name": "安哥拉",
+      "name_en": "Angola",
+      "value": [
+        17.865554,
+        -11.2113045,
+        100
+      ],
+      "adcode": "AO",
+      "iso2": "AO",
+      "iso3": "AGO",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 31825295,
+      "area": 0,
+      "gdp": "2262.93",
+      "development": "0.778"
+    },
+    {
+      "name": "克罗地亚",
+      "name_en": "Croatia",
+      "value": [
+        16.4546565,
+        44.481653,
+        100
+      ],
+      "adcode": "HR",
+      "iso2": "HR",
+      "iso3": "HRV",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 4067500,
+      "area": 0,
+      "gdp": "3762.51",
+      "development": "0.269"
+    },
+    {
+      "name": "斯洛文尼亚",
+      "name_en": "Slovenia",
+      "value": [
+        14.9402815,
+        46.1437995,
+        100
+      ],
+      "adcode": "SI",
+      "iso2": "SI",
+      "iso3": "SVN",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 2087946,
+      "area": 0,
+      "gdp": "3040.48",
+      "development": "0.659"
+    },
+    {
+      "name": "卡塔尔",
+      "name_en": "Qatar",
+      "value": [
+        51.183767,
+        25.359986999999997,
+        100
+      ],
+      "adcode": "QA",
+      "iso2": "QA",
+      "iso3": "QAT",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 2832067,
+      "area": 0,
+      "gdp": "2298.15",
+      "development": "0.250"
+    },
+    {
+      "name": "沙特阿拉伯",
+      "name_en": "Saudi Arabia",
+      "value": [
+        45.105165,
+        24.246153,
+        100
+      ],
+      "adcode": "SA",
+      "iso2": "SA",
+      "iso3": "SAU",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 34268528,
+      "area": 0,
+      "gdp": "3077.99",
+      "development": "0.787"
+    },
+    {
+      "name": "博茨瓦纳",
+      "name_en": "Botswana",
+      "value": [
+        24.664209999999997,
+        -22.336801,
+        100
+      ],
+      "adcode": "BW",
+      "iso2": "BW",
+      "iso3": "BWA",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 2303697,
+      "area": 0,
+      "gdp": "862.82",
+      "development": "0.448"
+    },
+    {
+      "name": "津巴布韦",
+      "name_en": "Zimbabwe",
+      "value": [
+        29.131069000000004,
+        -19.006073999999998,
+        100
+      ],
+      "adcode": "ZW",
+      "iso2": "ZW",
+      "iso3": "ZWE",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 14645468,
+      "area": 0,
+      "gdp": "4364.75",
+      "development": "0.766"
+    },
+    {
+      "name": "巴基斯坦",
+      "name_en": "Pakistan",
+      "value": [
+        68.946675,
+        30.3745045,
+        100
+      ],
+      "adcode": "PK",
+      "iso2": "PK",
+      "iso3": "PAK",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 216565318,
+      "area": 0,
+      "gdp": "2749.61",
+      "development": "0.275"
+    },
+    {
+      "name": "保加利亚",
+      "name_en": "Bulgaria",
+      "value": [
+        25.4742745,
+        42.7332695,
+        100
+      ],
+      "adcode": "BG",
+      "iso2": "BG",
+      "iso3": "BGR",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 6975761,
+      "area": 0,
+      "gdp": "4895.02",
+      "development": "0.501"
+    },
+    {
+      "name": "泰国",
+      "name_en": "Thailand",
+      "value": [
+        101.5011995,
+        13.037448,
+        100
+      ],
+      "adcode": "TH",
+      "iso2": "TH",
+      "iso3": "THA",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 69625582,
+      "area": 0,
+      "gdp": "2428.80",
+      "development": "0.896"
+    },
+    {
+      "name": "圣马力诺",
+      "name_en": "San Marino",
+      "value": [
+        12.4390105,
+        43.9373115,
+        100
+      ],
+      "adcode": "SM",
+      "iso2": "SM",
+      "iso3": "SMR",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 33860,
+      "area": 0,
+      "gdp": "3346.71",
+      "development": "0.405"
+    },
+    {
+      "name": "海地",
+      "name_en": "Haiti",
+      "value": [
+        -73.0641385,
+        19.0578675,
+        100
+      ],
+      "adcode": "HT",
+      "iso2": "HT",
+      "iso3": "HTI",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 11263077,
+      "area": 0,
+      "gdp": "3311.98",
+      "development": "0.811"
+    },
+    {
+      "name": "多米尼加共和国",
+      "name_en": "Dominican Republic",
+      "value": [
+        -70.1692205,
+        18.7416245,
+        100
+      ],
+      "adcode": "DO",
+      "iso2": "DO",
+      "iso3": "DOM",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 10738958,
+      "area": 0,
+      "gdp": "1014.23",
+      "development": "0.431"
+    },
+    {
+      "name": "乍得",
+      "name_en": "Chad",
+      "value": [
+        18.716795,
+        15.4501435,
+        100
+      ],
+      "adcode": "TD",
+      "iso2": "TD",
+      "iso3": "TCD",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 15946876,
+      "area": 0,
+      "gdp": "1288.21",
+      "development": "0.735"
+    },
+    {
+      "name": "科威特",
+      "name_en": "Kuwait",
+      "value": [
+        47.4826085,
+        29.3158605,
+        100
+      ],
+      "adcode": "KW",
+      "iso2": "KW",
+      "iso3": "KWT",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 4207083,
+      "area": 0,
+      "gdp": "3718.81",
+      "development": "0.771"
+    },
+    {
+      "name": "萨尔瓦多",
+      "name_en": "El Salvador",
+      "value": [
+        -88.9039865,
+        13.802005000000001,
+        100
+      ],
+      "adcode": "SV",
+      "iso2": "SV",
+      "iso3": "SLV",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 6453553,
+      "area": 0,
+      "gdp": "1429.09",
+      "development": "0.901"
+    },
+    {
+      "name": "危地马拉",
+      "name_en": "Guatemala",
+      "value": [
+        -90.233597,
+        15.773712,
+        100
+      ],
+      "adcode": "GT",
+      "iso2": "GT",
+      "iso3": "GTM",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 16604026,
+      "area": 0,
+      "gdp": "724.41",
+      "development": "0.690"
+    },
+    {
+      "name": "东帝汶",
+      "name_en": "Timor-Leste",
+      "value": [
+        125.67164149999999,
+        -8.818126,
+        100
+      ],
+      "adcode": "TL",
+      "iso2": "TL",
+      "iso3": "TLS",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 1293119,
+      "area": 0,
+      "gdp": "3707.17",
+      "development": "0.412"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "name_en": "Brunei Darussalam",
+      "value": [
+        114.6797655,
+        4.5369385,
+        100
+      ],
+      "adcode": "BN",
+      "iso2": "BN",
+      "iso3": "BRN",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 433285,
+      "area": 0,
+      "gdp": "1253.85",
+      "development": "0.624"
+    },
+    {
+      "name": "摩纳哥",
+      "name_en": "Monaco",
+      "value": [
+        7.4016020000000005,
+        43.740737499999994,
+        100
+      ],
+      "adcode": "MC",
+      "iso2": "MC",
+      "iso3": "MCO",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 38964,
+      "area": 0,
+      "gdp": "447.31",
+      "development": "0.418"
+    },
+    {
+      "name": "阿尔及利亚",
+      "name_en": "Algeria",
+      "value": [
+        1.6432380000000002,
+        28.0347505,
+        100
+      ],
+      "adcode": "DZ",
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "continent": "Africa",
+      "region": "Middle East & North Africa",
+      "population": 43053054,
+      "area": 0,
+      "gdp": "3374.23",
+      "development": "0.482"
+    },
+    {
+      "name": "莫桑比克",
+      "name_en": "Mozambique",
+      "value": [
+        35.5309185,
+        -18.66464,
+        100
+      ],
+      "adcode": "MZ",
+      "iso2": "MZ",
+      "iso3": "MOZ",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 30366036,
+      "area": 0,
+      "gdp": "831.46",
+      "development": "0.464"
+    },
+    {
+      "name": "Kingdom of eSwatini",
+      "name_en": "Kingdom of eSwatini",
+      "value": [
+        31.450152000000003,
+        -26.526131499999998,
+        100
+      ],
+      "adcode": "SZ",
+      "iso2": "SZ",
+      "iso3": "SWZ",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 1148130,
+      "area": 0,
+      "gdp": "2894.62",
+      "development": "0.701"
+    },
+    {
+      "name": "布隆迪",
+      "name_en": "Burundi",
+      "value": [
+        29.910427,
+        -3.383203,
+        100
+      ],
+      "adcode": "BI",
+      "iso2": "BI",
+      "iso3": "BDI",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 11530580,
+      "area": 0,
+      "gdp": "552.79",
+      "development": "0.535"
+    },
+    {
+      "name": "卢旺达",
+      "name_en": "Rwanda",
+      "value": [
+        29.872522500000002,
+        -1.9427745,
+        100
+      ],
+      "adcode": "RW",
+      "iso2": "RW",
+      "iso3": "RWA",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 12626950,
+      "area": 0,
+      "gdp": "3428.46",
+      "development": "0.540"
+    },
+    {
+      "name": "缅甸",
+      "name_en": "Myanmar",
+      "value": [
+        96.674414,
+        19.1645915,
+        100
+      ],
+      "adcode": "MM",
+      "iso2": "MM",
+      "iso3": "MMR",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 54045420,
+      "area": 0,
+      "gdp": "1949.09",
+      "development": "0.292"
+    },
+    {
+      "name": "孟加拉国",
+      "name_en": "Bangladesh",
+      "value": [
+        90.3323205,
+        23.681129499999997,
+        100
+      ],
+      "adcode": "BD",
+      "iso2": "BD",
+      "iso3": "BGD",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 163046161,
+      "area": 0,
+      "gdp": "3954.33",
+      "development": "0.667"
+    },
+    {
+      "name": "安道尔",
+      "name_en": "Andorra",
+      "value": [
+        1.5857735,
+        42.5390195,
+        100
+      ],
+      "adcode": "AD",
+      "iso2": "AD",
+      "iso3": "AND",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 77142,
+      "area": 0,
+      "gdp": "1890.26",
+      "development": "0.813"
+    },
+    {
+      "name": "阿富汗",
+      "name_en": "Afghanistan",
+      "value": [
+        67.6895425,
+        33.930139,
+        100
+      ],
+      "adcode": "AF",
+      "iso2": "AF",
+      "iso3": "AFG",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 38041754,
+      "area": 0,
+      "gdp": "4386.63",
+      "development": "0.882"
+    },
+    {
+      "name": "黑山",
+      "name_en": "Montenegro",
+      "value": [
+        19.394351,
+        42.700124,
+        100
+      ],
+      "adcode": "ME",
+      "iso2": "ME",
+      "iso3": "MNE",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 622137,
+      "area": 0,
+      "gdp": "3855.55",
+      "development": "0.952"
+    },
+    {
+      "name": "波斯尼亚和黑塞哥维那",
+      "name_en": "Bosnia and Herzegovina",
+      "value": [
+        17.6674795,
+        43.921868,
+        100
+      ],
+      "adcode": "BA",
+      "iso2": "BA",
+      "iso3": "BIH",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 3301000,
+      "area": 0,
+      "gdp": "2267.88",
+      "development": "0.652"
+    },
+    {
+      "name": "乌干达",
+      "name_en": "Uganda",
+      "value": [
+        32.2774665,
+        1.372243,
+        100
+      ],
+      "adcode": "UG",
+      "iso2": "UG",
+      "iso3": "UGA",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 44269594,
+      "area": 0,
+      "gdp": "3657.12",
+      "development": "0.796"
+    },
+    {
+      "name": "古巴",
+      "name_en": "Cuba",
+      "value": [
+        -79.541249,
+        21.546698,
+        100
+      ],
+      "adcode": "CU",
+      "iso2": "CU",
+      "iso3": "CUB",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 11333483,
+      "area": 0,
+      "gdp": "1923.02",
+      "development": "0.407"
+    },
+    {
+      "name": "洪都拉斯",
+      "name_en": "Honduras",
+      "value": [
+        -86.2471175,
+        15.199212,
+        100
+      ],
+      "adcode": "HN",
+      "iso2": "HN",
+      "iso3": "HND",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 9746117,
+      "area": 0,
+      "gdp": "4687.03",
+      "development": "0.567"
+    },
+    {
+      "name": "厄瓜多尔",
+      "name_en": "Ecuador",
+      "value": [
+        -83.619425,
+        -1.6734995,
+        100
+      ],
+      "adcode": "EC",
+      "iso2": "EC",
+      "iso3": "ECU",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 17373662,
+      "area": 0,
+      "gdp": "2986.12",
+      "development": "0.530"
+    },
+    {
+      "name": "哥伦比亚",
+      "name_en": "Colombia",
+      "value": [
+        -74.29938250000001,
+        4.670935500000001,
+        100
+      ],
+      "adcode": "CO",
+      "iso2": "CO",
+      "iso3": "COL",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 50339443,
+      "area": 0,
+      "gdp": "328.85",
+      "development": "0.557"
+    },
+    {
+      "name": "巴拉圭",
+      "name_en": "Paraguay",
+      "value": [
+        -58.447823,
+        -23.4367855,
+        100
+      ],
+      "adcode": "PY",
+      "iso2": "PY",
+      "iso3": "PRY",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 7044636,
+      "area": 0,
+      "gdp": "583.13",
+      "development": "0.972"
+    },
+    {
+      "name": "葡萄牙",
+      "name_en": "Portugal",
+      "value": [
+        -18.745424,
+        36.091436,
+        100
+      ],
+      "adcode": "PT",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 10269417,
+      "area": 0,
+      "gdp": "119.76",
+      "development": "0.308"
+    },
+    {
+      "name": "摩尔多瓦",
+      "name_en": "Moldova",
+      "value": [
+        28.3747325,
+        46.973904,
+        100
+      ],
+      "adcode": "MD",
+      "iso2": "MD",
+      "iso3": "MDA",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 2657637,
+      "area": 0,
+      "gdp": "1306.95",
+      "development": "0.224"
+    },
+    {
+      "name": "土库曼斯坦",
+      "name_en": "Turkmenistan",
+      "value": [
+        59.541726499999996,
+        38.9659175,
+        100
+      ],
+      "adcode": "TM",
+      "iso2": "TM",
+      "iso3": "TKM",
+      "continent": "Asia",
+      "region": "Europe & Central Asia",
+      "population": 5942089,
+      "area": 0,
+      "gdp": "2218.95",
+      "development": "0.846"
+    },
+    {
+      "name": "约旦",
+      "name_en": "Jordan",
+      "value": [
+        37.120692,
+        31.280818,
+        100
+      ],
+      "adcode": "JO",
+      "iso2": "JO",
+      "iso3": "JOR",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 10101694,
+      "area": 0,
+      "gdp": "2624.01",
+      "development": "0.374"
+    },
+    {
+      "name": "尼泊尔",
+      "name_en": "Nepal",
+      "value": [
+        84.0996775,
+        28.380336,
+        100
+      ],
+      "adcode": "NP",
+      "iso2": "NP",
+      "iso3": "NPL",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 28608710,
+      "area": 0,
+      "gdp": "941.67",
+      "development": "0.865"
+    },
+    {
+      "name": "莱索托",
+      "name_en": "Lesotho",
+      "value": [
+        28.2190315,
+        -29.61478,
+        100
+      ],
+      "adcode": "LS",
+      "iso2": "LS",
+      "iso3": "LSO",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 2125268,
+      "area": 0,
+      "gdp": "741.72",
+      "development": "0.207"
+    },
+    {
+      "name": "喀麦隆",
+      "name_en": "Cameroon",
+      "value": [
+        12.3563895,
+        7.367846,
+        100
+      ],
+      "adcode": "CM",
+      "iso2": "CM",
+      "iso3": "CMR",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 25876380,
+      "area": 0,
+      "gdp": "4615.79",
+      "development": "0.850"
+    },
+    {
+      "name": "加蓬",
+      "name_en": "Gabon",
+      "value": [
+        11.597279,
+        -0.8071805000000001,
+        100
+      ],
+      "adcode": "GA",
+      "iso2": "GA",
+      "iso3": "GAB",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 2172579,
+      "area": 0,
+      "gdp": "2182.58",
+      "development": "0.579"
+    },
+    {
+      "name": "尼日尔",
+      "name_en": "Niger",
+      "value": [
+        8.061631499999999,
+        17.606562,
+        100
+      ],
+      "adcode": "NE",
+      "iso2": "NE",
+      "iso3": "NER",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 23310715,
+      "area": 0,
+      "gdp": "3190.15",
+      "development": "0.319"
+    },
+    {
+      "name": "布基纳法索",
+      "name_en": "Burkina Faso",
+      "value": [
+        -1.5662045,
+        12.2358955,
+        100
+      ],
+      "adcode": "BF",
+      "iso2": "BF",
+      "iso3": "BFA",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 20321378,
+      "area": 0,
+      "gdp": "4386.73",
+      "development": "0.342"
+    },
+    {
+      "name": "多哥",
+      "name_en": "Togo",
+      "value": [
+        0.808121,
+        8.6177355,
+        100
+      ],
+      "adcode": "TG",
+      "iso2": "TG",
+      "iso3": "TGO",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 8082366,
+      "area": 0,
+      "gdp": "3227.22",
+      "development": "0.439"
+    },
+    {
+      "name": "加纳",
+      "name_en": "Ghana",
+      "value": [
+        -1.0372705,
+        7.9500325,
+        100
+      ],
+      "adcode": "GH",
+      "iso2": "GH",
+      "iso3": "GHA",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 30417856,
+      "area": 0,
+      "gdp": "2039.12",
+      "development": "0.272"
+    },
+    {
+      "name": "几内亚比绍",
+      "name_en": "Guinea-Bissau",
+      "value": [
+        -15.1945745,
+        11.8035365,
+        100
+      ],
+      "adcode": "GW",
+      "iso2": "GW",
+      "iso3": "GNB",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 1920922,
+      "area": 0,
+      "gdp": "3749.36",
+      "development": "0.366"
+    },
+    {
+      "name": "Gibraltar",
+      "name_en": "Gibraltar",
+      "value": [
+        -5.34858,
+        36.12581,
+        100
+      ],
+      "adcode": "GI",
+      "iso2": "GI",
+      "iso3": "GIB",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 33701,
+      "area": 0,
+      "gdp": "4740.16",
+      "development": "0.392"
+    },
+    {
+      "name": "美国",
+      "name_en": "United States",
+      "value": [
+        0.3187159999999949,
+        45.1593095,
+        100
+      ],
+      "adcode": "US",
+      "iso2": "US",
+      "iso3": "USA",
+      "continent": "Americas",
+      "region": "North America",
+      "population": 328239523,
+      "area": 0,
+      "gdp": "3271.65",
+      "development": "0.899"
+    },
+    {
+      "name": "加拿大",
+      "name_en": "Canada",
+      "value": [
+        -96.81108549999999,
+        62.3928045,
+        100
+      ],
+      "adcode": "CA",
+      "iso2": "CA",
+      "iso3": "CAN",
+      "continent": "Americas",
+      "region": "North America",
+      "population": 37589262,
+      "area": 0,
+      "gdp": "1903.28",
+      "development": "0.288"
+    },
+    {
+      "name": "墨西哥",
+      "name_en": "Mexico",
+      "value": [
+        -102.53469799999999,
+        23.6295575,
+        100
+      ],
+      "adcode": "MX",
+      "iso2": "MX",
+      "iso3": "MEX",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 127575529,
+      "area": 0,
+      "gdp": "3946.84",
+      "development": "0.727"
+    },
+    {
+      "name": "伯利兹",
+      "name_en": "Belize",
+      "value": [
+        -88.509791,
+        17.185205500000002,
+        100
+      ],
+      "adcode": "BZ",
+      "iso2": "BZ",
+      "iso3": "BLZ",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 390353,
+      "area": 0,
+      "gdp": "3215.27",
+      "development": "0.656"
+    },
+    {
+      "name": "巴拿马",
+      "name_en": "Panama",
+      "value": [
+        -80.108258,
+        8.417503499999999,
+        100
+      ],
+      "adcode": "PA",
+      "iso2": "PA",
+      "iso3": "PAN",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 4246439,
+      "area": 0,
+      "gdp": "388.15",
+      "development": "0.708"
+    },
+    {
+      "name": "委内瑞拉",
+      "name_en": "Venezuela",
+      "value": [
+        -66.60337200000001,
+        8.1761315,
+        100
+      ],
+      "adcode": "VE",
+      "iso2": "VE",
+      "iso3": "VEN",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 28515829,
+      "area": 0,
+      "gdp": "2950.38",
+      "development": "0.241"
+    },
+    {
+      "name": "巴布亚新几内亚",
+      "name_en": "Papua New Guinea",
+      "value": [
+        148.4083755,
+        -6.491347,
+        100
+      ],
+      "adcode": "PG",
+      "iso2": "PG",
+      "iso3": "PNG",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 8776109,
+      "area": 0,
+      "gdp": "4213.35",
+      "development": "0.290"
+    },
+    {
+      "name": "埃及",
+      "name_en": "Egypt",
+      "value": [
+        30.793762,
+        26.825424499999997,
+        100
+      ],
+      "adcode": "EG",
+      "iso2": "EG",
+      "iso3": "EGY",
+      "continent": "Africa",
+      "region": "Middle East & North Africa",
+      "population": 100388073,
+      "area": 0,
+      "gdp": "257.28",
+      "development": "0.367"
+    },
+    {
+      "name": "也门",
+      "name_en": "Yemen",
+      "value": [
+        48.54302,
+        15.553541,
+        100
+      ],
+      "adcode": "YE",
+      "iso2": "YE",
+      "iso3": "YEM",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 29161922,
+      "area": 0,
+      "gdp": "4135.56",
+      "development": "0.432"
+    },
+    {
+      "name": "毛里塔尼亚",
+      "name_en": "Mauritania",
+      "value": [
+        -10.951394,
+        21.0099075,
+        100
+      ],
+      "adcode": "MR",
+      "iso2": "MR",
+      "iso3": "MRT",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 4525696,
+      "area": 0,
+      "gdp": "4145.84",
+      "development": "0.902"
+    },
+    {
+      "name": "赤道几内亚",
+      "name_en": "Equatorial Guinea",
+      "value": [
+        8.4741655,
+        1.1483625000000002,
+        100
+      ],
+      "adcode": "GQ",
+      "iso2": "GQ",
+      "iso3": "GNQ",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 1355986,
+      "area": 0,
+      "gdp": "4742.15",
+      "development": "0.660"
+    },
+    {
+      "name": "The Gambia",
+      "name_en": "The Gambia",
+      "value": [
+        -15.324207000000001,
+        13.4424965,
+        100
+      ],
+      "adcode": "GM",
+      "iso2": "GM",
+      "iso3": "GMB",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 2347706,
+      "area": 0,
+      "gdp": "92.75",
+      "development": "0.623"
+    },
+    {
+      "name": "Hong Kong",
+      "name_en": "Hong Kong",
+      "value": [
+        114.119314,
+        22.370507500000002,
+        100
+      ],
+      "adcode": "HK",
+      "iso2": "HK",
+      "iso3": "HKG",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 7507400,
+      "area": 0,
+      "gdp": "4287.14",
+      "development": "0.321"
+    },
+    {
+      "name": "Vatican",
+      "name_en": "Vatican",
+      "value": [
+        12.453374499999999,
+        41.9033335,
+        100
+      ],
+      "adcode": "VA",
+      "iso2": "VA",
+      "iso3": "VAT",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 825,
+      "area": 0,
+      "gdp": "3435.68",
+      "development": "0.823"
+    },
+    {
+      "name": "澳大利亚",
+      "name_en": "Australia",
+      "value": [
+        136.01295,
+        -31.995294,
+        100
+      ],
+      "adcode": "AU",
+      "iso2": "AU",
+      "iso3": "AUS",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 25364307,
+      "area": 0,
+      "gdp": "209.48",
+      "development": "0.970"
+    },
+    {
+      "name": "Greenland",
+      "name_en": "Greenland",
+      "value": [
+        -42.217029999999994,
+        71.713365,
+        100
+      ],
+      "adcode": "GL",
+      "iso2": "GL",
+      "iso3": "GRL",
+      "continent": "Americas",
+      "region": "Europe & Central Asia",
+      "population": 56225,
+      "area": 0,
+      "gdp": "3129.16",
+      "development": "0.529"
+    },
+    {
+      "name": "斐济",
+      "name_en": "Fiji",
+      "value": [
+        0,
+        -17.093194,
+        100
+      ],
+      "adcode": "FJ",
+      "iso2": "FJ",
+      "iso3": "FJI",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 889953,
+      "area": 0,
+      "gdp": "2405.89",
+      "development": "0.649"
+    },
+    {
+      "name": "新西兰",
+      "name_en": "New Zealand",
+      "value": [
+        0.4429629999999918,
+        -30.57177,
+        100
+      ],
+      "adcode": "NZ",
+      "iso2": "NZ",
+      "iso3": "NZL",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 4917000,
+      "area": 0,
+      "gdp": "346.28",
+      "development": "0.256"
+    },
+    {
+      "name": "New Caledonia",
+      "name_en": "New Caledonia",
+      "value": [
+        167.479749,
+        -21.147190000000002,
+        100
+      ],
+      "adcode": "NC",
+      "iso2": "NC",
+      "iso3": "NCL",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 287800,
+      "area": 0,
+      "gdp": "2642.62",
+      "development": "0.660"
+    },
+    {
+      "name": "马达加斯加",
+      "name_en": "Madagascar",
+      "value": [
+        46.863414000000006,
+        -18.771091,
+        100
+      ],
+      "adcode": "MG",
+      "iso2": "MG",
+      "iso3": "MDG",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 26969307,
+      "area": 0,
+      "gdp": "296.52",
+      "development": "0.555"
+    },
+    {
+      "name": "菲律宾",
+      "name_en": "Philippines",
+      "value": [
+        121.786306,
+        12.8890445,
+        100
+      ],
+      "adcode": "PH",
+      "iso2": "PH",
+      "iso3": "PHL",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 108116615,
+      "area": 0,
+      "gdp": "4381.62",
+      "development": "0.607"
+    },
+    {
+      "name": "斯里兰卡",
+      "name_en": "Sri Lanka",
+      "value": [
+        80.773041,
+        7.8766545,
+        100
+      ],
+      "adcode": "LK",
+      "iso2": "LK",
+      "iso3": "LKA",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 21803000,
+      "area": 0,
+      "gdp": "1267.66",
+      "development": "0.241"
+    },
+    {
+      "name": "Curaçao",
+      "name_en": "Curaçao",
+      "value": [
+        -68.9557385,
+        12.216416500000001,
+        100
+      ],
+      "adcode": "CW",
+      "iso2": "CW",
+      "iso3": "CUW",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 157538,
+      "area": 0,
+      "gdp": "1910.09",
+      "development": "0.981"
+    },
+    {
+      "name": "Aruba",
+      "name_en": "Aruba",
+      "value": [
+        -69.969614,
+        12.524909000000001,
+        100
+      ],
+      "adcode": "AW",
+      "iso2": "AW",
+      "iso3": "ABW",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 106314,
+      "area": 0,
+      "gdp": "2695.13",
+      "development": "0.757"
+    },
+    {
+      "name": "巴哈马",
+      "name_en": "Bahamas",
+      "value": [
+        -76.1702575,
+        23.9204055,
+        100
+      ],
+      "adcode": "BS",
+      "iso2": "BS",
+      "iso3": "BHS",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 389482,
+      "area": 0,
+      "gdp": "2158.98",
+      "development": "0.400"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "name_en": "Turks and Caicos Islands",
+      "value": [
+        -71.8051045,
+        21.624661,
+        100
+      ],
+      "adcode": "TC",
+      "iso2": "TC",
+      "iso3": "TCA",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 38191,
+      "area": 0,
+      "gdp": "3266.83",
+      "development": "0.336"
+    },
+    {
+      "name": "日本",
+      "name_en": "Japan",
+      "value": [
+        138.461884,
+        34.8662585,
+        100
+      ],
+      "adcode": "JP",
+      "iso2": "JP",
+      "iso3": "JPN",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 126264931,
+      "area": 0,
+      "gdp": "4743.34",
+      "development": "0.634"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "name_en": "Saint Pierre and Miquelon",
+      "value": [
+        -56.2706805,
+        46.9470075,
+        100
+      ],
+      "adcode": "PM",
+      "iso2": "PM",
+      "iso3": "SPM",
+      "continent": "Americas",
+      "region": "North America",
+      "population": 5997,
+      "area": 0,
+      "gdp": "3880.47",
+      "development": "0.599"
+    },
+    {
+      "name": "冰岛",
+      "name_en": "Iceland",
+      "value": [
+        -19.0214125,
+        64.9804345,
+        100
+      ],
+      "adcode": "IS",
+      "iso2": "IS",
+      "iso3": "ISL",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 361313,
+      "area": 0,
+      "gdp": "2866.91",
+      "development": "0.222"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "name_en": "Pitcairn Islands",
+      "value": [
+        -127.765574,
+        -24.500746499999998,
+        84.64787519645938
+      ],
+      "adcode": "PN",
+      "iso2": "PN",
+      "iso3": "PCN",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 54,
+      "area": 0,
+      "gdp": "2572.09",
+      "development": "0.402"
+    },
+    {
+      "name": "French Polynesia",
+      "name_en": "French Polynesia",
+      "value": [
+        -144.73998,
+        -17.7956685,
+        100
+      ],
+      "adcode": "PF",
+      "iso2": "PF",
+      "iso3": "PYF",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 279287,
+      "area": 0,
+      "gdp": "4008.51",
+      "development": "0.379"
+    },
+    {
+      "name": "French Southern and Antarctic Lands",
+      "name_en": "French Southern and Antarctic Lands",
+      "value": [
+        58.656749000000005,
+        -30.636122,
+        92.92256071356476
+      ],
+      "adcode": "TF",
+      "iso2": "TF",
+      "iso3": "ATF",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 140,
+      "area": 0,
+      "gdp": "3246.13",
+      "development": "0.392"
+    },
+    {
+      "name": "塞舌尔",
+      "name_en": "Seychelles",
+      "value": [
+        51.2474065,
+        -6.773329499999999,
+        100
+      ],
+      "adcode": "SC",
+      "iso2": "SC",
+      "iso3": "SYC",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 97625,
+      "area": 0,
+      "gdp": "2831.67",
+      "development": "0.633"
+    },
+    {
+      "name": "基里巴斯",
+      "name_en": "Kiribati",
+      "value": [
+        1.1537579999999963,
+        -3.369012,
+        100
+      ],
+      "adcode": "KI",
+      "iso2": "KI",
+      "iso3": "KIR",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 117606,
+      "area": 0,
+      "gdp": "3919.57",
+      "development": "0.908"
+    },
+    {
+      "name": "马绍尔群岛",
+      "name_en": "Marshall Islands",
+      "value": [
+        168.65601650000002,
+        9.592149,
+        100
+      ],
+      "adcode": "MH",
+      "iso2": "MH",
+      "iso3": "MHL",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 58791,
+      "area": 0,
+      "gdp": "621.04",
+      "development": "0.242"
+    },
+    {
+      "name": "特立尼达和多巴哥",
+      "name_en": "Trinidad and Tobago",
+      "value": [
+        -61.225392,
+        10.69656,
+        100
+      ],
+      "adcode": "TT",
+      "iso2": "TT",
+      "iso3": "TTO",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 1394973,
+      "area": 0,
+      "gdp": "50.44",
+      "development": "0.392"
+    },
+    {
+      "name": "格林纳达",
+      "name_en": "Grenada",
+      "value": [
+        -61.6060685,
+        12.266282499999999,
+        100
+      ],
+      "adcode": "GD",
+      "iso2": "GD",
+      "iso3": "GRD",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 112003,
+      "area": 0,
+      "gdp": "2981.88",
+      "development": "0.382"
+    },
+    {
+      "name": "圣文森特和格林纳丁斯",
+      "name_en": "Saint Vincent and the Grenadines",
+      "value": [
+        -61.2918795,
+        12.982956999999999,
+        100
+      ],
+      "adcode": "VC",
+      "iso2": "VC",
+      "iso3": "VCT",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 110589,
+      "area": 0,
+      "gdp": "4915.21",
+      "development": "0.404"
+    },
+    {
+      "name": "巴巴多斯",
+      "name_en": "Barbados",
+      "value": [
+        -59.5405575,
+        13.197862,
+        100
+      ],
+      "adcode": "BB",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 287025,
+      "area": 0,
+      "gdp": "404.06",
+      "development": "0.998"
+    },
+    {
+      "name": "圣卢西亚",
+      "name_en": "Saint Lucia",
+      "value": [
+        -60.980743000000004,
+        13.913275500000001,
+        100
+      ],
+      "adcode": "LC",
+      "iso2": "LC",
+      "iso3": "LCA",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 182790,
+      "area": 0,
+      "gdp": "3168.77",
+      "development": "0.312"
+    },
+    {
+      "name": "多米尼克",
+      "name_en": "Dominica",
+      "value": [
+        -61.3690895,
+        15.417833000000002,
+        100
+      ],
+      "adcode": "DM",
+      "iso2": "DM",
+      "iso3": "DMA",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 71808,
+      "area": 0,
+      "gdp": "4511.04",
+      "development": "0.334"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "name_en": "United States Minor Outlying Islands",
+      "value": [
+        -5.368621500000003,
+        13.9132755,
+        99.54242509439325
+      ],
+      "adcode": "UM",
+      "iso2": "UM",
+      "iso3": "UMI",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 300,
+      "area": 0,
+      "gdp": "107.16",
+      "development": "0.616"
+    },
+    {
+      "name": "Montserrat",
+      "name_en": "Montserrat",
+      "value": [
+        -62.185333,
+        16.747341,
+        100
+      ],
+      "adcode": "MS",
+      "iso2": "MS",
+      "iso3": "MSR",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 4649,
+      "area": 0,
+      "gdp": "3279.81",
+      "development": "0.638"
+    },
+    {
+      "name": "安提瓜和巴布达",
+      "name_en": "Antigua and Barbuda",
+      "value": [
+        -62.007926,
+        17.329829,
+        100
+      ],
+      "adcode": "AG",
+      "iso2": "AG",
+      "iso3": "ATG",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 97118,
+      "area": 0,
+      "gdp": "3845.64",
+      "development": "0.433"
+    },
+    {
+      "name": "圣基茨和尼维斯",
+      "name_en": "Saint Kitts and Nevis",
+      "value": [
+        -62.69892299999999,
+        17.258184999999997,
+        100
+      ],
+      "adcode": "KN",
+      "iso2": "KN",
+      "iso3": "KNA",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 52834,
+      "area": 0,
+      "gdp": "3752.65",
+      "development": "0.754"
+    },
+    {
+      "name": "United States Virgin Islands",
+      "name_en": "United States Virgin Islands",
+      "value": [
+        -64.800445,
+        18.034682500000002,
+        100
+      ],
+      "adcode": "VI",
+      "iso2": "VI",
+      "iso3": "VIR",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 106631,
+      "area": 0,
+      "gdp": "3933.76",
+      "development": "0.933"
+    },
+    {
+      "name": "Saint-Barthélemy",
+      "name_en": "Saint-Barthélemy",
+      "value": [
+        -62.829498,
+        17.905565,
+        100
+      ],
+      "adcode": "BL",
+      "iso2": "BL",
+      "iso3": "BLM",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 9961,
+      "area": 0,
+      "gdp": "3751.76",
+      "development": "0.293"
+    },
+    {
+      "name": "Puerto Rico",
+      "name_en": "Puerto Rico",
+      "value": [
+        -66.5912165,
+        18.222846,
+        100
+      ],
+      "adcode": "PR",
+      "iso2": "PR",
+      "iso3": "PRI",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 3193694,
+      "area": 0,
+      "gdp": "732.85",
+      "development": "0.487"
+    },
+    {
+      "name": "Anguilla",
+      "name_en": "Anguilla",
+      "value": [
+        -63.177251999999996,
+        18.385179,
+        100
+      ],
+      "adcode": "AI",
+      "iso2": "AI",
+      "iso3": "AIA",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 14731,
+      "area": 0,
+      "gdp": "1962.82",
+      "development": "0.546"
+    },
+    {
+      "name": "British Virgin Islands",
+      "name_en": "British Virgin Islands",
+      "value": [
+        -64.522369,
+        18.5404525,
+        100
+      ],
+      "adcode": "VG",
+      "iso2": "VG",
+      "iso3": "VGB",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 30030,
+      "area": 0,
+      "gdp": "1690.57",
+      "development": "0.954"
+    },
+    {
+      "name": "牙买加",
+      "name_en": "Jamaica",
+      "value": [
+        -77.28132099999999,
+        18.114142,
+        100
+      ],
+      "adcode": "JM",
+      "iso2": "JM",
+      "iso3": "JAM",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 2948279,
+      "area": 0,
+      "gdp": "2264.69",
+      "development": "0.844"
+    },
+    {
+      "name": "Cayman Islands",
+      "name_en": "Cayman Islands",
+      "value": [
+        -80.57159250000001,
+        19.5107475,
+        100
+      ],
+      "adcode": "KY",
+      "iso2": "KY",
+      "iso3": "CYM",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 64948,
+      "area": 0,
+      "gdp": "4439.33",
+      "development": "0.753"
+    },
+    {
+      "name": "Bermuda",
+      "name_en": "Bermuda",
+      "value": [
+        -64.7668125,
+        32.3183675,
+        100
+      ],
+      "adcode": "BM",
+      "iso2": "BM",
+      "iso3": "BMU",
+      "continent": "Americas",
+      "region": "North America",
+      "population": 63918,
+      "area": 0,
+      "gdp": "1709.95",
+      "development": "0.669"
+    },
+    {
+      "name": "Heard I. and McDonald Islands",
+      "name_en": "Heard I. and McDonald Islands",
+      "value": [
+        73.524099,
+        -53.077081,
+        100
+      ],
+      "adcode": "HM",
+      "iso2": "HM",
+      "iso3": "HMD",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 0,
+      "area": 0,
+      "gdp": "1198.10",
+      "development": "0.983"
+    },
+    {
+      "name": "Saint Helena",
+      "name_en": "Saint Helena",
+      "value": [
+        -10.034047000000001,
+        -24.137872,
+        100
+      ],
+      "adcode": "SH",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 4534,
+      "area": 0,
+      "gdp": "3462.92",
+      "development": "0.292"
+    },
+    {
+      "name": "毛里求斯",
+      "name_en": "Mauritius",
+      "value": [
+        60.009044,
+        -15.420627499999998,
+        100
+      ],
+      "adcode": "MU",
+      "iso2": "MU",
+      "iso3": "MUS",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 1265711,
+      "area": 0,
+      "gdp": "4721.03",
+      "development": "0.882"
+    },
+    {
+      "name": "科摩罗",
+      "name_en": "Comoros",
+      "value": [
+        43.871145,
+        -11.8707825,
+        100
+      ],
+      "adcode": "KM",
+      "iso2": "KM",
+      "iso3": "COM",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 850886,
+      "area": 0,
+      "gdp": "2387.57",
+      "development": "0.559"
+    },
+    {
+      "name": "São Tomé and Principe",
+      "name_en": "São Tomé and Principe",
+      "value": [
+        6.9622095,
+        0.8619445,
+        100
+      ],
+      "adcode": "ST",
+      "iso2": "ST",
+      "iso3": "STP",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 215056,
+      "area": 0,
+      "gdp": "560.29",
+      "development": "0.485"
+    },
+    {
+      "name": "Republic of Cabo Verde",
+      "name_en": "Republic of Cabo Verde",
+      "value": [
+        -24.0134985,
+        16.000271,
+        100
+      ],
+      "adcode": "CV",
+      "iso2": "CV",
+      "iso3": "CPV",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 549935,
+      "area": 0,
+      "gdp": "123.45",
+      "development": "0.645"
+    },
+    {
+      "name": "马耳他",
+      "name_en": "Malta",
+      "value": [
+        14.375376500000002,
+        35.9384015,
+        100
+      ],
+      "adcode": "MT",
+      "iso2": "MT",
+      "iso3": "MLT",
+      "continent": "Europe",
+      "region": "Middle East & North Africa",
+      "population": 502653,
+      "area": 0,
+      "gdp": "4680.02",
+      "development": "0.579"
+    },
+    {
+      "name": "Jersey",
+      "name_en": "Jersey",
+      "value": [
+        -2.125152,
+        49.2191835,
+        100
+      ],
+      "adcode": "JE",
+      "iso2": "JE",
+      "iso3": "JEY",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 107800,
+      "area": 0,
+      "gdp": "2620.89",
+      "development": "0.491"
+    },
+    {
+      "name": "Guernsey",
+      "name_en": "Guernsey",
+      "value": [
+        -2.4218845,
+        49.5714785,
+        100
+      ],
+      "adcode": "GG",
+      "iso2": "GG",
+      "iso3": "GGY",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 62792,
+      "area": 0,
+      "gdp": "1372.49",
+      "development": "0.682"
+    },
+    {
+      "name": "Isle of Man",
+      "name_en": "Isle of Man",
+      "value": [
+        -4.551035499999999,
+        54.2379825,
+        100
+      ],
+      "adcode": "IM",
+      "iso2": "IM",
+      "iso3": "IMN",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 84584,
+      "area": 0,
+      "gdp": "2890.71",
+      "development": "0.212"
+    },
+    {
+      "name": "Åland Islands",
+      "name_en": "Åland Islands",
+      "value": [
+        20.304941999999997,
+        60.192633,
+        100
+      ],
+      "adcode": "AX",
+      "iso2": "AX",
+      "iso3": "ALA",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 29884,
+      "area": 0,
+      "gdp": "2654.63",
+      "development": "0.851"
+    },
+    {
+      "name": "Faeroe Islands",
+      "name_en": "Faeroe Islands",
+      "value": [
+        -6.959970500000001,
+        61.896511000000004,
+        100
+      ],
+      "adcode": "FO",
+      "iso2": "FO",
+      "iso3": "FRO",
+      "continent": "Europe",
+      "region": "Europe & Central Asia",
+      "population": 48678,
+      "area": 0,
+      "gdp": "4427.25",
+      "development": "0.360"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "name_en": "British Indian Ocean Territory",
+      "value": [
+        71.8778185,
+        -6.329603499999999,
+        100
+      ],
+      "adcode": "IO",
+      "iso2": "IO",
+      "iso3": "IOT",
+      "continent": "Africa",
+      "region": "Sub-Saharan Africa",
+      "population": 3000,
+      "area": 0,
+      "gdp": "1802.14",
+      "development": "0.264"
+    },
+    {
+      "name": "新加坡",
+      "name_en": "Singapore",
+      "value": [
+        103.82191,
+        1.356472,
+        100
+      ],
+      "adcode": "SG",
+      "iso2": "SG",
+      "iso3": "SGP",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 5703569,
+      "area": 0,
+      "gdp": "4125.21",
+      "development": "0.989"
+    },
+    {
+      "name": "Norfolk Island",
+      "name_en": "Norfolk Island",
+      "value": [
+        167.95423449999998,
+        -29.038750999999998,
+        100
+      ],
+      "adcode": "NF",
+      "iso2": "NF",
+      "iso3": "NFK",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 2169,
+      "area": 0,
+      "gdp": "195.39",
+      "development": "0.389"
+    },
+    {
+      "name": "Cook Islands",
+      "name_en": "Cook Islands",
+      "value": [
+        -161.5686745,
+        -15.4428035,
+        100
+      ],
+      "adcode": "CK",
+      "iso2": "CK",
+      "iso3": "COK",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 17459,
+      "area": 0,
+      "gdp": "615.03",
+      "development": "0.447"
+    },
+    {
+      "name": "汤加",
+      "name_en": "Tonga",
+      "value": [
+        -175.066782,
+        -18.9491515,
+        100
+      ],
+      "adcode": "TO",
+      "iso2": "TO",
+      "iso3": "TON",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 104494,
+      "area": 0,
+      "gdp": "693.08",
+      "development": "0.830"
+    },
+    {
+      "name": "Wallis and Futuna Islands",
+      "name_en": "Wallis and Futuna Islands",
+      "value": [
+        -177.15567,
+        -13.764174,
+        100
+      ],
+      "adcode": "WF",
+      "iso2": "WF",
+      "iso3": "WLF",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 11558,
+      "area": 0,
+      "gdp": "3186.61",
+      "development": "0.684"
+    },
+    {
+      "name": "萨摩亚",
+      "name_en": "Samoa",
+      "value": [
+        -172.1101375,
+        -13.7578265,
+        100
+      ],
+      "adcode": "WS",
+      "iso2": "WS",
+      "iso3": "WSM",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 197097,
+      "area": 0,
+      "gdp": "697.19",
+      "development": "0.257"
+    },
+    {
+      "name": "所罗门群岛",
+      "name_en": "Solomon Islands",
+      "value": [
+        162.1669215,
+        -9.445245,
+        100
+      ],
+      "adcode": "SB",
+      "iso2": "SB",
+      "iso3": "SLB",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 669823,
+      "area": 0,
+      "gdp": "2955.16",
+      "development": "0.866"
+    },
+    {
+      "name": "图瓦卢",
+      "name_en": "Tuvalu",
+      "value": [
+        178.01600200000001,
+        -7.549085999999999,
+        100
+      ],
+      "adcode": "TV",
+      "iso2": "TV",
+      "iso3": "TUV",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 11646,
+      "area": 0,
+      "gdp": "4092.65",
+      "development": "0.898"
+    },
+    {
+      "name": "马尔代夫",
+      "name_en": "Maldives",
+      "value": [
+        73.21900450000001,
+        3.2093365,
+        100
+      ],
+      "adcode": "MV",
+      "iso2": "MV",
+      "iso3": "MDV",
+      "continent": "Asia",
+      "region": "South Asia",
+      "population": 530953,
+      "area": 0,
+      "gdp": "194.83",
+      "development": "0.253"
+    },
+    {
+      "name": "瑙鲁",
+      "name_en": "Nauru",
+      "value": [
+        166.932628,
+        -0.521132,
+        100
+      ],
+      "adcode": "NR",
+      "iso2": "NR",
+      "iso3": "NRU",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 12581,
+      "area": 0,
+      "gdp": "1381.65",
+      "development": "0.384"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "name_en": "Federated States of Micronesia",
+      "value": [
+        150.5551865,
+        5.346869,
+        100
+      ],
+      "adcode": "FM",
+      "iso2": "FM",
+      "iso3": "FSM",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 113815,
+      "area": 0,
+      "gdp": "2880.54",
+      "development": "0.399"
+    },
+    {
+      "name": "South Georgia and the Islands",
+      "name_en": "South Georgia and the Islands",
+      "value": [
+        -32.1631775,
+        -56.722589,
+        79.54242509439325
+      ],
+      "adcode": "GS",
+      "iso2": "GS",
+      "iso3": "SGS",
+      "continent": "Americas",
+      "region": "Antarctica",
+      "population": 30,
+      "area": 0,
+      "gdp": "3123.22",
+      "development": "0.342"
+    },
+    {
+      "name": "Falkland Islands / Malvinas",
+      "name_en": "Falkland Islands / Malvinas",
+      "value": [
+        -59.5262345,
+        -51.717144000000005,
+        100
+      ],
+      "adcode": "FK",
+      "iso2": "FK",
+      "iso3": "FLK",
+      "continent": "Americas",
+      "region": "Latin America & Caribbean",
+      "population": 3398,
+      "area": 0,
+      "gdp": "1774.37",
+      "development": "0.472"
+    },
+    {
+      "name": "瓦努阿图",
+      "name_en": "Vanuatu",
+      "value": [
+        168.209727,
+        -16.65899,
+        100
+      ],
+      "adcode": "VU",
+      "iso2": "VU",
+      "iso3": "VUT",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 299882,
+      "area": 0,
+      "gdp": "3256.28",
+      "development": "0.974"
+    },
+    {
+      "name": "Niue",
+      "name_en": "Niue",
+      "value": [
+        -169.8666685,
+        -19.0533995,
+        100
+      ],
+      "adcode": "NU",
+      "iso2": "NU",
+      "iso3": "NIU",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 1620,
+      "area": 0,
+      "gdp": "24.25",
+      "development": "0.999"
+    },
+    {
+      "name": "American Samoa",
+      "name_en": "American Samoa",
+      "value": [
+        -169.623504,
+        -12.7921285,
+        100
+      ],
+      "adcode": "AS",
+      "iso2": "AS",
+      "iso3": "ASM",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 55312,
+      "area": 0,
+      "gdp": "2379.30",
+      "development": "0.318"
+    },
+    {
+      "name": "帕劳",
+      "name_en": "Palau",
+      "value": [
+        132.9292285,
+        5.52283,
+        100
+      ],
+      "adcode": "PW",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 18008,
+      "area": 0,
+      "gdp": "416.80",
+      "development": "0.599"
+    },
+    {
+      "name": "Guam",
+      "name_en": "Guam",
+      "value": [
+        144.78817800000002,
+        13.447577,
+        100
+      ],
+      "adcode": "GU",
+      "iso2": "GU",
+      "iso3": "GUM",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 167294,
+      "area": 0,
+      "gdp": "2424.00",
+      "development": "0.219"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "name_en": "Northern Mariana Islands",
+      "value": [
+        145.38550850000001,
+        17.3330345,
+        100
+      ],
+      "adcode": "MP",
+      "iso2": "MP",
+      "iso3": "MNP",
+      "continent": "Oceania",
+      "region": "East Asia & Pacific",
+      "population": 57216,
+      "area": 0,
+      "gdp": "3500.68",
+      "development": "0.443"
+    },
+    {
+      "name": "巴林",
+      "name_en": "Bahrain",
+      "value": [
+        50.6002025,
+        25.933664999999998,
+        100
+      ],
+      "adcode": "BH",
+      "iso2": "BH",
+      "iso3": "BHR",
+      "continent": "Asia",
+      "region": "Middle East & North Africa",
+      "population": 1641172,
+      "area": 0,
+      "gdp": "397.77",
+      "development": "0.987"
+    },
+    {
+      "name": "Macao",
+      "name_en": "Macao",
+      "value": [
+        113.55368050000001,
+        22.163072,
+        100
+      ],
+      "adcode": "MO",
+      "iso2": "MO",
+      "iso3": "MAC",
+      "continent": "Asia",
+      "region": "East Asia & Pacific",
+      "population": 640445,
+      "area": 0,
+      "gdp": "2933.88",
+      "development": "0.538"
+    }
+  ]
+}
