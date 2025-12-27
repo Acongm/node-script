@@ -1,6 +1,7 @@
 // correctedWorldData.js
 const https = require('https');
 const fs = require('fs-extra');
+const rawData = require('./utils/raw-natural-earth-10m.json');
 
 // 联合国成员国ISO代码（193个）
 const UN_MEMBER_CODES = new Set([
@@ -40,6 +41,85 @@ const EXCLUDED_TERRITORIES = new Set([
   'French Polynesia', 'New Caledonia', 'Aruba', 'Curaçao', 'Sint Maarten',
   'Bonaire', 'Saba', 'Sint Eustatius', 'Saint Martin', 'Saint Barthélemy'
 ]);
+
+async function fetchFromSource (url) {
+  return new Promise((resolve, reject) => {
+    const request = https.get(url, (response) => {
+      console.log(`请求 ${url}，状态码: ${response.statusCode}`);
+
+      if (response.statusCode !== 200) {
+        reject(new Error(`HTTP ${response.statusCode}: ${url}`));
+        return;
+      }
+
+      // 获取内容长度用于进度计算
+      const contentLength = parseInt(response.headers['content-length'], 10);
+      let receivedLength = 0;
+      const chunks = []; // 使用 Buffer 数组替代字符串拼接
+      let lastProgressUpdate = Date.now();
+
+      console.log(`数据总大小: ${(contentLength / 1024 / 1024).toFixed(2)} MB`);
+
+      response.on('data', (chunk) => {
+        receivedLength += chunk.length;
+        chunks.push(chunk);
+
+        // 限制进度更新频率（每秒最多更新一次）
+        const now = Date.now();
+        if (now - lastProgressUpdate >= 1000) {
+          const percent = contentLength ? Math.round((receivedLength / contentLength) * 100) : 0;
+          const speed = receivedLength / ((now - lastProgressUpdate) / 1000);
+
+          process.stdout.write(
+            `\r下载进度: ${percent}% | ${(receivedLength / 1024 / 1024).toFixed(2)}/${(contentLength / 1024 / 1024).toFixed(2)} MB | 速度: ${(speed / 1024).toFixed(1)} KB/s`
+          );
+
+          lastProgressUpdate = now;
+        }
+      });
+
+      response.on('end', () => {
+        process.stdout.write('\n'); // 换行
+
+        try {
+          // 合并所有 Buffer  chunks
+          const completeBuffer = Buffer.concat(chunks);
+          const data = completeBuffer.toString('utf8');
+
+          console.log(`请求 ${url} 成功，数据大小: ${(completeBuffer.length / 1024 / 1024).toFixed(2)} MB`);
+
+          const parsedData = JSON.parse(data);
+          resolve(parsedData);
+        } catch (error) {
+          console.error('解析失败:', error.message);
+          reject(new Error(`解析 JSON 失败: ${error.message}`));
+        }
+      });
+    });
+
+    request.on('error', (error) => {
+      console.error('请求错误:', error.message);
+      reject(error);
+    });
+
+    // 增加超时时间并添加超时监听
+    request.setTimeout(60000, () => { // 60秒超时
+      console.error('请求超时');
+      request.destroy();
+      reject(new Error('请求超时（60秒）'));
+    });
+
+    // 添加其他错误监听
+    request.on('socket', (socket) => {
+      socket.setTimeout(60000);
+      socket.on('timeout', () => {
+        console.error('Socket 超时');
+        request.destroy();
+        reject(new Error('Socket 超时'));
+      });
+    });
+  });
+}
 
 /**
  * 从URL获取数据
@@ -480,14 +560,15 @@ const fixIsoA2Code = (isoCode, name) => {
 async function getCorrectedWorldData () {
   try {
     const url = 'https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson';
-    const data = await fetchData(url);
+    const data = await fetchFromSource(url);
+    // const data = rawData
 
     if (!data || !data.features) {
       throw new Error('无效的数据格式');
     }
 
     console.log(`原始数据包含: ${data.features.length} 个特征`);
-    await fs.writeJson('./output/order-all.json', data, { spaces: 2 });
+    // await fs.writeJson('./output/order-all.json', data, { spaces: 2 });
 
     // 过滤出真正的国家
     const sovereignCountries = data.features.filter(feature => {

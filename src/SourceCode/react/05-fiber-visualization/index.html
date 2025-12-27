@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fiber 架构可视化 - React 核心原理</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    
+    h1 {
+      color: #333;
+      margin-bottom: 10px;
+    }
+    
+    .description {
+      color: #666;
+      margin-bottom: 30px;
+      line-height: 1.6;
+    }
+    
+    .demo-section {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    
+    .demo-section h2 {
+      color: #333;
+      margin-bottom: 15px;
+      font-size: 20px;
+      border-bottom: 2px solid #52c41a;
+      padding-bottom: 10px;
+    }
+    
+    .controls {
+      margin-bottom: 20px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    
+    button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.2s;
+      background: #1890ff;
+      color: white;
+    }
+    
+    button:hover {
+      background: #40a9ff;
+    }
+    
+    .fiber-tree {
+      background: #fafafa;
+      padding: 20px;
+      border-radius: 4px;
+      overflow-x: auto;
+      margin-bottom: 20px;
+    }
+    
+    .fiber-node {
+      display: inline-block;
+      padding: 12px 16px;
+      margin: 5px;
+      background: white;
+      border: 2px solid #1890ff;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.3s;
+      position: relative;
+    }
+    
+    .fiber-node:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 12px rgba(24, 144, 255, 0.3);
+    }
+    
+    .fiber-node.active {
+      background: #1890ff;
+      color: white;
+      box-shadow: 0 4px 12px rgba(24, 144, 255, 0.5);
+    }
+    
+    .fiber-node-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+    
+    .fiber-node-info {
+      font-size: 12px;
+      opacity: 0.8;
+    }
+    
+    .fiber-tree-level {
+      margin-bottom: 30px;
+      padding-left: 20px;
+    }
+    
+    .fiber-tree-level::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      width: 20px;
+      height: 2px;
+      background: #d9d9d9;
+    }
+    
+    .fiber-details {
+      background: #f0f0f0;
+      padding: 15px;
+      border-radius: 4px;
+      margin-bottom: 20px;
+    }
+    
+    .fiber-details h3 {
+      margin-bottom: 10px;
+      color: #333;
+    }
+    
+    .fiber-field {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px;
+      margin-bottom: 4px;
+      background: white;
+      border-radius: 3px;
+      font-size: 13px;
+    }
+    
+    .fiber-field-name {
+      color: #666;
+      font-weight: 500;
+    }
+    
+    .fiber-field-value {
+      color: #1890ff;
+      font-family: 'Courier New', monospace;
+    }
+    
+    .info {
+      background: #e6f7ff;
+      border: 1px solid #91d5ff;
+      padding: 15px;
+      border-radius: 4px;
+      color: #096dd9;
+      margin-bottom: 15px;
+      line-height: 1.6;
+    }
+    
+    .architecture-diagram {
+      background: white;
+      padding: 20px;
+      border-radius: 4px;
+      text-align: center;
+      font-family: monospace;
+      line-height: 2;
+      margin-bottom: 20px;
+    }
+    
+    .diagram-line {
+      color: #52c41a;
+    }
+    
+    .diagram-arrow {
+      color: #1890ff;
+      font-weight: bold;
+    }
+    
+    .comparison {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 20px 0;
+    }
+    
+    @media (max-width: 768px) {
+      .comparison {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .comparison-item {
+      background: #fafafa;
+      padding: 15px;
+      border-radius: 4px;
+    }
+    
+    .comparison-item h4 {
+      margin-bottom: 10px;
+      color: #333;
+    }
+    
+    .comparison-item.old {
+      border-left: 3px solid #ff4d4f;
+    }
+    
+    .comparison-item.new {
+      border-left: 3px solid #52c41a;
+    }
+    
+    pre {
+      background: #1f1f1f;
+      color: #52c41a;
+      padding: 12px;
+      border-radius: 4px;
+      overflow-x: auto;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Fiber 架构可视化</h1>
+    <p class="description">
+      本示例可视化展示 Fiber 架构的核心概念：Fiber 树结构、双缓冲机制、工作循环等。
+    </p>
+    
+    <div id="root"></div>
+  </div>
+
+  <script type="module">
+    import React, { useState } from 'https://esm.sh/react@18.2.0';
+    import ReactDOM from 'https://esm.sh/react-dom@18.2.0';
+
+    function App() {
+      const [selectedNode, setSelectedNode] = useState(null);
+
+      // 模拟 Fiber 树结构
+      const fiberTree = {
+        type: 'App',
+        tag: 'FunctionComponent',
+        return: null,
+        child: {
+          type: 'div',
+          tag: 'HostComponent',
+          return: 'App',
+          child: {
+            type: 'Header',
+            tag: 'FunctionComponent',
+            return: 'div',
+            child: {
+              type: 'h1',
+              tag: 'HostComponent',
+              return: 'Header',
+              child: null,
+              sibling: null,
+            },
+            sibling: {
+              type: 'Content',
+              tag: 'FunctionComponent',
+              return: 'div',
+              child: {
+                type: 'p',
+                tag: 'HostComponent',
+                return: 'Content',
+                child: null,
+                sibling: null,
+              },
+              sibling: {
+                type: 'Footer',
+                tag: 'FunctionComponent',
+                return: 'div',
+                child: {
+                  type: 'span',
+                  tag: 'HostComponent',
+                  return: 'Footer',
+                  child: null,
+                  sibling: null,
+                },
+                sibling: null,
+              },
+            },
+          },
+          sibling: null,
+        },
+      };
+
+      const getFiberDetails = (name) => {
+        const nodes = {
+          'App': {
+            type: 'App',
+            stateNode: '函数组件实例',
+            memoizedProps: '{}',
+            memoizedState: 'null',
+            flags: 'NoFlags',
+            lanes: '0b0000',
+          },
+          'div': {
+            type: 'div',
+            stateNode: '<div> DOM 节点',
+            memoizedProps: '{ className: "container" }',
+            memoizedState: 'null',
+            flags: 'Update',
+            lanes: '0b0001',
+          },
+          'Header': {
+            type: 'Header',
+            stateNode: '函数组件实例',
+            memoizedProps: '{}',
+            memoizedState: 'null',
+            flags: 'NoFlags',
+            lanes: '0b0000',
+          },
+        };
+        return nodes[name] || nodes['App'];
+      };
+
+      return (
+        <>
+          {/* Fiber 架构概述 */}
+          <div className="demo-section">
+            <h2>1. Fiber 架构概述</h2>
+            <div className="info">
+              <strong>Fiber 是什么？</strong><br/>
+              Fiber 是 React 16 引入的新协调引擎，将渲染工作拆分为可中断的小单元。
+              每个 Fiber 节点代表一个组件或 DOM 元素，包含足够的信息以便中断后恢复。
+            </div>
+
+            <div className="architecture-diagram">
+              <div className="diagram-line">┌─────────────────────────────────────┐</div>
+              <div className="diagram-line">│         React 架构（React 16+）      │</div>
+              <div className="diagram-line">└─────────────────────────────────────┘</div>
+              <div className="diagram-arrow">           ↓</div>
+              <div className="diagram-line">┌─────────────────────────────────────┐</div>
+              <div className="diagram-line">│     Scheduler（调度器）              │</div>
+              <div className="diagram-line">│  - 任务调度                          │</div>
+              <div className="diagram-line">│  - 时间切片                          │</div>
+              <div className="diagram-line">│  - 优先级管理                        │</div>
+              <div className="diagram-line">└─────────────────────────────────────┘</div>
+              <div className="diagram-arrow">           ↓</div>
+              <div className="diagram-line">┌─────────────────────────────────────┐</div>
+              <div className="diagram-line">│   Reconciler（协调器 - Fiber）      │</div>
+              <div className="diagram-line">│  - Diff 算法                         │</div>
+              <div className="diagram-line">│  - Fiber 树构建                      │</div>
+              <div className="diagram-line">│  - 副作用收集                        │</div>
+              <div className="diagram-line">└─────────────────────────────────────┘</div>
+              <div className="diagram-arrow">           ↓</div>
+              <div className="diagram-line">┌─────────────────────────────────────┐</div>
+              <div className="diagram-line">│    Renderer（渲染器）                │</div>
+              <div className="diagram-line">│  - DOM 操作（ReactDOM）              │</div>
+              <div className="diagram-line">│  - 原生组件（React Native）          │</div>
+              <div className="diagram-line">│  - Canvas（React ART）               │</div>
+              <div className="diagram-line">└─────────────────────────────────────┘</div>
+            </div>
+          </div>
+
+          {/* Fiber 数据结构 */}
+          <div className="demo-section">
+            <h2>2. Fiber 节点数据结构</h2>
+            <div className="info">
+              点击节点查看详细的 Fiber 数据结构信息
+            </div>
+
+            <div className="fiber-tree">
+              <div style={{ marginBottom: '10px', fontWeight: 'bold' }}>Fiber 树结构：</div>
+              <div>
+                <div className={`fiber-node ${selectedNode === 'App' ? 'active' : ''}`} 
+                     onClick={() => setSelectedNode('App')}>
+                  <div className="fiber-node-title">&lt;App /&gt;</div>
+                  <div className="fiber-node-info">FunctionComponent</div>
+                </div>
+              </div>
+              <div style={{ marginLeft: '40px' }}>
+                <div className={`fiber-node ${selectedNode === 'div' ? 'active' : ''}`}
+                     onClick={() => setSelectedNode('div')}>
+                  <div className="fiber-node-title">&lt;div&gt;</div>
+                  <div className="fiber-node-info">HostComponent</div>
+                </div>
+              </div>
+              <div style={{ marginLeft: '80px' }}>
+                <div className={`fiber-node ${selectedNode === 'Header' ? 'active' : ''}`}
+                     onClick={() => setSelectedNode('Header')}>
+                  <div className="fiber-node-title">&lt;Header /&gt;</div>
+                  <div className="fiber-node-info">child</div>
+                </div>
+                <div className="fiber-node" style={{ marginLeft: '20px' }}>
+                  <div className="fiber-node-title">&lt;Content /&gt;</div>
+                  <div className="fiber-node-info">sibling</div>
+                </div>
+                <div className="fiber-node" style={{ marginLeft: '40px' }}>
+                  <div className="fiber-node-title">&lt;Footer /&gt;</div>
+                  <div className="fiber-node-info">sibling</div>
+                </div>
+              </div>
+            </div>
+
+            {selectedNode && (
+              <div className="fiber-details">
+                <h3>Fiber 节点详情：{selectedNode}</h3>
+                {Object.entries(getFiberDetails(selectedNode)).map(([key, value]) => (
+                  <div key={key} className="fiber-field">
+                    <span className="fiber-field-name">{key}:</span>
+                    <span className="fiber-field-value">{value}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            <pre>{`// Fiber 节点核心字段
+type Fiber = {
+  // 实例相关
+  type: any,              // 组件类型（函数/类/原生标签）
+  stateNode: any,         // 对应的 DOM 节点或组件实例
+  key: null | string,
+  ref: null | Ref,
+  
+  // 树结构（链表）
+  return: Fiber | null,   // 父节点
+  child: Fiber | null,    // 第一个子节点
+  sibling: Fiber | null,  // 下一个兄弟节点
+  
+  // 状态和 Props
+  pendingProps: any,      // 新的 props
+  memoizedProps: any,     // 上次渲染的 props
+  memoizedState: any,     // 上次渲染的 state
+  updateQueue: any,       // 更新队列
+  
+  // 副作用
+  flags: Flags,           // 副作用标记（Placement/Update/Deletion）
+  subtreeFlags: Flags,    // 子树的副作用标记
+  
+  // 调度相关
+  lanes: Lanes,           // 优先级车道
+  childLanes: Lanes,      // 子树优先级
+  
+  // 双缓冲
+  alternate: Fiber | null // 指向另一棵树的对应节点
+};`}</pre>
+          </div>
+
+          {/* 双缓冲机制 */}
+          <div className="demo-section">
+            <h2>3. 双缓冲机制（Double Buffering）</h2>
+            <div className="info">
+              React 维护两棵 Fiber 树：current（当前屏幕显示）和 workInProgress（后台构建）。
+              渲染完成后，通过切换指针实现快速更新。
+            </div>
+
+            <div className="architecture-diagram">
+              <div className="diagram-line">渲染阶段（可中断）:</div>
+              <div className="diagram-line">┌──────────────┐         ┌──────────────┐</div>
+              <div className="diagram-line">│ current 树    │        │ workInProgress│</div>
+              <div className="diagram-line">│ (屏幕显示)   │◄──────►│  (后台构建)   │</div>
+              <div className="diagram-line">│              │alternate│              │</div>
+              <div className="diagram-line">└──────────────┘         └──────────────┘</div>
+              <div className="diagram-arrow">                     ↓</div>
+              <div className="diagram-line">               diff + 副作用收集</div>
+              <div className="diagram-arrow">                     ↓</div>
+              <div className="diagram-line">提交阶段（同步，不可中断）:</div>
+              <div className="diagram-line">┌──────────────┐         ┌──────────────┐</div>
+              <div className="diagram-line">│ current 树    │   切换  │ workInProgress│</div>
+              <div className="diagram-line">│              │ ◄────── │  变成 current │</div>
+              <div className="diagram-line">└──────────────┘         └──────────────┘</div>
+            </div>
+
+            <pre>{`// 双缓冲示例
+let currentRoot = null;
+let workInProgressRoot = null;
+
+function beginWork() {
+  // 在 workInProgress 树上工作
+  // 可以随时中断
+  workInProgressRoot.child = reconcile(currentRoot.child);
+}
+
+function commitRoot() {
+  // 工作完成，切换指针（原子操作）
+  currentRoot = workInProgressRoot;
+  workInProgressRoot = null;
+  
+  // 用户看到新的 UI
+}`}</pre>
+          </div>
+
+          {/* 工作循环 */}
+          <div className="demo-section">
+            <h2>4. 工作循环（Work Loop）</h2>
+            <div className="info">
+              Fiber 通过工作循环遍历节点，每处理一个节点检查时间片是否用完。
+              深度优先遍历：先 child，无 child 找 sibling，无 sibling 回到 return。
+            </div>
+
+            <pre>{`// 简化的工作循环
+function workLoop(deadline) {
+  let shouldYield = false;
+  
+  while (workInProgress && !shouldYield) {
+    // 处理单个 Fiber 节点
+    performUnitOfWork(workInProgress);
+    
+    // 检查时间片是否用完
+    shouldYield = deadline.timeRemaining() < 1;
+  }
+  
+  if (workInProgress) {
+    // 还有工作，下一帧继续
+    requestIdleCallback(workLoop);
+  } else {
+    // 工作完成，提交
+    commitRoot();
+  }
+}
+
+function performUnitOfWork(fiber) {
+  // 1. beginWork: 处理当前节点
+  const next = beginWork(fiber);
+  
+  if (next) {
+    // 有子节点，继续处理子节点
+    workInProgress = next;
+    return;
+  }
+  
+  // 2. completeWork: 完成当前节点
+  completeWork(fiber);
+  
+  // 3. 找下一个工作单元
+  if (fiber.sibling) {
+    // 有兄弟节点，处理兄弟
+    workInProgress = fiber.sibling;
+  } else {
+    // 回到父节点
+    workInProgress = fiber.return;
+  }
+}`}</pre>
+
+            <div className="architecture-diagram">
+              <div className="diagram-line">遍历顺序示例：</div>
+              <div className="diagram-line">    App (1)</div>
+              <div className="diagram-line">     ↓</div>
+              <div className="diagram-line">    div (2)</div>
+              <div className="diagram-line">     ↓</div>
+              <div className="diagram-line">  Header (3) → Content (5) → Footer (7)</div>
+              <div className="diagram-line">     ↓            ↓             ↓</div>
+              <div className="diagram-line">    h1 (4)       p (6)      span (8)</div>
+              <div className="diagram-line"></div>
+              <div className="diagram-line">深度优先：1→2→3→4→5→6→7→8</div>
+              <div className="diagram-line">完成顺序：4→3→6→5→8→7→2→1</div>
+            </div>
+          </div>
+
+          {/* React 15 vs Fiber */}
+          <div className="demo-section">
+            <h2>5. React 15 vs Fiber 对比</h2>
+            
+            <div className="comparison">
+              <div className="comparison-item old">
+                <h4>React 15（Stack Reconciler）</h4>
+                <pre>{`// 递归，无法中断
+function reconcile(vnode) {
+  const dom = createDOM(vnode);
+  vnode.children.forEach(child => {
+    reconcile(child); // 递归
+  });
+  // 一旦开始，必须完成整棵树
+}
+
+问题：
+❌ 无法中断
+❌ 大组件树卡顿
+❌ 无法区分优先级
+❌ 用户交互响应慢`}</pre>
+              </div>
+
+              <div className="comparison-item new">
+                <h4>React 16+ (Fiber)</h4>
+                <pre>{`// 可中断的工作循环
+function workLoop(deadline) {
+  while (work && !shouldYield()) {
+    work = performUnitOfWork(work);
+  }
+  
+  if (work) {
+    requestIdleCallback(workLoop);
+  }
+}
+
+优势：
+✅ 可中断、可恢复
+✅ 时间切片
+✅ 优先级调度
+✅ 用户交互流畅`}</pre>
+              </div>
+            </div>
+          </div>
+
+          {/* 类比说明 */}
+          <div className="demo-section">
+            <h2>6. 生活类比</h2>
+            
+            <div className="info">
+              <strong>盖楼房的类比：</strong><br/><br/>
+              
+              <strong>React 15（递归）：</strong><br/>
+              包工头说必须连续干，从第1层盖到第50层，中途不能停。
+              有紧急电话也得等楼盖完才能接。<br/><br/>
+              
+              <strong>Fiber（可中断）：</strong><br/>
+              每盖完一层就问：有没有紧急事？
+              没有就继续盖下一层，有就先处理紧急事，之后再回来继续盖。
+              用小本子（Fiber节点）记录盖到第几层了。<br/><br/>
+              
+              <strong>关键点：</strong><br/>
+              1. 书签 = Fiber节点的链表结构，记录位置<br/>
+              2. 暂停键 = 时间切片，定期检查是否需要暂停<br/>
+              3. 任务管理器 = Scheduler，决定先做什么后做什么<br/>
+              4. 草稿本 = workInProgress树，可以反复修改，不影响正式版
+            </div>
+          </div>
+        </>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>
+

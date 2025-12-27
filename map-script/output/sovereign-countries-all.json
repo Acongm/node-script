@@ -1,0 +1,5678 @@
+[
+  {
+    "id": 1,
+    "adcode": "ID",
+    "name": "印度尼西亚",
+    "name_en": "Indonesia",
+    "name_local": "Indonesia",
+    "center": [
+      117.99516650000001,
+      -2.5062594999999996
+    ],
+    "centroid": [
+      117.99516650000001,
+      -2.5062594999999996
+    ],
+    "isoCode": "ID",
+    "isoCode3": "IDN",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 270625568,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 2,
+    "adcode": "MY",
+    "name": "马来西亚",
+    "name_en": "Malaysia",
+    "name_local": "Malaysia",
+    "center": [
+      109.4616575,
+      4.103575
+    ],
+    "centroid": [
+      109.4616575,
+      4.103575
+    ],
+    "isoCode": "MY",
+    "isoCode3": "MYS",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 31949777,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 3,
+    "adcode": "CL",
+    "name": "智利",
+    "name_en": "Chile",
+    "name_local": "Chile",
+    "center": [
+      -87.9372655,
+      -36.712546
+    ],
+    "centroid": [
+      -87.9372655,
+      -36.712546
+    ],
+    "isoCode": "CL",
+    "isoCode3": "CHL",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 18952038,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 4,
+    "adcode": "BO",
+    "name": "玻利维亚",
+    "name_en": "Bolivia",
+    "name_local": "Bolivia",
+    "center": [
+      -63.5660765,
+      -16.2885395
+    ],
+    "centroid": [
+      -63.5660765,
+      -16.2885395
+    ],
+    "isoCode": "BO",
+    "isoCode3": "BOL",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 11513100,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 5,
+    "adcode": "PE",
+    "name": "秘鲁",
+    "name_en": "Peru",
+    "name_local": "Peru",
+    "center": [
+      -75.01090500000001,
+      -9.1834195
+    ],
+    "centroid": [
+      -75.01090500000001,
+      -9.1834195
+    ],
+    "isoCode": "PE",
+    "isoCode3": "PER",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 32510453,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 6,
+    "adcode": "AR",
+    "name": "阿根廷",
+    "name_en": "Argentina",
+    "name_local": "Argentina",
+    "center": [
+      -63.617146,
+      -38.419477
+    ],
+    "centroid": [
+      -63.617146,
+      -38.419477
+    ],
+    "isoCode": "AR",
+    "isoCode3": "ARG",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 44938712,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 7,
+    "adcode": "-99",
+    "name": "泽凯利亚军营",
+    "name_en": "Dhekelia Cantonment",
+    "name_local": "Dhekelia",
+    "center": [
+      33.7977865,
+      35.0284435
+    ],
+    "centroid": [
+      33.7977865,
+      35.0284435
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 7850,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 8,
+    "adcode": "CY",
+    "name": "塞浦路斯",
+    "name_en": "Cyprus",
+    "name_local": "Cyprus",
+    "center": [
+      33.1854355,
+      34.9060505
+    ],
+    "centroid": [
+      33.1854355,
+      34.9060505
+    ],
+    "isoCode": "CY",
+    "isoCode3": "CYP",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 1198575,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 9,
+    "adcode": "IN",
+    "name": "印度",
+    "name_en": "India",
+    "name_local": "India",
+    "center": [
+      82.752828,
+      21.1204785
+    ],
+    "centroid": [
+      82.752828,
+      21.1204785
+    ],
+    "isoCode": "IN",
+    "isoCode3": "IND",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 1366417754,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 10,
+    "adcode": "CN",
+    "name": "中华人民共和国",
+    "name_en": "People's Republic of China",
+    "name_local": "China",
+    "center": [
+      104.18741750000001,
+      34.6724105
+    ],
+    "centroid": [
+      104.18741750000001,
+      34.6724105
+    ],
+    "isoCode": "CN",
+    "isoCode3": "CHN",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 1397715000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 11,
+    "adcode": "IL",
+    "name": "以色列",
+    "name_en": "Israel",
+    "name_local": "Israel",
+    "center": [
+      35.068212,
+      31.4482065
+    ],
+    "centroid": [
+      35.068212,
+      31.4482065
+    ],
+    "isoCode": "IL",
+    "isoCode3": "ISR",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 9053300,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 12,
+    "adcode": "PS",
+    "name": "巴勒斯坦",
+    "name_en": "Palestine",
+    "name_local": "Palestine",
+    "center": [
+      34.8864025,
+      31.8770445
+    ],
+    "centroid": [
+      34.8864025,
+      31.8770445
+    ],
+    "isoCode": "PS",
+    "isoCode3": "PSE",
+    "continent": "Unknown",
+    "region": "Middle East & North Africa",
+    "population": 4685306,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 13,
+    "adcode": "LB",
+    "name": "黎巴嫩",
+    "name_en": "Lebanon",
+    "name_local": "Lebanon",
+    "center": [
+      35.8518605,
+      33.871564
+    ],
+    "centroid": [
+      35.8518605,
+      33.871564
+    ],
+    "isoCode": "LB",
+    "isoCode3": "LBN",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 6855713,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 14,
+    "adcode": "ET",
+    "name": "埃塞俄比亚",
+    "name_en": "Ethiopia",
+    "name_local": "Ethiopia",
+    "center": [
+      40.4844845,
+      9.1414325
+    ],
+    "centroid": [
+      40.4844845,
+      9.1414325
+    ],
+    "isoCode": "ET",
+    "isoCode3": "ETH",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 112078730,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 15,
+    "adcode": "SS",
+    "name": "南苏丹",
+    "name_en": "South Sudan",
+    "name_local": "South Sudan",
+    "center": [
+      30.021195499999997,
+      7.8531785
+    ],
+    "centroid": [
+      30.021195499999997,
+      7.8531785
+    ],
+    "isoCode": "SS",
+    "isoCode3": "SSD",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 11062113,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 16,
+    "adcode": "SO",
+    "name": "索马里",
+    "name_en": "Somalia",
+    "name_local": "Somalia",
+    "center": [
+      46.191211499999994,
+      5.146408
+    ],
+    "centroid": [
+      46.191211499999994,
+      5.146408
+    ],
+    "isoCode": "SO",
+    "isoCode3": "SOM",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 10192317.3,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 17,
+    "adcode": "KE",
+    "name": "肯尼亚",
+    "name_en": "Kenya",
+    "name_local": "Kenya",
+    "center": [
+      37.8877435,
+      0.17643600000000026
+    ],
+    "centroid": [
+      37.8877435,
+      0.17643600000000026
+    ],
+    "isoCode": "KE",
+    "isoCode3": "KEN",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 52573973,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 18,
+    "adcode": "MW",
+    "name": "马拉维",
+    "name_en": "Malawi",
+    "name_local": "Malawi",
+    "center": [
+      34.283803500000005,
+      -13.258285
+    ],
+    "centroid": [
+      34.283803500000005,
+      -13.258285
+    ],
+    "isoCode": "MW",
+    "isoCode3": "MWI",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 18628747,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 19,
+    "adcode": "TZ",
+    "name": "坦桑尼亚",
+    "name_en": "Tanzania",
+    "name_local": "Tanzania",
+    "center": [
+      34.885212,
+      -6.358551
+    ],
+    "centroid": [
+      34.885212,
+      -6.358551
+    ],
+    "isoCode": "TZ",
+    "isoCode3": "TZA",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 58005463,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 20,
+    "adcode": "SY",
+    "name": "叙利亚",
+    "name_en": "Syria",
+    "name_local": "Syria",
+    "center": [
+      39.0502925,
+      34.818974
+    ],
+    "centroid": [
+      39.0502925,
+      34.818974
+    ],
+    "isoCode": "SY",
+    "isoCode3": "SYR",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 17070135,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 21,
+    "adcode": "-99",
+    "name": "索马里兰",
+    "name_en": "Somaliland",
+    "name_local": "Somaliland",
+    "center": [
+      45.7931795,
+      9.747722
+    ],
+    "centroid": [
+      45.7931795,
+      9.747722
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Sub-Saharan Africa",
+    "population": 5096159,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 22,
+    "adcode": "FR",
+    "name": "法国",
+    "name_en": "France",
+    "name_local": "France",
+    "center": [
+      -2.9716689999999986,
+      14.858379500000002
+    ],
+    "centroid": [
+      -2.9716689999999986,
+      14.858379500000002
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 67059887,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 23,
+    "adcode": "SR",
+    "name": "苏里南",
+    "name_en": "Suriname",
+    "name_local": "Suriname",
+    "center": [
+      -56.027024,
+      3.9225405
+    ],
+    "centroid": [
+      -56.027024,
+      3.9225405
+    ],
+    "isoCode": "SR",
+    "isoCode3": "SUR",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 581363,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 24,
+    "adcode": "GY",
+    "name": "圭亚那",
+    "name_en": "Guyana",
+    "name_local": "Guyana",
+    "center": [
+      -58.939266,
+      4.8719149999999996
+    ],
+    "centroid": [
+      -58.939266,
+      4.8719149999999996
+    ],
+    "isoCode": "GY",
+    "isoCode3": "GUY",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 782766,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 25,
+    "adcode": "KR",
+    "name": "大韩民国",
+    "name_en": "South Korea",
+    "name_local": "Republic of Korea",
+    "center": [
+      128.2380695,
+      35.910956
+    ],
+    "centroid": [
+      128.2380695,
+      35.910956
+    ],
+    "isoCode": "KR",
+    "isoCode3": "KOR",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 51709098,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 26,
+    "adcode": "KP",
+    "name": "朝鲜民主主义人民共和国",
+    "name_en": "North Korea",
+    "name_local": "Dem. Rep. Korea",
+    "center": [
+      127.45563899999999,
+      40.3429375
+    ],
+    "centroid": [
+      127.45563899999999,
+      40.3429375
+    ],
+    "isoCode": "KP",
+    "isoCode3": "PRK",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 25666161,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 27,
+    "adcode": "MA",
+    "name": "摩洛哥",
+    "name_en": "Morocco",
+    "name_local": "Morocco",
+    "center": [
+      -9.022871,
+      28.673245
+    ],
+    "centroid": [
+      -9.022871,
+      28.673245
+    ],
+    "isoCode": "MA",
+    "isoCode3": "MAR",
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "population": 36471769,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 28,
+    "adcode": "EH",
+    "name": "西撒哈拉",
+    "name_en": "Western Sahara",
+    "name_local": "Western Sahara",
+    "center": [
+      -12.8927265,
+      24.214188999999998
+    ],
+    "centroid": [
+      -12.8927265,
+      24.214188999999998
+    ],
+    "isoCode": "EH",
+    "isoCode3": "ESH",
+    "continent": "Unknown",
+    "region": "Middle East & North Africa",
+    "population": 603253,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 29,
+    "adcode": "CR",
+    "name": "哥斯达黎加",
+    "name_en": "Costa Rica",
+    "name_local": "Costa Rica",
+    "center": [
+      -84.840251,
+      8.3625095
+    ],
+    "centroid": [
+      -84.840251,
+      8.3625095
+    ],
+    "isoCode": "CR",
+    "isoCode3": "CRI",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 5047561,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 30,
+    "adcode": "NI",
+    "name": "尼加拉瓜",
+    "name_en": "Nicaragua",
+    "name_local": "Nicaragua",
+    "center": [
+      -85.205759,
+      12.872226000000001
+    ],
+    "centroid": [
+      -85.205759,
+      12.872226000000001
+    ],
+    "isoCode": "NI",
+    "isoCode3": "NIC",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 6545502,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 31,
+    "adcode": "CG",
+    "name": "刚果共和国",
+    "name_en": "Republic of the Congo",
+    "name_local": "Republic of the Congo",
+    "center": [
+      14.878211499999999,
+      -0.6556775000000001
+    ],
+    "centroid": [
+      14.878211499999999,
+      -0.6556775000000001
+    ],
+    "isoCode": "CG",
+    "isoCode3": "COG",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 5380508,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 32,
+    "adcode": "CD",
+    "name": "刚果民主共和国",
+    "name_en": "Democratic Republic of the Congo",
+    "name_local": "Democratic Republic of the Congo",
+    "center": [
+      21.745494,
+      -4.0415355
+    ],
+    "centroid": [
+      21.745494,
+      -4.0415355
+    ],
+    "isoCode": "CD",
+    "isoCode3": "COD",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 86790567,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 33,
+    "adcode": "BT",
+    "name": "不丹",
+    "name_en": "Bhutan",
+    "name_local": "Bhutan",
+    "center": [
+      90.40942150000001,
+      27.527274
+    ],
+    "centroid": [
+      90.40942150000001,
+      27.527274
+    ],
+    "isoCode": "BT",
+    "isoCode3": "BTN",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 763092,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 34,
+    "adcode": "UA",
+    "name": "乌克兰",
+    "name_en": "Ukraine",
+    "name_local": "Ukraine",
+    "center": [
+      31.1461915,
+      48.7912585
+    ],
+    "centroid": [
+      31.1461915,
+      48.7912585
+    ],
+    "isoCode": "UA",
+    "isoCode3": "UKR",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 44385155,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 35,
+    "adcode": "BY",
+    "name": "白俄罗斯",
+    "name_en": "Belarus",
+    "name_local": "Belarus",
+    "center": [
+      27.9425885,
+      53.695987
+    ],
+    "centroid": [
+      27.9425885,
+      53.695987
+    ],
+    "isoCode": "BY",
+    "isoCode3": "BLR",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 9466856,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 36,
+    "adcode": "NA",
+    "name": "纳米比亚",
+    "name_en": "Namibia",
+    "name_local": "Namibia",
+    "center": [
+      18.488701,
+      -22.955212500000002
+    ],
+    "centroid": [
+      18.488701,
+      -22.955212500000002
+    ],
+    "isoCode": "NA",
+    "isoCode3": "NAM",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 2494530,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 37,
+    "adcode": "ZA",
+    "name": "南非",
+    "name_en": "South Africa",
+    "name_local": "South Africa",
+    "center": [
+      27.223887500000004,
+      -34.5461025
+    ],
+    "centroid": [
+      27.223887500000004,
+      -34.5461025
+    ],
+    "isoCode": "ZA",
+    "isoCode3": "ZAF",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 58558270,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 38,
+    "adcode": "MF",
+    "name": "法属圣马丁",
+    "name_en": "Saint Martin",
+    "name_local": "Saint-Martin",
+    "center": [
+      -63.078785999999994,
+      18.0777645
+    ],
+    "centroid": [
+      -63.078785999999994,
+      18.0777645
+    ],
+    "isoCode": "MF",
+    "isoCode3": "MAF",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 38002,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 39,
+    "adcode": "SX",
+    "name": "荷属圣马丁",
+    "name_en": "Sint Maarten",
+    "name_local": "Sint Maarten",
+    "center": [
+      -63.068227500000006,
+      18.040615000000003
+    ],
+    "centroid": [
+      -63.068227500000006,
+      18.040615000000003
+    ],
+    "isoCode": "SX",
+    "isoCode3": "SXM",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 40733,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 40,
+    "adcode": "OM",
+    "name": "阿曼",
+    "name_en": "Oman",
+    "name_local": "Oman",
+    "center": [
+      55.9115945,
+      21.5141865
+    ],
+    "centroid": [
+      55.9115945,
+      21.5141865
+    ],
+    "isoCode": "OM",
+    "isoCode3": "OMN",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 4974986,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 41,
+    "adcode": "UZ",
+    "name": "乌兹别克斯坦",
+    "name_en": "Uzbekistan",
+    "name_local": "Uzbekistan",
+    "center": [
+      64.56224,
+      41.371933
+    ],
+    "centroid": [
+      64.56224,
+      41.371933
+    ],
+    "isoCode": "UZ",
+    "isoCode3": "UZB",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 33580650,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 42,
+    "adcode": "KZ",
+    "name": "哈萨克斯坦",
+    "name_en": "Kazakhstan",
+    "name_local": "Kazakhstan",
+    "center": [
+      66.9010375,
+      48.009603
+    ],
+    "centroid": [
+      66.9010375,
+      48.009603
+    ],
+    "isoCode": "KZ",
+    "isoCode3": "KAZ",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 18513930,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 43,
+    "adcode": "TJ",
+    "name": "塔吉克斯坦",
+    "name_en": "Tajikistan",
+    "name_local": "Tajikistan",
+    "center": [
+      71.25340750000001,
+      38.859308999999996
+    ],
+    "centroid": [
+      71.25340750000001,
+      38.859308999999996
+    ],
+    "isoCode": "TJ",
+    "isoCode3": "TJK",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 9321018,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 44,
+    "adcode": "LT",
+    "name": "立陶宛",
+    "name_en": "Lithuania",
+    "name_local": "Lithuania",
+    "center": [
+      23.862644500000002,
+      55.1647215
+    ],
+    "centroid": [
+      23.862644500000002,
+      55.1647215
+    ],
+    "isoCode": "LT",
+    "isoCode3": "LTU",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 2786844,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 45,
+    "adcode": "BR",
+    "name": "巴西",
+    "name_en": "Brazil",
+    "name_local": "Brazil",
+    "center": [
+      -51.44777,
+      -14.2375275
+    ],
+    "centroid": [
+      -51.44777,
+      -14.2375275
+    ],
+    "isoCode": "BR",
+    "isoCode3": "BRA",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 211049527,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 46,
+    "adcode": "UY",
+    "name": "乌拉圭",
+    "name_en": "Uruguay",
+    "name_local": "Uruguay",
+    "center": [
+      -55.7750985,
+      -32.5351365
+    ],
+    "centroid": [
+      -55.7750985,
+      -32.5351365
+    ],
+    "isoCode": "UY",
+    "isoCode3": "URY",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 3461734,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 47,
+    "adcode": "MN",
+    "name": "蒙古国",
+    "name_en": "Mongolia",
+    "name_local": "Mongolia",
+    "center": [
+      103.821368,
+      46.857864500000005
+    ],
+    "centroid": [
+      103.821368,
+      46.857864500000005
+    ],
+    "isoCode": "MN",
+    "isoCode3": "MNG",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 3225167,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 48,
+    "adcode": "RU",
+    "name": "俄罗斯",
+    "name_en": "Russia",
+    "name_local": "Russian Federation",
+    "center": [
+      0,
+      61.5256955
+    ],
+    "centroid": [
+      0,
+      61.5256955
+    ],
+    "isoCode": "RU",
+    "isoCode3": "RUS",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 144373535,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 49,
+    "adcode": "CZ",
+    "name": "捷克",
+    "name_en": "Czech Republic",
+    "name_local": "Czech Republic",
+    "center": [
+      15.456787499999999,
+      49.798964
+    ],
+    "centroid": [
+      15.456787499999999,
+      49.798964
+    ],
+    "isoCode": "CZ",
+    "isoCode3": "CZE",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 10669709,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 50,
+    "adcode": "DE",
+    "name": "德国",
+    "name_en": "Germany",
+    "name_local": "Germany",
+    "center": [
+      10.437274500000001,
+      51.1682275
+    ],
+    "centroid": [
+      10.437274500000001,
+      51.1682275
+    ],
+    "isoCode": "DE",
+    "isoCode3": "DEU",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 83132799,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 51,
+    "adcode": "EE",
+    "name": "爱沙尼亚",
+    "name_en": "Estonia",
+    "name_local": "Estonia",
+    "center": [
+      25.009421000000003,
+      58.593351999999996
+    ],
+    "centroid": [
+      25.009421000000003,
+      58.593351999999996
+    ],
+    "isoCode": "EE",
+    "isoCode3": "EST",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 1326590,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 52,
+    "adcode": "LV",
+    "name": "拉脱维亚",
+    "name_en": "Latvia",
+    "name_local": "Latvia",
+    "center": [
+      24.5929365,
+      56.8710645
+    ],
+    "centroid": [
+      24.5929365,
+      56.8710645
+    ],
+    "isoCode": "LV",
+    "isoCode3": "LVA",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 1912789,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 53,
+    "adcode": "NO",
+    "name": "挪威",
+    "name_en": "Norway",
+    "name_local": "Norway",
+    "center": [
+      12.261485,
+      13.153794500000004
+    ],
+    "centroid": [
+      12.261485,
+      13.153794500000004
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 5347896,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 54,
+    "adcode": "SE",
+    "name": "瑞典",
+    "name_en": "Sweden",
+    "name_local": "Sweden",
+    "center": [
+      17.6357895,
+      62.189516999999995
+    ],
+    "centroid": [
+      17.6357895,
+      62.189516999999995
+    ],
+    "isoCode": "SE",
+    "isoCode3": "SWE",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 10285453,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 55,
+    "adcode": "FI",
+    "name": "芬兰",
+    "name_en": "Finland",
+    "name_local": "Finland",
+    "center": [
+      26.096345,
+      64.9432675
+    ],
+    "centroid": [
+      26.096345,
+      64.9432675
+    ],
+    "isoCode": "FI",
+    "isoCode3": "FIN",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 5520314,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 56,
+    "adcode": "VN",
+    "name": "越南",
+    "name_en": "Vietnam",
+    "name_local": "Vietnam",
+    "center": [
+      105.795539,
+      15.965927
+    ],
+    "centroid": [
+      105.795539,
+      15.965927
+    ],
+    "isoCode": "VN",
+    "isoCode3": "VNM",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 96462106,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 57,
+    "adcode": "KH",
+    "name": "柬埔寨",
+    "name_en": "Cambodia",
+    "name_local": "Cambodia",
+    "center": [
+      104.96197000000001,
+      12.560178
+    ],
+    "centroid": [
+      104.96197000000001,
+      12.560178
+    ],
+    "isoCode": "KH",
+    "isoCode3": "KHM",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 16486542,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 58,
+    "adcode": "LU",
+    "name": "卢森堡",
+    "name_en": "Luxembourg",
+    "name_local": "Luxembourg",
+    "center": [
+      6.108753,
+      49.8081495
+    ],
+    "centroid": [
+      6.108753,
+      49.8081495
+    ],
+    "isoCode": "LU",
+    "isoCode3": "LUX",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 619896,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 59,
+    "adcode": "AE",
+    "name": "阿拉伯联合酋长国",
+    "name_en": "United Arab Emirates",
+    "name_local": "United Arab Emirates",
+    "center": [
+      53.976492,
+      24.347869
+    ],
+    "centroid": [
+      53.976492,
+      24.347869
+    ],
+    "isoCode": "AE",
+    "isoCode3": "ARE",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 9770529,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 60,
+    "adcode": "BE",
+    "name": "比利时",
+    "name_en": "Belgium",
+    "name_local": "Belgium",
+    "center": [
+      4.4481625000000005,
+      50.4957305
+    ],
+    "centroid": [
+      4.4481625000000005,
+      50.4957305
+    ],
+    "isoCode": "BE",
+    "isoCode3": "BEL",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 11484055,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 61,
+    "adcode": "GE",
+    "name": "格鲁吉亚",
+    "name_en": "Georgia",
+    "name_local": "Georgia",
+    "center": [
+      43.3403895,
+      42.309977
+    ],
+    "centroid": [
+      43.3403895,
+      42.309977
+    ],
+    "isoCode": "GE",
+    "isoCode3": "GEO",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 3720382,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 62,
+    "adcode": "MK",
+    "name": "北马其顿",
+    "name_en": "North Macedonia",
+    "name_local": "North Macedonia",
+    "center": [
+      21.7268695,
+      41.6098645
+    ],
+    "centroid": [
+      21.7268695,
+      41.6098645
+    ],
+    "isoCode": "MK",
+    "isoCode3": "MKD",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 2083459,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 63,
+    "adcode": "AL",
+    "name": "阿尔巴尼亚",
+    "name_en": "Albania",
+    "name_local": "Albania",
+    "center": [
+      20.154356,
+      41.145913500000006
+    ],
+    "centroid": [
+      20.154356,
+      41.145913500000006
+    ],
+    "isoCode": "AL",
+    "isoCode3": "ALB",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 2854191,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 64,
+    "adcode": "AZ",
+    "name": "阿塞拜疆",
+    "name_en": "Azerbaijan",
+    "name_local": "Azerbaijan",
+    "center": [
+      47.700151000000005,
+      40.1415435
+    ],
+    "centroid": [
+      47.700151000000005,
+      40.1415435
+    ],
+    "isoCode": "AZ",
+    "isoCode3": "AZE",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 10023318,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 65,
+    "adcode": "-99",
+    "name": "科索沃",
+    "name_en": "Kosovo",
+    "name_local": "Kosovo",
+    "center": [
+      20.8987545,
+      42.5535405
+    ],
+    "centroid": [
+      20.8987545,
+      42.5535405
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 1794248,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 66,
+    "adcode": "TR",
+    "name": "土耳其",
+    "name_en": "Turkey",
+    "name_local": "Turkey",
+    "center": [
+      35.235126,
+      38.9592805
+    ],
+    "centroid": [
+      35.235126,
+      38.9592805
+    ],
+    "isoCode": "TR",
+    "isoCode3": "TUR",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 83429615,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 67,
+    "adcode": "ES",
+    "name": "西班牙",
+    "name_en": "Spain",
+    "name_local": "Spain",
+    "center": [
+      -6.9150694999999995,
+      35.717841
+    ],
+    "centroid": [
+      -6.9150694999999995,
+      35.717841
+    ],
+    "isoCode": "ES",
+    "isoCode3": "ESP",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 47076781,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 68,
+    "adcode": "LA",
+    "name": "老挝",
+    "name_en": "Laos",
+    "name_local": "Lao PDR",
+    "center": [
+      103.880718,
+      18.2057505
+    ],
+    "centroid": [
+      103.880718,
+      18.2057505
+    ],
+    "isoCode": "LA",
+    "isoCode3": "LAO",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 7169455,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 69,
+    "adcode": "KG",
+    "name": "吉尔吉斯斯坦",
+    "name_en": "Kyrgyzstan",
+    "name_local": "Kyrgyzstan",
+    "center": [
+      74.7419285,
+      41.2254695
+    ],
+    "centroid": [
+      74.7419285,
+      41.2254695
+    ],
+    "isoCode": "KG",
+    "isoCode3": "KGZ",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 6456900,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 70,
+    "adcode": "AM",
+    "name": "亚美尼亚",
+    "name_en": "Armenia",
+    "name_local": "Armenia",
+    "center": [
+      45.019453,
+      40.077076500000004
+    ],
+    "centroid": [
+      45.019453,
+      40.077076500000004
+    ],
+    "isoCode": "AM",
+    "isoCode3": "ARM",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 2957731,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 71,
+    "adcode": "DK",
+    "name": "丹麦",
+    "name_en": "Denmark",
+    "name_local": "Denmark",
+    "center": [
+      11.622691499999998,
+      56.159878
+    ],
+    "centroid": [
+      11.622691499999998,
+      56.159878
+    ],
+    "isoCode": "DK",
+    "isoCode3": "DNK",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 5818553,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 72,
+    "adcode": "LY",
+    "name": "利比亚",
+    "name_en": "Libya",
+    "name_local": "Libya",
+    "center": [
+      17.2214025,
+      26.338674499999996
+    ],
+    "centroid": [
+      17.2214025,
+      26.338674499999996
+    ],
+    "isoCode": "LY",
+    "isoCode3": "LBY",
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "population": 6777452,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 73,
+    "adcode": "TN",
+    "name": "突尼斯",
+    "name_en": "Tunisia",
+    "name_local": "Tunisia",
+    "center": [
+      9.521981499999999,
+      33.787053
+    ],
+    "centroid": [
+      9.521981499999999,
+      33.787053
+    ],
+    "isoCode": "TN",
+    "isoCode3": "TUN",
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "population": 11694719,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 74,
+    "adcode": "RO",
+    "name": "罗马尼亚",
+    "name_en": "Romania",
+    "name_local": "Romania",
+    "center": [
+      24.9711905,
+      45.962441
+    ],
+    "centroid": [
+      24.9711905,
+      45.962441
+    ],
+    "isoCode": "RO",
+    "isoCode3": "ROU",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 19356544,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 75,
+    "adcode": "HU",
+    "name": "匈牙利",
+    "name_en": "Hungary",
+    "name_local": "Hungary",
+    "center": [
+      19.485818000000002,
+      47.155288
+    ],
+    "centroid": [
+      19.485818000000002,
+      47.155288
+    ],
+    "isoCode": "HU",
+    "isoCode3": "HUN",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 9769949,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 76,
+    "adcode": "SK",
+    "name": "斯洛伐克",
+    "name_en": "Slovakia",
+    "name_local": "Slovakia",
+    "center": [
+      19.6920585,
+      48.675893
+    ],
+    "centroid": [
+      19.6920585,
+      48.675893
+    ],
+    "isoCode": "SK",
+    "isoCode3": "SVK",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 5454073,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 77,
+    "adcode": "PL",
+    "name": "波兰",
+    "name_en": "Poland",
+    "name_local": "Poland",
+    "center": [
+      19.1335395,
+      51.9161685
+    ],
+    "centroid": [
+      19.1335395,
+      51.9161685
+    ],
+    "isoCode": "PL",
+    "isoCode3": "POL",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 37970874,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 78,
+    "adcode": "IE",
+    "name": "爱尔兰",
+    "name_en": "Ireland",
+    "name_local": "Ireland",
+    "center": [
+      -8.2358495,
+      53.416042
+    ],
+    "centroid": [
+      -8.2358495,
+      53.416042
+    ],
+    "isoCode": "IE",
+    "isoCode3": "IRL",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 4941444,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 79,
+    "adcode": "GB",
+    "name": "英国",
+    "name_en": "United Kingdom",
+    "name_local": "United Kingdom",
+    "center": [
+      -5.9600725,
+      55.3787495
+    ],
+    "centroid": [
+      -5.9600725,
+      55.3787495
+    ],
+    "isoCode": "GB",
+    "isoCode3": "GBR",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 66834405,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 80,
+    "adcode": "GR",
+    "name": "希腊",
+    "name_en": "Greece",
+    "name_local": "Greece",
+    "center": [
+      23.933116,
+      38.2827425
+    ],
+    "centroid": [
+      23.933116,
+      38.2827425
+    ],
+    "isoCode": "GR",
+    "isoCode3": "GRC",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 10716322,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 81,
+    "adcode": "ZM",
+    "name": "赞比亚",
+    "name_en": "Zambia",
+    "name_local": "Zambia",
+    "center": [
+      27.8270405,
+      -13.131678
+    ],
+    "centroid": [
+      27.8270405,
+      -13.131678
+    ],
+    "isoCode": "ZM",
+    "isoCode3": "ZMB",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 17861030,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 82,
+    "adcode": "SL",
+    "name": "塞拉利昂",
+    "name_en": "Sierra Leone",
+    "name_local": "Sierra Leone",
+    "center": [
+      -11.791666,
+      8.457713
+    ],
+    "centroid": [
+      -11.791666,
+      8.457713
+    ],
+    "isoCode": "SL",
+    "isoCode3": "SLE",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 7813215,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 83,
+    "adcode": "GN",
+    "name": "几内亚",
+    "name_en": "Guinea",
+    "name_local": "Guinea",
+    "center": [
+      -11.371786,
+      9.931798
+    ],
+    "centroid": [
+      -11.371786,
+      9.931798
+    ],
+    "isoCode": "GN",
+    "isoCode3": "GIN",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 12771246,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 84,
+    "adcode": "LR",
+    "name": "利比里亚",
+    "name_en": "Liberia",
+    "name_local": "Liberia",
+    "center": [
+      -9.430152,
+      6.4563155000000005
+    ],
+    "centroid": [
+      -9.430152,
+      6.4563155000000005
+    ],
+    "isoCode": "LR",
+    "isoCode3": "LBR",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 4937374,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 85,
+    "adcode": "CF",
+    "name": "中非共和国",
+    "name_en": "Central African Republic",
+    "name_local": "Central African Republic",
+    "center": [
+      20.9142835,
+      6.618641
+    ],
+    "centroid": [
+      20.9142835,
+      6.618641
+    ],
+    "isoCode": "CF",
+    "isoCode3": "CAF",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 4745185,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 86,
+    "adcode": "SD",
+    "name": "苏丹",
+    "name_en": "Sudan",
+    "name_local": "Sudan",
+    "center": [
+      30.206650500000002,
+      15.4543035
+    ],
+    "centroid": [
+      30.206650500000002,
+      15.4543035
+    ],
+    "isoCode": "SD",
+    "isoCode3": "SDN",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 42813238,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 87,
+    "adcode": "DJ",
+    "name": "吉布提",
+    "name_en": "Djibouti",
+    "name_local": "Djibouti",
+    "center": [
+      42.583911,
+      11.818869
+    ],
+    "centroid": [
+      42.583911,
+      11.818869
+    ],
+    "isoCode": "DJ",
+    "isoCode3": "DJI",
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "population": 973560,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 88,
+    "adcode": "ER",
+    "name": "厄立特里亚",
+    "name_en": "Eritrea",
+    "name_local": "Eritrea",
+    "center": [
+      39.773759,
+      15.182425
+    ],
+    "centroid": [
+      39.773759,
+      15.182425
+    ],
+    "isoCode": "ER",
+    "isoCode3": "ERI",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 6081196,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 89,
+    "adcode": "AT",
+    "name": "奥地利",
+    "name_en": "Austria",
+    "name_local": "Austria",
+    "center": [
+      13.3347465,
+      47.6942085
+    ],
+    "centroid": [
+      13.3347465,
+      47.6942085
+    ],
+    "isoCode": "AT",
+    "isoCode3": "AUT",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 8877067,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 90,
+    "adcode": "IQ",
+    "name": "伊拉克",
+    "name_en": "Iraq",
+    "name_local": "Iraq",
+    "center": [
+      43.666883,
+      33.2193175
+    ],
+    "centroid": [
+      43.666883,
+      33.2193175
+    ],
+    "isoCode": "IQ",
+    "isoCode3": "IRQ",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 39309783,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 91,
+    "adcode": "IT",
+    "name": "意大利",
+    "name_en": "Italy",
+    "name_local": "Italy",
+    "center": [
+      12.560077,
+      41.287229499999995
+    ],
+    "centroid": [
+      12.560077,
+      41.287229499999995
+    ],
+    "isoCode": "IT",
+    "isoCode3": "ITA",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 60297396,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 92,
+    "adcode": "CH",
+    "name": "瑞士",
+    "name_en": "Switzerland",
+    "name_local": "Switzerland",
+    "center": [
+      8.210718,
+      46.810942
+    ],
+    "centroid": [
+      8.210718,
+      46.810942
+    ],
+    "isoCode": "CH",
+    "isoCode3": "CHE",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 8574832,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 93,
+    "adcode": "IR",
+    "name": "伊朗",
+    "name_en": "Iran",
+    "name_local": "Iran",
+    "center": [
+      53.6672455,
+      32.4154675
+    ],
+    "centroid": [
+      53.6672455,
+      32.4154675
+    ],
+    "isoCode": "IR",
+    "isoCode3": "IRN",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 82913906,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 94,
+    "adcode": "NL",
+    "name": "荷兰",
+    "name_en": "Netherlands",
+    "name_local": "Netherlands",
+    "center": [
+      -30.609441,
+      32.790066
+    ],
+    "centroid": [
+      -30.609441,
+      32.790066
+    ],
+    "isoCode": "NL",
+    "isoCode3": "NLD",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 17332850,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 95,
+    "adcode": "LI",
+    "name": "列支敦士登",
+    "name_en": "Liechtenstein",
+    "name_local": "Liechtenstein",
+    "center": [
+      9.5458045,
+      47.1576005
+    ],
+    "centroid": [
+      9.5458045,
+      47.1576005
+    ],
+    "isoCode": "LI",
+    "isoCode3": "LIE",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 38019,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 96,
+    "adcode": "CI",
+    "name": "科特迪瓦",
+    "name_en": "Ivory Coast",
+    "name_local": "Côte d'Ivoire",
+    "center": [
+      -5.562524,
+      7.535270000000001
+    ],
+    "centroid": [
+      -5.562524,
+      7.535270000000001
+    ],
+    "isoCode": "CI",
+    "isoCode3": "CIV",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 25716544,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 97,
+    "adcode": "RS",
+    "name": "塞尔维亚",
+    "name_en": "Serbia",
+    "name_local": "Serbia",
+    "center": [
+      20.9147745,
+      44.20441
+    ],
+    "centroid": [
+      20.9147745,
+      44.20441
+    ],
+    "isoCode": "RS",
+    "isoCode3": "SRB",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 6944975,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 98,
+    "adcode": "ML",
+    "name": "马里",
+    "name_en": "Mali",
+    "name_local": "Mali",
+    "center": [
+      -4.014246,
+      17.5675595
+    ],
+    "centroid": [
+      -4.014246,
+      17.5675595
+    ],
+    "isoCode": "ML",
+    "isoCode3": "MLI",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 19658031,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 99,
+    "adcode": "SN",
+    "name": "塞内加尔",
+    "name_en": "Senegal",
+    "name_local": "Senegal",
+    "center": [
+      -14.4569085,
+      14.498496
+    ],
+    "centroid": [
+      -14.4569085,
+      14.498496
+    ],
+    "isoCode": "SN",
+    "isoCode3": "SEN",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 16296364,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 100,
+    "adcode": "NG",
+    "name": "尼日利亚",
+    "name_en": "Nigeria",
+    "name_local": "Nigeria",
+    "center": [
+      8.670509,
+      9.0762265
+    ],
+    "centroid": [
+      8.670509,
+      9.0762265
+    ],
+    "isoCode": "NG",
+    "isoCode3": "NGA",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 200963599,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 101,
+    "adcode": "BJ",
+    "name": "贝宁",
+    "name_en": "Benin",
+    "name_local": "Benin",
+    "center": [
+      2.2986500000000003,
+      9.306569
+    ],
+    "centroid": [
+      2.2986500000000003,
+      9.306569
+    ],
+    "isoCode": "BJ",
+    "isoCode3": "BEN",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 11801151,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 102,
+    "adcode": "AO",
+    "name": "安哥拉",
+    "name_en": "Angola",
+    "name_local": "Angola",
+    "center": [
+      17.865554,
+      -11.2113045
+    ],
+    "centroid": [
+      17.865554,
+      -11.2113045
+    ],
+    "isoCode": "AO",
+    "isoCode3": "AGO",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 31825295,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 103,
+    "adcode": "HR",
+    "name": "克罗地亚",
+    "name_en": "Croatia",
+    "name_local": "Croatia",
+    "center": [
+      16.4546565,
+      44.481653
+    ],
+    "centroid": [
+      16.4546565,
+      44.481653
+    ],
+    "isoCode": "HR",
+    "isoCode3": "HRV",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 4067500,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 104,
+    "adcode": "SI",
+    "name": "斯洛文尼亚",
+    "name_en": "Slovenia",
+    "name_local": "Slovenia",
+    "center": [
+      14.9402815,
+      46.1437995
+    ],
+    "centroid": [
+      14.9402815,
+      46.1437995
+    ],
+    "isoCode": "SI",
+    "isoCode3": "SVN",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 2087946,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 105,
+    "adcode": "QA",
+    "name": "卡塔尔",
+    "name_en": "Qatar",
+    "name_local": "Qatar",
+    "center": [
+      51.183767,
+      25.359986999999997
+    ],
+    "centroid": [
+      51.183767,
+      25.359986999999997
+    ],
+    "isoCode": "QA",
+    "isoCode3": "QAT",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 2832067,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 106,
+    "adcode": "SA",
+    "name": "沙特阿拉伯",
+    "name_en": "Saudi Arabia",
+    "name_local": "Saudi Arabia",
+    "center": [
+      45.105165,
+      24.246153
+    ],
+    "centroid": [
+      45.105165,
+      24.246153
+    ],
+    "isoCode": "SA",
+    "isoCode3": "SAU",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 34268528,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 107,
+    "adcode": "BW",
+    "name": "博茨瓦纳",
+    "name_en": "Botswana",
+    "name_local": "Botswana",
+    "center": [
+      24.664209999999997,
+      -22.336801
+    ],
+    "centroid": [
+      24.664209999999997,
+      -22.336801
+    ],
+    "isoCode": "BW",
+    "isoCode3": "BWA",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 2303697,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 108,
+    "adcode": "ZW",
+    "name": "津巴布韦",
+    "name_en": "Zimbabwe",
+    "name_local": "Zimbabwe",
+    "center": [
+      29.131069000000004,
+      -19.006073999999998
+    ],
+    "centroid": [
+      29.131069000000004,
+      -19.006073999999998
+    ],
+    "isoCode": "ZW",
+    "isoCode3": "ZWE",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 14645468,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 109,
+    "adcode": "PK",
+    "name": "巴基斯坦",
+    "name_en": "Pakistan",
+    "name_local": "Pakistan",
+    "center": [
+      68.946675,
+      30.3745045
+    ],
+    "centroid": [
+      68.946675,
+      30.3745045
+    ],
+    "isoCode": "PK",
+    "isoCode3": "PAK",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 216565318,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 110,
+    "adcode": "BG",
+    "name": "保加利亚",
+    "name_en": "Bulgaria",
+    "name_local": "Bulgaria",
+    "center": [
+      25.4742745,
+      42.7332695
+    ],
+    "centroid": [
+      25.4742745,
+      42.7332695
+    ],
+    "isoCode": "BG",
+    "isoCode3": "BGR",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 6975761,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 111,
+    "adcode": "TH",
+    "name": "泰国",
+    "name_en": "Thailand",
+    "name_local": "Thailand",
+    "center": [
+      101.5011995,
+      13.037448
+    ],
+    "centroid": [
+      101.5011995,
+      13.037448
+    ],
+    "isoCode": "TH",
+    "isoCode3": "THA",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 69625582,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 112,
+    "adcode": "SM",
+    "name": "圣马力诺",
+    "name_en": "San Marino",
+    "name_local": "San Marino",
+    "center": [
+      12.4390105,
+      43.9373115
+    ],
+    "centroid": [
+      12.4390105,
+      43.9373115
+    ],
+    "isoCode": "SM",
+    "isoCode3": "SMR",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 33860,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 113,
+    "adcode": "HT",
+    "name": "海地",
+    "name_en": "Haiti",
+    "name_local": "Haiti",
+    "center": [
+      -73.0641385,
+      19.0578675
+    ],
+    "centroid": [
+      -73.0641385,
+      19.0578675
+    ],
+    "isoCode": "HT",
+    "isoCode3": "HTI",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 11263077,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 114,
+    "adcode": "DO",
+    "name": "多米尼加",
+    "name_en": "Dominican Republic",
+    "name_local": "Dominican Republic",
+    "center": [
+      -70.1692205,
+      18.7416245
+    ],
+    "centroid": [
+      -70.1692205,
+      18.7416245
+    ],
+    "isoCode": "DO",
+    "isoCode3": "DOM",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 10738958,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 115,
+    "adcode": "TD",
+    "name": "乍得",
+    "name_en": "Chad",
+    "name_local": "Chad",
+    "center": [
+      18.716795,
+      15.4501435
+    ],
+    "centroid": [
+      18.716795,
+      15.4501435
+    ],
+    "isoCode": "TD",
+    "isoCode3": "TCD",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 15946876,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 116,
+    "adcode": "KW",
+    "name": "科威特",
+    "name_en": "Kuwait",
+    "name_local": "Kuwait",
+    "center": [
+      47.4826085,
+      29.3158605
+    ],
+    "centroid": [
+      47.4826085,
+      29.3158605
+    ],
+    "isoCode": "KW",
+    "isoCode3": "KWT",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 4207083,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 117,
+    "adcode": "SV",
+    "name": "萨尔瓦多",
+    "name_en": "El Salvador",
+    "name_local": "El Salvador",
+    "center": [
+      -88.9039865,
+      13.802005000000001
+    ],
+    "centroid": [
+      -88.9039865,
+      13.802005000000001
+    ],
+    "isoCode": "SV",
+    "isoCode3": "SLV",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 6453553,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 118,
+    "adcode": "GT",
+    "name": "危地马拉",
+    "name_en": "Guatemala",
+    "name_local": "Guatemala",
+    "center": [
+      -90.233597,
+      15.773712
+    ],
+    "centroid": [
+      -90.233597,
+      15.773712
+    ],
+    "isoCode": "GT",
+    "isoCode3": "GTM",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 16604026,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 119,
+    "adcode": "TL",
+    "name": "东帝汶",
+    "name_en": "East Timor",
+    "name_local": "Timor-Leste",
+    "center": [
+      125.67164149999999,
+      -8.818126
+    ],
+    "centroid": [
+      125.67164149999999,
+      -8.818126
+    ],
+    "isoCode": "TL",
+    "isoCode3": "TLS",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 1293119,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 120,
+    "adcode": "BN",
+    "name": "文莱",
+    "name_en": "Brunei",
+    "name_local": "Brunei Darussalam",
+    "center": [
+      114.6797655,
+      4.5369385
+    ],
+    "centroid": [
+      114.6797655,
+      4.5369385
+    ],
+    "isoCode": "BN",
+    "isoCode3": "BRN",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 433285,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 121,
+    "adcode": "MC",
+    "name": "摩纳哥",
+    "name_en": "Monaco",
+    "name_local": "Monaco",
+    "center": [
+      7.4016020000000005,
+      43.740737499999994
+    ],
+    "centroid": [
+      7.4016020000000005,
+      43.740737499999994
+    ],
+    "isoCode": "MC",
+    "isoCode3": "MCO",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 38964,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 122,
+    "adcode": "DZ",
+    "name": "阿尔及利亚",
+    "name_en": "Algeria",
+    "name_local": "Algeria",
+    "center": [
+      1.6432380000000002,
+      28.0347505
+    ],
+    "centroid": [
+      1.6432380000000002,
+      28.0347505
+    ],
+    "isoCode": "DZ",
+    "isoCode3": "DZA",
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "population": 43053054,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 123,
+    "adcode": "MZ",
+    "name": "莫桑比克",
+    "name_en": "Mozambique",
+    "name_local": "Mozambique",
+    "center": [
+      35.5309185,
+      -18.66464
+    ],
+    "centroid": [
+      35.5309185,
+      -18.66464
+    ],
+    "isoCode": "MZ",
+    "isoCode3": "MOZ",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 30366036,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 124,
+    "adcode": "SZ",
+    "name": "斯威士兰",
+    "name_en": "Eswatini",
+    "name_local": "Kingdom of eSwatini",
+    "center": [
+      31.450152000000003,
+      -26.526131499999998
+    ],
+    "centroid": [
+      31.450152000000003,
+      -26.526131499999998
+    ],
+    "isoCode": "SZ",
+    "isoCode3": "SWZ",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 1148130,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 125,
+    "adcode": "BI",
+    "name": "布隆迪",
+    "name_en": "Burundi",
+    "name_local": "Burundi",
+    "center": [
+      29.910427,
+      -3.383203
+    ],
+    "centroid": [
+      29.910427,
+      -3.383203
+    ],
+    "isoCode": "BI",
+    "isoCode3": "BDI",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 11530580,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 126,
+    "adcode": "RW",
+    "name": "卢旺达",
+    "name_en": "Rwanda",
+    "name_local": "Rwanda",
+    "center": [
+      29.872522500000002,
+      -1.9427745
+    ],
+    "centroid": [
+      29.872522500000002,
+      -1.9427745
+    ],
+    "isoCode": "RW",
+    "isoCode3": "RWA",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 12626950,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 127,
+    "adcode": "MM",
+    "name": "缅甸",
+    "name_en": "Myanmar",
+    "name_local": "Myanmar",
+    "center": [
+      96.674414,
+      19.1645915
+    ],
+    "centroid": [
+      96.674414,
+      19.1645915
+    ],
+    "isoCode": "MM",
+    "isoCode3": "MMR",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 54045420,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 128,
+    "adcode": "BD",
+    "name": "孟加拉国",
+    "name_en": "Bangladesh",
+    "name_local": "Bangladesh",
+    "center": [
+      90.3323205,
+      23.681129499999997
+    ],
+    "centroid": [
+      90.3323205,
+      23.681129499999997
+    ],
+    "isoCode": "BD",
+    "isoCode3": "BGD",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 163046161,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 129,
+    "adcode": "AD",
+    "name": "安道尔",
+    "name_en": "Andorra",
+    "name_local": "Andorra",
+    "center": [
+      1.5857735,
+      42.5390195
+    ],
+    "centroid": [
+      1.5857735,
+      42.5390195
+    ],
+    "isoCode": "AD",
+    "isoCode3": "AND",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 77142,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 130,
+    "adcode": "AF",
+    "name": "阿富汗",
+    "name_en": "Afghanistan",
+    "name_local": "Afghanistan",
+    "center": [
+      67.6895425,
+      33.930139
+    ],
+    "centroid": [
+      67.6895425,
+      33.930139
+    ],
+    "isoCode": "AF",
+    "isoCode3": "AFG",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 38041754,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 131,
+    "adcode": "ME",
+    "name": "黑山",
+    "name_en": "Montenegro",
+    "name_local": "Montenegro",
+    "center": [
+      19.394351,
+      42.700124
+    ],
+    "centroid": [
+      19.394351,
+      42.700124
+    ],
+    "isoCode": "ME",
+    "isoCode3": "MNE",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 622137,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 132,
+    "adcode": "BA",
+    "name": "波斯尼亚和黑塞哥维那",
+    "name_en": "Bosnia and Herzegovina",
+    "name_local": "Bosnia and Herzegovina",
+    "center": [
+      17.6674795,
+      43.921868
+    ],
+    "centroid": [
+      17.6674795,
+      43.921868
+    ],
+    "isoCode": "BA",
+    "isoCode3": "BIH",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 3301000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 133,
+    "adcode": "UG",
+    "name": "乌干达",
+    "name_en": "Uganda",
+    "name_local": "Uganda",
+    "center": [
+      32.2774665,
+      1.372243
+    ],
+    "centroid": [
+      32.2774665,
+      1.372243
+    ],
+    "isoCode": "UG",
+    "isoCode3": "UGA",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 44269594,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 134,
+    "adcode": "-99",
+    "name": "关塔那摩湾海军基地",
+    "name_en": "Guantanamo Bay Naval Base",
+    "name_local": "US Naval Base Guantanamo Bay",
+    "center": [
+      -75.1639045,
+      19.931362999999997
+    ],
+    "centroid": [
+      -75.1639045,
+      19.931362999999997
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 6000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 135,
+    "adcode": "CU",
+    "name": "古巴",
+    "name_en": "Cuba",
+    "name_local": "Cuba",
+    "center": [
+      -79.541249,
+      21.546698
+    ],
+    "centroid": [
+      -79.541249,
+      21.546698
+    ],
+    "isoCode": "CU",
+    "isoCode3": "CUB",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 11333483,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 136,
+    "adcode": "HN",
+    "name": "洪都拉斯",
+    "name_en": "Honduras",
+    "name_local": "Honduras",
+    "center": [
+      -86.2471175,
+      15.199212
+    ],
+    "centroid": [
+      -86.2471175,
+      15.199212
+    ],
+    "isoCode": "HN",
+    "isoCode3": "HND",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 9746117,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 137,
+    "adcode": "EC",
+    "name": "厄瓜多尔",
+    "name_en": "Ecuador",
+    "name_local": "Ecuador",
+    "center": [
+      -83.619425,
+      -1.6734995
+    ],
+    "centroid": [
+      -83.619425,
+      -1.6734995
+    ],
+    "isoCode": "EC",
+    "isoCode3": "ECU",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 17373662,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 138,
+    "adcode": "CO",
+    "name": "哥伦比亚",
+    "name_en": "Colombia",
+    "name_local": "Colombia",
+    "center": [
+      -74.29938250000001,
+      4.670935500000001
+    ],
+    "centroid": [
+      -74.29938250000001,
+      4.670935500000001
+    ],
+    "isoCode": "CO",
+    "isoCode3": "COL",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 50339443,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 139,
+    "adcode": "PY",
+    "name": "巴拉圭",
+    "name_en": "Paraguay",
+    "name_local": "Paraguay",
+    "center": [
+      -58.447823,
+      -23.4367855
+    ],
+    "centroid": [
+      -58.447823,
+      -23.4367855
+    ],
+    "isoCode": "PY",
+    "isoCode3": "PRY",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 7044636,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 140,
+    "adcode": "-99",
+    "name": "巴西岛",
+    "name_en": "Brazilian Island",
+    "name_local": "Brazilian Island",
+    "center": [
+      -57.6226295,
+      -30.1880275
+    ],
+    "centroid": [
+      -57.6226295,
+      -30.1880275
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 141,
+    "adcode": "PT",
+    "name": "葡萄牙",
+    "name_en": "Portugal",
+    "name_local": "Portugal",
+    "center": [
+      -18.745424,
+      36.091436
+    ],
+    "centroid": [
+      -18.745424,
+      36.091436
+    ],
+    "isoCode": "PT",
+    "isoCode3": "PRT",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 10269417,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 142,
+    "adcode": "MD",
+    "name": "摩尔多瓦",
+    "name_en": "Moldova",
+    "name_local": "Moldova",
+    "center": [
+      28.3747325,
+      46.973904
+    ],
+    "centroid": [
+      28.3747325,
+      46.973904
+    ],
+    "isoCode": "MD",
+    "isoCode3": "MDA",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 2657637,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 143,
+    "adcode": "TM",
+    "name": "土库曼斯坦",
+    "name_en": "Turkmenistan",
+    "name_local": "Turkmenistan",
+    "center": [
+      59.541726499999996,
+      38.9659175
+    ],
+    "centroid": [
+      59.541726499999996,
+      38.9659175
+    ],
+    "isoCode": "TM",
+    "isoCode3": "TKM",
+    "continent": "Asia",
+    "region": "Europe & Central Asia",
+    "population": 5942089,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 144,
+    "adcode": "JO",
+    "name": "约旦",
+    "name_en": "Jordan",
+    "name_local": "Jordan",
+    "center": [
+      37.120692,
+      31.280818
+    ],
+    "centroid": [
+      37.120692,
+      31.280818
+    ],
+    "isoCode": "JO",
+    "isoCode3": "JOR",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 10101694,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 145,
+    "adcode": "NP",
+    "name": "尼泊尔",
+    "name_en": "Nepal",
+    "name_local": "Nepal",
+    "center": [
+      84.0996775,
+      28.380336
+    ],
+    "centroid": [
+      84.0996775,
+      28.380336
+    ],
+    "isoCode": "NP",
+    "isoCode3": "NPL",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 28608710,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 146,
+    "adcode": "LS",
+    "name": "莱索托",
+    "name_en": "Lesotho",
+    "name_local": "Lesotho",
+    "center": [
+      28.2190315,
+      -29.61478
+    ],
+    "centroid": [
+      28.2190315,
+      -29.61478
+    ],
+    "isoCode": "LS",
+    "isoCode3": "LSO",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 2125268,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 147,
+    "adcode": "CM",
+    "name": "喀麦隆",
+    "name_en": "Cameroon",
+    "name_local": "Cameroon",
+    "center": [
+      12.3563895,
+      7.367846
+    ],
+    "centroid": [
+      12.3563895,
+      7.367846
+    ],
+    "isoCode": "CM",
+    "isoCode3": "CMR",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 25876380,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 148,
+    "adcode": "GA",
+    "name": "加蓬",
+    "name_en": "Gabon",
+    "name_local": "Gabon",
+    "center": [
+      11.597279,
+      -0.8071805000000001
+    ],
+    "centroid": [
+      11.597279,
+      -0.8071805000000001
+    ],
+    "isoCode": "GA",
+    "isoCode3": "GAB",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 2172579,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 149,
+    "adcode": "NE",
+    "name": "尼日尔",
+    "name_en": "Niger",
+    "name_local": "Niger",
+    "center": [
+      8.061631499999999,
+      17.606562
+    ],
+    "centroid": [
+      8.061631499999999,
+      17.606562
+    ],
+    "isoCode": "NE",
+    "isoCode3": "NER",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 23310715,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 150,
+    "adcode": "BF",
+    "name": "布基纳法索",
+    "name_en": "Burkina Faso",
+    "name_local": "Burkina Faso",
+    "center": [
+      -1.5662045,
+      12.2358955
+    ],
+    "centroid": [
+      -1.5662045,
+      12.2358955
+    ],
+    "isoCode": "BF",
+    "isoCode3": "BFA",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 20321378,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 151,
+    "adcode": "TG",
+    "name": "多哥",
+    "name_en": "Togo",
+    "name_local": "Togo",
+    "center": [
+      0.808121,
+      8.6177355
+    ],
+    "centroid": [
+      0.808121,
+      8.6177355
+    ],
+    "isoCode": "TG",
+    "isoCode3": "TGO",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 8082366,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 152,
+    "adcode": "GH",
+    "name": "加纳",
+    "name_en": "Ghana",
+    "name_local": "Ghana",
+    "center": [
+      -1.0372705,
+      7.9500325
+    ],
+    "centroid": [
+      -1.0372705,
+      7.9500325
+    ],
+    "isoCode": "GH",
+    "isoCode3": "GHA",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 30417856,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 153,
+    "adcode": "GW",
+    "name": "几内亚比绍",
+    "name_en": "Guinea-Bissau",
+    "name_local": "Guinea-Bissau",
+    "center": [
+      -15.1945745,
+      11.8035365
+    ],
+    "centroid": [
+      -15.1945745,
+      11.8035365
+    ],
+    "isoCode": "GW",
+    "isoCode3": "GNB",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 1920922,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 154,
+    "adcode": "GI",
+    "name": "直布罗陀",
+    "name_en": "Gibraltar",
+    "name_local": "Gibraltar",
+    "center": [
+      -5.34858,
+      36.12581
+    ],
+    "centroid": [
+      -5.34858,
+      36.12581
+    ],
+    "isoCode": "GI",
+    "isoCode3": "GIB",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 33701,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 155,
+    "adcode": "US",
+    "name": "美国",
+    "name_en": "United States of America",
+    "name_local": "United States",
+    "center": [
+      0.3187159999999949,
+      45.1593095
+    ],
+    "centroid": [
+      0.3187159999999949,
+      45.1593095
+    ],
+    "isoCode": "US",
+    "isoCode3": "USA",
+    "continent": "North America",
+    "region": "North America",
+    "population": 328239523,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 156,
+    "adcode": "CA",
+    "name": "加拿大",
+    "name_en": "Canada",
+    "name_local": "Canada",
+    "center": [
+      -96.81108549999999,
+      62.3928045
+    ],
+    "centroid": [
+      -96.81108549999999,
+      62.3928045
+    ],
+    "isoCode": "CA",
+    "isoCode3": "CAN",
+    "continent": "North America",
+    "region": "North America",
+    "population": 37589262,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 157,
+    "adcode": "MX",
+    "name": "墨西哥",
+    "name_en": "Mexico",
+    "name_local": "Mexico",
+    "center": [
+      -102.53469799999999,
+      23.6295575
+    ],
+    "centroid": [
+      -102.53469799999999,
+      23.6295575
+    ],
+    "isoCode": "MX",
+    "isoCode3": "MEX",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 127575529,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 158,
+    "adcode": "BZ",
+    "name": "伯利兹",
+    "name_en": "Belize",
+    "name_local": "Belize",
+    "center": [
+      -88.509791,
+      17.185205500000002
+    ],
+    "centroid": [
+      -88.509791,
+      17.185205500000002
+    ],
+    "isoCode": "BZ",
+    "isoCode3": "BLZ",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 390353,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 159,
+    "adcode": "PA",
+    "name": "巴拿马",
+    "name_en": "Panama",
+    "name_local": "Panama",
+    "center": [
+      -80.108258,
+      8.417503499999999
+    ],
+    "centroid": [
+      -80.108258,
+      8.417503499999999
+    ],
+    "isoCode": "PA",
+    "isoCode3": "PAN",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 4246439,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 160,
+    "adcode": "VE",
+    "name": "委内瑞拉",
+    "name_en": "Venezuela",
+    "name_local": "Venezuela",
+    "center": [
+      -66.60337200000001,
+      8.1761315
+    ],
+    "centroid": [
+      -66.60337200000001,
+      8.1761315
+    ],
+    "isoCode": "VE",
+    "isoCode3": "VEN",
+    "continent": "South America",
+    "region": "Latin America & Caribbean",
+    "population": 28515829,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 161,
+    "adcode": "PG",
+    "name": "巴布亚新几内亚",
+    "name_en": "Papua New Guinea",
+    "name_local": "Papua New Guinea",
+    "center": [
+      148.4083755,
+      -6.491347
+    ],
+    "centroid": [
+      148.4083755,
+      -6.491347
+    ],
+    "isoCode": "PG",
+    "isoCode3": "PNG",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 8776109,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 162,
+    "adcode": "EG",
+    "name": "埃及",
+    "name_en": "Egypt",
+    "name_local": "Egypt",
+    "center": [
+      30.793762,
+      26.825424499999997
+    ],
+    "centroid": [
+      30.793762,
+      26.825424499999997
+    ],
+    "isoCode": "EG",
+    "isoCode3": "EGY",
+    "continent": "Africa",
+    "region": "Middle East & North Africa",
+    "population": 100388073,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 163,
+    "adcode": "YE",
+    "name": "也门",
+    "name_en": "Yemen",
+    "name_local": "Yemen",
+    "center": [
+      48.54302,
+      15.553541
+    ],
+    "centroid": [
+      48.54302,
+      15.553541
+    ],
+    "isoCode": "YE",
+    "isoCode3": "YEM",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 29161922,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 164,
+    "adcode": "MR",
+    "name": "毛里塔尼亚",
+    "name_en": "Mauritania",
+    "name_local": "Mauritania",
+    "center": [
+      -10.951394,
+      21.0099075
+    ],
+    "centroid": [
+      -10.951394,
+      21.0099075
+    ],
+    "isoCode": "MR",
+    "isoCode3": "MRT",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 4525696,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 165,
+    "adcode": "GQ",
+    "name": "赤道几内亚",
+    "name_en": "Equatorial Guinea",
+    "name_local": "Equatorial Guinea",
+    "center": [
+      8.4741655,
+      1.1483625000000002
+    ],
+    "centroid": [
+      8.4741655,
+      1.1483625000000002
+    ],
+    "isoCode": "GQ",
+    "isoCode3": "GNQ",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 1355986,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 166,
+    "adcode": "GM",
+    "name": "冈比亚",
+    "name_en": "The Gambia",
+    "name_local": "The Gambia",
+    "center": [
+      -15.324207000000001,
+      13.4424965
+    ],
+    "centroid": [
+      -15.324207000000001,
+      13.4424965
+    ],
+    "isoCode": "GM",
+    "isoCode3": "GMB",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 2347706,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 167,
+    "adcode": "HK",
+    "name": "香港",
+    "name_en": "Hong Kong",
+    "name_local": "Hong Kong",
+    "center": [
+      114.119314,
+      22.370507500000002
+    ],
+    "centroid": [
+      114.119314,
+      22.370507500000002
+    ],
+    "isoCode": "HK",
+    "isoCode3": "HKG",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 7507400,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 168,
+    "adcode": "VA",
+    "name": "梵蒂冈",
+    "name_en": "Vatican City",
+    "name_local": "Vatican",
+    "center": [
+      12.453374499999999,
+      41.9033335
+    ],
+    "centroid": [
+      12.453374499999999,
+      41.9033335
+    ],
+    "isoCode": "VA",
+    "isoCode3": "VAT",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 825,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 169,
+    "adcode": "-99",
+    "name": "北塞浦路斯土耳其共和国",
+    "name_en": "Turkish Republic of Northern Cyprus",
+    "name_local": "Northern Cyprus",
+    "center": [
+      33.5972195,
+      35.347342
+    ],
+    "centroid": [
+      33.5972195,
+      35.347342
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 326000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 170,
+    "adcode": "-99",
+    "name": "塞浦路斯联合国缓冲区",
+    "name_en": "United Nations Buffer Zone in Cyprus",
+    "name_local": "Cyprus U.N. Buffer Zone",
+    "center": [
+      33.303385,
+      35.088583
+    ],
+    "centroid": [
+      33.303385,
+      35.088583
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 10000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 171,
+    "adcode": "-99",
+    "name": "锡亚琴冰川",
+    "name_en": "Siachen Glacier",
+    "name_local": "Siachen Glacier",
+    "center": [
+      77.2888485,
+      35.3791205
+    ],
+    "centroid": [
+      77.2888485,
+      35.3791205
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "South Asia",
+    "population": 6000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 172,
+    "adcode": "-99",
+    "name": "拜科努尔",
+    "name_en": "Baikonur",
+    "name_local": "Baikonur Cosmodrome",
+    "center": [
+      63.383888,
+      45.978331499999996
+    ],
+    "centroid": [
+      63.383888,
+      45.978331499999996
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 36175,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 173,
+    "adcode": "-99",
+    "name": "阿克罗蒂里主权基地区",
+    "name_en": "Akrotiri Sovereign Base Area",
+    "name_local": "Akrotiri",
+    "center": [
+      32.895193000000006,
+      34.6347485
+    ],
+    "centroid": [
+      32.895193000000006,
+      34.6347485
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 7850,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 174,
+    "adcode": "-99",
+    "name": "南巴塔哥尼亞冰原",
+    "name_en": "Southern Patagonian Ice Field",
+    "name_local": "Southern Patagonian Ice Field",
+    "center": [
+      -73.32273,
+      -49.5163565
+    ],
+    "centroid": [
+      -73.32273,
+      -49.5163565
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 175,
+    "adcode": "-99",
+    "name": "比尔泰维勒",
+    "name_en": "Bir Tawil",
+    "name_local": "Bir Tawil",
+    "center": [
+      33.6326575,
+      21.8532055
+    ],
+    "centroid": [
+      33.6326575,
+      21.8532055
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Middle East & North Africa",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 176,
+    "adcode": "AQ",
+    "name": "南极洲",
+    "name_en": "Antarctica",
+    "name_local": "Antarctica",
+    "center": [
+      0,
+      -75.2581045
+    ],
+    "centroid": [
+      0,
+      -75.2581045
+    ],
+    "isoCode": "AQ",
+    "isoCode3": "ATA",
+    "continent": "Unknown",
+    "region": "Antarctica",
+    "population": 4490,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 177,
+    "adcode": "AU",
+    "name": "澳大利亚",
+    "name_en": "Australia",
+    "name_local": "Australia",
+    "center": [
+      136.01295,
+      -31.995294
+    ],
+    "centroid": [
+      136.01295,
+      -31.995294
+    ],
+    "isoCode": "AU",
+    "isoCode3": "AUS",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 25364307,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 178,
+    "adcode": "GL",
+    "name": "格陵兰",
+    "name_en": "Greenland",
+    "name_local": "Greenland",
+    "center": [
+      -42.217029999999994,
+      71.713365
+    ],
+    "centroid": [
+      -42.217029999999994,
+      71.713365
+    ],
+    "isoCode": "GL",
+    "isoCode3": "GRL",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 56225,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 179,
+    "adcode": "FJ",
+    "name": "斐济",
+    "name_en": "Fiji",
+    "name_local": "Fiji",
+    "center": [
+      0,
+      -17.093194
+    ],
+    "centroid": [
+      0,
+      -17.093194
+    ],
+    "isoCode": "FJ",
+    "isoCode3": "FJI",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 889953,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 180,
+    "adcode": "NZ",
+    "name": "新西兰",
+    "name_en": "New Zealand",
+    "name_local": "New Zealand",
+    "center": [
+      0.4429629999999918,
+      -30.57177
+    ],
+    "centroid": [
+      0.4429629999999918,
+      -30.57177
+    ],
+    "isoCode": "NZ",
+    "isoCode3": "NZL",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 4917000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 181,
+    "adcode": "NC",
+    "name": "新喀里多尼亚",
+    "name_en": "New Caledonia",
+    "name_local": "New Caledonia",
+    "center": [
+      167.479749,
+      -21.147190000000002
+    ],
+    "centroid": [
+      167.479749,
+      -21.147190000000002
+    ],
+    "isoCode": "NC",
+    "isoCode3": "NCL",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 287800,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 182,
+    "adcode": "MG",
+    "name": "马达加斯加",
+    "name_en": "Madagascar",
+    "name_local": "Madagascar",
+    "center": [
+      46.863414000000006,
+      -18.771091
+    ],
+    "centroid": [
+      46.863414000000006,
+      -18.771091
+    ],
+    "isoCode": "MG",
+    "isoCode3": "MDG",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 26969307,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 183,
+    "adcode": "PH",
+    "name": "菲律宾",
+    "name_en": "Philippines",
+    "name_local": "Philippines",
+    "center": [
+      121.786306,
+      12.8890445
+    ],
+    "centroid": [
+      121.786306,
+      12.8890445
+    ],
+    "isoCode": "PH",
+    "isoCode3": "PHL",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 108116615,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 184,
+    "adcode": "LK",
+    "name": "斯里兰卡",
+    "name_en": "Sri Lanka",
+    "name_local": "Sri Lanka",
+    "center": [
+      80.773041,
+      7.8766545
+    ],
+    "centroid": [
+      80.773041,
+      7.8766545
+    ],
+    "isoCode": "LK",
+    "isoCode3": "LKA",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 21803000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 185,
+    "adcode": "CW",
+    "name": "库拉索",
+    "name_en": "Curaçao",
+    "name_local": "Curaçao",
+    "center": [
+      -68.9557385,
+      12.216416500000001
+    ],
+    "centroid": [
+      -68.9557385,
+      12.216416500000001
+    ],
+    "isoCode": "CW",
+    "isoCode3": "CUW",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 157538,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 186,
+    "adcode": "AW",
+    "name": "阿鲁巴",
+    "name_en": "Aruba",
+    "name_local": "Aruba",
+    "center": [
+      -69.969614,
+      12.524909000000001
+    ],
+    "centroid": [
+      -69.969614,
+      12.524909000000001
+    ],
+    "isoCode": "AW",
+    "isoCode3": "ABW",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 106314,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 187,
+    "adcode": "BS",
+    "name": "巴哈马",
+    "name_en": "The Bahamas",
+    "name_local": "Bahamas",
+    "center": [
+      -76.1702575,
+      23.9204055
+    ],
+    "centroid": [
+      -76.1702575,
+      23.9204055
+    ],
+    "isoCode": "BS",
+    "isoCode3": "BHS",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 389482,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 188,
+    "adcode": "TC",
+    "name": "特克斯和凯科斯群岛",
+    "name_en": "Turks and Caicos Islands",
+    "name_local": "Turks and Caicos Islands",
+    "center": [
+      -71.8051045,
+      21.624661
+    ],
+    "centroid": [
+      -71.8051045,
+      21.624661
+    ],
+    "isoCode": "TC",
+    "isoCode3": "TCA",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 38191,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 189,
+    "adcode": "CN-TW",
+    "name": "中华民国",
+    "name_en": "Taiwan",
+    "name_local": "Taiwan",
+    "center": [
+      120.142467,
+      23.5960145
+    ],
+    "centroid": [
+      120.142467,
+      23.5960145
+    ],
+    "isoCode": "CN-TW",
+    "isoCode3": "TWN",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 23568378,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 190,
+    "adcode": "JP",
+    "name": "日本",
+    "name_en": "Japan",
+    "name_local": "Japan",
+    "center": [
+      138.461884,
+      34.8662585
+    ],
+    "centroid": [
+      138.461884,
+      34.8662585
+    ],
+    "isoCode": "JP",
+    "isoCode3": "JPN",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 126264931,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 191,
+    "adcode": "PM",
+    "name": "圣皮埃尔和密克隆",
+    "name_en": "Saint Pierre and Miquelon",
+    "name_local": "Saint Pierre and Miquelon",
+    "center": [
+      -56.2706805,
+      46.9470075
+    ],
+    "centroid": [
+      -56.2706805,
+      46.9470075
+    ],
+    "isoCode": "PM",
+    "isoCode3": "SPM",
+    "continent": "Unknown",
+    "region": "North America",
+    "population": 5997,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 192,
+    "adcode": "IS",
+    "name": "冰岛",
+    "name_en": "Iceland",
+    "name_local": "Iceland",
+    "center": [
+      -19.0214125,
+      64.9804345
+    ],
+    "centroid": [
+      -19.0214125,
+      64.9804345
+    ],
+    "isoCode": "IS",
+    "isoCode3": "ISL",
+    "continent": "Europe",
+    "region": "Europe & Central Asia",
+    "population": 361313,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 193,
+    "adcode": "PN",
+    "name": "皮特凯恩群岛",
+    "name_en": "Pitcairn Islands",
+    "name_local": "Pitcairn Islands",
+    "center": [
+      -127.765574,
+      -24.500746499999998
+    ],
+    "centroid": [
+      -127.765574,
+      -24.500746499999998
+    ],
+    "isoCode": "PN",
+    "isoCode3": "PCN",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 54,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 194,
+    "adcode": "PF",
+    "name": "法属波利尼西亚",
+    "name_en": "French Polynesia",
+    "name_local": "French Polynesia",
+    "center": [
+      -144.73998,
+      -17.7956685
+    ],
+    "centroid": [
+      -144.73998,
+      -17.7956685
+    ],
+    "isoCode": "PF",
+    "isoCode3": "PYF",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 279287,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 195,
+    "adcode": "TF",
+    "name": "法属南部和南极领地",
+    "name_en": "French Southern and Antarctic Lands",
+    "name_local": "French Southern and Antarctic Lands",
+    "center": [
+      58.656749000000005,
+      -30.636122
+    ],
+    "centroid": [
+      58.656749000000005,
+      -30.636122
+    ],
+    "isoCode": "TF",
+    "isoCode3": "ATF",
+    "continent": "Unknown",
+    "region": "Sub-Saharan Africa",
+    "population": 140,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 196,
+    "adcode": "SC",
+    "name": "塞舌尔",
+    "name_en": "Seychelles",
+    "name_local": "Seychelles",
+    "center": [
+      51.2474065,
+      -6.773329499999999
+    ],
+    "centroid": [
+      51.2474065,
+      -6.773329499999999
+    ],
+    "isoCode": "SC",
+    "isoCode3": "SYC",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 97625,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 197,
+    "adcode": "KI",
+    "name": "基里巴斯",
+    "name_en": "Kiribati",
+    "name_local": "Kiribati",
+    "center": [
+      1.1537579999999963,
+      -3.369012
+    ],
+    "centroid": [
+      1.1537579999999963,
+      -3.369012
+    ],
+    "isoCode": "KI",
+    "isoCode3": "KIR",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 117606,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 198,
+    "adcode": "MH",
+    "name": "马绍尔群岛",
+    "name_en": "Marshall Islands",
+    "name_local": "Marshall Islands",
+    "center": [
+      168.65601650000002,
+      9.592149
+    ],
+    "centroid": [
+      168.65601650000002,
+      9.592149
+    ],
+    "isoCode": "MH",
+    "isoCode3": "MHL",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 58791,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 199,
+    "adcode": "TT",
+    "name": "特立尼达和多巴哥",
+    "name_en": "Trinidad and Tobago",
+    "name_local": "Trinidad and Tobago",
+    "center": [
+      -61.225392,
+      10.69656
+    ],
+    "centroid": [
+      -61.225392,
+      10.69656
+    ],
+    "isoCode": "TT",
+    "isoCode3": "TTO",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 1394973,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 200,
+    "adcode": "GD",
+    "name": "格林纳达",
+    "name_en": "Grenada",
+    "name_local": "Grenada",
+    "center": [
+      -61.6060685,
+      12.266282499999999
+    ],
+    "centroid": [
+      -61.6060685,
+      12.266282499999999
+    ],
+    "isoCode": "GD",
+    "isoCode3": "GRD",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 112003,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 201,
+    "adcode": "VC",
+    "name": "圣文森特和格林纳丁斯",
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_local": "Saint Vincent and the Grenadines",
+    "center": [
+      -61.2918795,
+      12.982956999999999
+    ],
+    "centroid": [
+      -61.2918795,
+      12.982956999999999
+    ],
+    "isoCode": "VC",
+    "isoCode3": "VCT",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 110589,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 202,
+    "adcode": "BB",
+    "name": "巴巴多斯",
+    "name_en": "Barbados",
+    "name_local": "Barbados",
+    "center": [
+      -59.5405575,
+      13.197862
+    ],
+    "centroid": [
+      -59.5405575,
+      13.197862
+    ],
+    "isoCode": "BB",
+    "isoCode3": "BRB",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 287025,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 203,
+    "adcode": "LC",
+    "name": "圣卢西亚",
+    "name_en": "Saint Lucia",
+    "name_local": "Saint Lucia",
+    "center": [
+      -60.980743000000004,
+      13.913275500000001
+    ],
+    "centroid": [
+      -60.980743000000004,
+      13.913275500000001
+    ],
+    "isoCode": "LC",
+    "isoCode3": "LCA",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 182790,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 204,
+    "adcode": "DM",
+    "name": "多米尼克",
+    "name_en": "Dominica",
+    "name_local": "Dominica",
+    "center": [
+      -61.3690895,
+      15.417833000000002
+    ],
+    "centroid": [
+      -61.3690895,
+      15.417833000000002
+    ],
+    "isoCode": "DM",
+    "isoCode3": "DMA",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 71808,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 205,
+    "adcode": "UM",
+    "name": "美国本土外小岛屿",
+    "name_en": "United States Minor Outlying Islands",
+    "name_local": "United States Minor Outlying Islands",
+    "center": [
+      -5.368621500000003,
+      13.9132755
+    ],
+    "centroid": [
+      -5.368621500000003,
+      13.9132755
+    ],
+    "isoCode": "UM",
+    "isoCode3": "UMI",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 300,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 206,
+    "adcode": "MS",
+    "name": "蒙特塞拉特",
+    "name_en": "Montserrat",
+    "name_local": "Montserrat",
+    "center": [
+      -62.185333,
+      16.747341
+    ],
+    "centroid": [
+      -62.185333,
+      16.747341
+    ],
+    "isoCode": "MS",
+    "isoCode3": "MSR",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 4649,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 207,
+    "adcode": "AG",
+    "name": "安提瓜和巴布达",
+    "name_en": "Antigua and Barbuda",
+    "name_local": "Antigua and Barbuda",
+    "center": [
+      -62.007926,
+      17.329829
+    ],
+    "centroid": [
+      -62.007926,
+      17.329829
+    ],
+    "isoCode": "AG",
+    "isoCode3": "ATG",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 97118,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 208,
+    "adcode": "KN",
+    "name": "圣基茨和尼维斯",
+    "name_en": "Saint Kitts and Nevis",
+    "name_local": "Saint Kitts and Nevis",
+    "center": [
+      -62.69892299999999,
+      17.258184999999997
+    ],
+    "centroid": [
+      -62.69892299999999,
+      17.258184999999997
+    ],
+    "isoCode": "KN",
+    "isoCode3": "KNA",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 52834,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 209,
+    "adcode": "VI",
+    "name": "美属维尔京群岛",
+    "name_en": "United States Virgin Islands",
+    "name_local": "United States Virgin Islands",
+    "center": [
+      -64.800445,
+      18.034682500000002
+    ],
+    "centroid": [
+      -64.800445,
+      18.034682500000002
+    ],
+    "isoCode": "VI",
+    "isoCode3": "VIR",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 106631,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 210,
+    "adcode": "BL",
+    "name": "圣巴泰勒米",
+    "name_en": "Saint Barthélemy",
+    "name_local": "Saint-Barthélemy",
+    "center": [
+      -62.829498,
+      17.905565
+    ],
+    "centroid": [
+      -62.829498,
+      17.905565
+    ],
+    "isoCode": "BL",
+    "isoCode3": "BLM",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 9961,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 211,
+    "adcode": "PR",
+    "name": "波多黎各",
+    "name_en": "Puerto Rico",
+    "name_local": "Puerto Rico",
+    "center": [
+      -66.5912165,
+      18.222846
+    ],
+    "centroid": [
+      -66.5912165,
+      18.222846
+    ],
+    "isoCode": "PR",
+    "isoCode3": "PRI",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 3193694,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 212,
+    "adcode": "AI",
+    "name": "安圭拉",
+    "name_en": "Anguilla",
+    "name_local": "Anguilla",
+    "center": [
+      -63.177251999999996,
+      18.385179
+    ],
+    "centroid": [
+      -63.177251999999996,
+      18.385179
+    ],
+    "isoCode": "AI",
+    "isoCode3": "AIA",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 14731,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 213,
+    "adcode": "VG",
+    "name": "英属维尔京群岛",
+    "name_en": "British Virgin Islands",
+    "name_local": "British Virgin Islands",
+    "center": [
+      -64.522369,
+      18.5404525
+    ],
+    "centroid": [
+      -64.522369,
+      18.5404525
+    ],
+    "isoCode": "VG",
+    "isoCode3": "VGB",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 30030,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 214,
+    "adcode": "JM",
+    "name": "牙买加",
+    "name_en": "Jamaica",
+    "name_local": "Jamaica",
+    "center": [
+      -77.28132099999999,
+      18.114142
+    ],
+    "centroid": [
+      -77.28132099999999,
+      18.114142
+    ],
+    "isoCode": "JM",
+    "isoCode3": "JAM",
+    "continent": "North America",
+    "region": "Latin America & Caribbean",
+    "population": 2948279,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 215,
+    "adcode": "KY",
+    "name": "开曼群岛",
+    "name_en": "Cayman Islands",
+    "name_local": "Cayman Islands",
+    "center": [
+      -80.57159250000001,
+      19.5107475
+    ],
+    "centroid": [
+      -80.57159250000001,
+      19.5107475
+    ],
+    "isoCode": "KY",
+    "isoCode3": "CYM",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 64948,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 216,
+    "adcode": "BM",
+    "name": "百慕大",
+    "name_en": "Bermuda",
+    "name_local": "Bermuda",
+    "center": [
+      -64.7668125,
+      32.3183675
+    ],
+    "centroid": [
+      -64.7668125,
+      32.3183675
+    ],
+    "isoCode": "BM",
+    "isoCode3": "BMU",
+    "continent": "Unknown",
+    "region": "North America",
+    "population": 63918,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 217,
+    "adcode": "HM",
+    "name": "赫德岛和麦克唐纳群岛",
+    "name_en": "Heard Island and McDonald Islands",
+    "name_local": "Heard I. and McDonald Islands",
+    "center": [
+      73.524099,
+      -53.077081
+    ],
+    "centroid": [
+      73.524099,
+      -53.077081
+    ],
+    "isoCode": "HM",
+    "isoCode3": "HMD",
+    "continent": "Unknown",
+    "region": "Sub-Saharan Africa",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 218,
+    "adcode": "SH",
+    "name": "圣赫勒拿",
+    "name_en": "Saint Helena",
+    "name_local": "Saint Helena",
+    "center": [
+      -10.034047000000001,
+      -24.137872
+    ],
+    "centroid": [
+      -10.034047000000001,
+      -24.137872
+    ],
+    "isoCode": "SH",
+    "isoCode3": "SHN",
+    "continent": "Unknown",
+    "region": "Sub-Saharan Africa",
+    "population": 4534,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 219,
+    "adcode": "MU",
+    "name": "毛里求斯",
+    "name_en": "Mauritius",
+    "name_local": "Mauritius",
+    "center": [
+      60.009044,
+      -15.420627499999998
+    ],
+    "centroid": [
+      60.009044,
+      -15.420627499999998
+    ],
+    "isoCode": "MU",
+    "isoCode3": "MUS",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 1265711,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 220,
+    "adcode": "KM",
+    "name": "科摩罗",
+    "name_en": "Comoros",
+    "name_local": "Comoros",
+    "center": [
+      43.871145,
+      -11.8707825
+    ],
+    "centroid": [
+      43.871145,
+      -11.8707825
+    ],
+    "isoCode": "KM",
+    "isoCode3": "COM",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 850886,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 221,
+    "adcode": "ST",
+    "name": "圣多美和普林西比",
+    "name_en": "São Tomé and Príncipe",
+    "name_local": "São Tomé and Principe",
+    "center": [
+      6.9622095,
+      0.8619445
+    ],
+    "centroid": [
+      6.9622095,
+      0.8619445
+    ],
+    "isoCode": "ST",
+    "isoCode3": "STP",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 215056,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 222,
+    "adcode": "CV",
+    "name": "佛得角",
+    "name_en": "Cape Verde",
+    "name_local": "Republic of Cabo Verde",
+    "center": [
+      -24.0134985,
+      16.000271
+    ],
+    "centroid": [
+      -24.0134985,
+      16.000271
+    ],
+    "isoCode": "CV",
+    "isoCode3": "CPV",
+    "continent": "Africa",
+    "region": "Sub-Saharan Africa",
+    "population": 549935,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 223,
+    "adcode": "MT",
+    "name": "马耳他",
+    "name_en": "Malta",
+    "name_local": "Malta",
+    "center": [
+      14.375376500000002,
+      35.9384015
+    ],
+    "centroid": [
+      14.375376500000002,
+      35.9384015
+    ],
+    "isoCode": "MT",
+    "isoCode3": "MLT",
+    "continent": "Europe",
+    "region": "Middle East & North Africa",
+    "population": 502653,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 224,
+    "adcode": "JE",
+    "name": "泽西",
+    "name_en": "Jersey",
+    "name_local": "Jersey",
+    "center": [
+      -2.125152,
+      49.2191835
+    ],
+    "centroid": [
+      -2.125152,
+      49.2191835
+    ],
+    "isoCode": "JE",
+    "isoCode3": "JEY",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 107800,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 225,
+    "adcode": "GG",
+    "name": "根西",
+    "name_en": "Guernsey",
+    "name_local": "Guernsey",
+    "center": [
+      -2.4218845,
+      49.5714785
+    ],
+    "centroid": [
+      -2.4218845,
+      49.5714785
+    ],
+    "isoCode": "GG",
+    "isoCode3": "GGY",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 62792,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 226,
+    "adcode": "IM",
+    "name": "马恩岛",
+    "name_en": "Isle of Man",
+    "name_local": "Isle of Man",
+    "center": [
+      -4.551035499999999,
+      54.2379825
+    ],
+    "centroid": [
+      -4.551035499999999,
+      54.2379825
+    ],
+    "isoCode": "IM",
+    "isoCode3": "IMN",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 84584,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 227,
+    "adcode": "AX",
+    "name": "奥兰",
+    "name_en": "Åland",
+    "name_local": "Åland Islands",
+    "center": [
+      20.304941999999997,
+      60.192633
+    ],
+    "centroid": [
+      20.304941999999997,
+      60.192633
+    ],
+    "isoCode": "AX",
+    "isoCode3": "ALA",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 29884,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 228,
+    "adcode": "FO",
+    "name": "法罗群岛",
+    "name_en": "Faroe Islands",
+    "name_local": "Faeroe Islands",
+    "center": [
+      -6.959970500000001,
+      61.896511000000004
+    ],
+    "centroid": [
+      -6.959970500000001,
+      61.896511000000004
+    ],
+    "isoCode": "FO",
+    "isoCode3": "FRO",
+    "continent": "Unknown",
+    "region": "Europe & Central Asia",
+    "population": 48678,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 229,
+    "adcode": "-99",
+    "name": "澳屬印度洋領地",
+    "name_en": "Australian Indian Ocean Territories",
+    "name_local": "Indian Ocean Territories",
+    "center": [
+      101.268118,
+      -11.315403
+    ],
+    "centroid": [
+      101.268118,
+      -11.315403
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 2387,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 230,
+    "adcode": "IO",
+    "name": "英属印度洋领地",
+    "name_en": "British Indian Ocean Territory",
+    "name_local": "British Indian Ocean Territory",
+    "center": [
+      71.8778185,
+      -6.329603499999999
+    ],
+    "centroid": [
+      71.8778185,
+      -6.329603499999999
+    ],
+    "isoCode": "IO",
+    "isoCode3": "IOT",
+    "continent": "Unknown",
+    "region": "Sub-Saharan Africa",
+    "population": 3000,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 231,
+    "adcode": "SG",
+    "name": "新加坡",
+    "name_en": "Singapore",
+    "name_local": "Singapore",
+    "center": [
+      103.82191,
+      1.356472
+    ],
+    "centroid": [
+      103.82191,
+      1.356472
+    ],
+    "isoCode": "SG",
+    "isoCode3": "SGP",
+    "continent": "Asia",
+    "region": "East Asia & Pacific",
+    "population": 5703569,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 232,
+    "adcode": "NF",
+    "name": "诺福克岛",
+    "name_en": "Norfolk Island",
+    "name_local": "Norfolk Island",
+    "center": [
+      167.95423449999998,
+      -29.038750999999998
+    ],
+    "centroid": [
+      167.95423449999998,
+      -29.038750999999998
+    ],
+    "isoCode": "NF",
+    "isoCode3": "NFK",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 2169,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 233,
+    "adcode": "CK",
+    "name": "库克群岛",
+    "name_en": "Cook Islands",
+    "name_local": "Cook Islands",
+    "center": [
+      -161.5686745,
+      -15.4428035
+    ],
+    "centroid": [
+      -161.5686745,
+      -15.4428035
+    ],
+    "isoCode": "CK",
+    "isoCode3": "COK",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 17459,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 234,
+    "adcode": "TO",
+    "name": "汤加",
+    "name_en": "Tonga",
+    "name_local": "Tonga",
+    "center": [
+      -175.066782,
+      -18.9491515
+    ],
+    "centroid": [
+      -175.066782,
+      -18.9491515
+    ],
+    "isoCode": "TO",
+    "isoCode3": "TON",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 104494,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 235,
+    "adcode": "WF",
+    "name": "瓦利斯和富图纳",
+    "name_en": "Wallis and Futuna",
+    "name_local": "Wallis and Futuna Islands",
+    "center": [
+      -177.15567,
+      -13.764174
+    ],
+    "centroid": [
+      -177.15567,
+      -13.764174
+    ],
+    "isoCode": "WF",
+    "isoCode3": "WLF",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 11558,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 236,
+    "adcode": "WS",
+    "name": "萨摩亚",
+    "name_en": "Samoa",
+    "name_local": "Samoa",
+    "center": [
+      -172.1101375,
+      -13.7578265
+    ],
+    "centroid": [
+      -172.1101375,
+      -13.7578265
+    ],
+    "isoCode": "WS",
+    "isoCode3": "WSM",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 197097,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 237,
+    "adcode": "SB",
+    "name": "所罗门群岛",
+    "name_en": "Solomon Islands",
+    "name_local": "Solomon Islands",
+    "center": [
+      162.1669215,
+      -9.445245
+    ],
+    "centroid": [
+      162.1669215,
+      -9.445245
+    ],
+    "isoCode": "SB",
+    "isoCode3": "SLB",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 669823,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 238,
+    "adcode": "TV",
+    "name": "图瓦卢",
+    "name_en": "Tuvalu",
+    "name_local": "Tuvalu",
+    "center": [
+      178.01600200000001,
+      -7.549085999999999
+    ],
+    "centroid": [
+      178.01600200000001,
+      -7.549085999999999
+    ],
+    "isoCode": "TV",
+    "isoCode3": "TUV",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 11646,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 239,
+    "adcode": "MV",
+    "name": "马尔代夫",
+    "name_en": "Maldives",
+    "name_local": "Maldives",
+    "center": [
+      73.21900450000001,
+      3.2093365
+    ],
+    "centroid": [
+      73.21900450000001,
+      3.2093365
+    ],
+    "isoCode": "MV",
+    "isoCode3": "MDV",
+    "continent": "Asia",
+    "region": "South Asia",
+    "population": 530953,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 240,
+    "adcode": "NR",
+    "name": "瑙鲁",
+    "name_en": "Nauru",
+    "name_local": "Nauru",
+    "center": [
+      166.932628,
+      -0.521132
+    ],
+    "centroid": [
+      166.932628,
+      -0.521132
+    ],
+    "isoCode": "NR",
+    "isoCode3": "NRU",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 12581,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 241,
+    "adcode": "FM",
+    "name": "密克罗尼西亚联邦",
+    "name_en": "Federated States of Micronesia",
+    "name_local": "Federated States of Micronesia",
+    "center": [
+      150.5551865,
+      5.346869
+    ],
+    "centroid": [
+      150.5551865,
+      5.346869
+    ],
+    "isoCode": "FM",
+    "isoCode3": "FSM",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 113815,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 242,
+    "adcode": "GS",
+    "name": "南乔治亚和南桑威奇群岛",
+    "name_en": "South Georgia and the South Sandwich Islands",
+    "name_local": "South Georgia and the Islands",
+    "center": [
+      -32.1631775,
+      -56.722589
+    ],
+    "centroid": [
+      -32.1631775,
+      -56.722589
+    ],
+    "isoCode": "GS",
+    "isoCode3": "SGS",
+    "continent": "Unknown",
+    "region": "Antarctica",
+    "population": 30,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 243,
+    "adcode": "FK",
+    "name": "福克兰群岛",
+    "name_en": "Falkland Islands",
+    "name_local": "Falkland Islands / Malvinas",
+    "center": [
+      -59.5262345,
+      -51.717144000000005
+    ],
+    "centroid": [
+      -59.5262345,
+      -51.717144000000005
+    ],
+    "isoCode": "FK",
+    "isoCode3": "FLK",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 3398,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 244,
+    "adcode": "VU",
+    "name": "瓦努阿图",
+    "name_en": "Vanuatu",
+    "name_local": "Vanuatu",
+    "center": [
+      168.209727,
+      -16.65899
+    ],
+    "centroid": [
+      168.209727,
+      -16.65899
+    ],
+    "isoCode": "VU",
+    "isoCode3": "VUT",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 299882,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 245,
+    "adcode": "NU",
+    "name": "纽埃",
+    "name_en": "Niue",
+    "name_local": "Niue",
+    "center": [
+      -169.8666685,
+      -19.0533995
+    ],
+    "centroid": [
+      -169.8666685,
+      -19.0533995
+    ],
+    "isoCode": "NU",
+    "isoCode3": "NIU",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 1620,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 246,
+    "adcode": "AS",
+    "name": "美属萨摩亚",
+    "name_en": "American Samoa",
+    "name_local": "American Samoa",
+    "center": [
+      -169.623504,
+      -12.7921285
+    ],
+    "centroid": [
+      -169.623504,
+      -12.7921285
+    ],
+    "isoCode": "AS",
+    "isoCode3": "ASM",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 55312,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 247,
+    "adcode": "PW",
+    "name": "帕劳",
+    "name_en": "Palau",
+    "name_local": "Palau",
+    "center": [
+      132.9292285,
+      5.52283
+    ],
+    "centroid": [
+      132.9292285,
+      5.52283
+    ],
+    "isoCode": "PW",
+    "isoCode3": "PLW",
+    "continent": "Oceania",
+    "region": "East Asia & Pacific",
+    "population": 18008,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 248,
+    "adcode": "GU",
+    "name": "关岛",
+    "name_en": "Guam",
+    "name_local": "Guam",
+    "center": [
+      144.78817800000002,
+      13.447577
+    ],
+    "centroid": [
+      144.78817800000002,
+      13.447577
+    ],
+    "isoCode": "GU",
+    "isoCode3": "GUM",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 167294,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 249,
+    "adcode": "MP",
+    "name": "北马里亚纳群岛",
+    "name_en": "Northern Mariana Islands",
+    "name_local": "Northern Mariana Islands",
+    "center": [
+      145.38550850000001,
+      17.3330345
+    ],
+    "centroid": [
+      145.38550850000001,
+      17.3330345
+    ],
+    "isoCode": "MP",
+    "isoCode3": "MNP",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 57216,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 250,
+    "adcode": "BH",
+    "name": "巴林",
+    "name_en": "Bahrain",
+    "name_local": "Bahrain",
+    "center": [
+      50.6002025,
+      25.933664999999998
+    ],
+    "centroid": [
+      50.6002025,
+      25.933664999999998
+    ],
+    "isoCode": "BH",
+    "isoCode3": "BHR",
+    "continent": "Asia",
+    "region": "Middle East & North Africa",
+    "population": 1641172,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 251,
+    "adcode": "-99",
+    "name": "珊瑚海群岛",
+    "name_en": "Coral Sea Islands",
+    "name_local": "Coral Sea Islands",
+    "center": [
+      154.3899035,
+      -21.029392
+    ],
+    "centroid": [
+      154.3899035,
+      -21.029392
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 4,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 252,
+    "adcode": "-99",
+    "name": "威克岛",
+    "name_en": "Wake Island",
+    "name_local": "Spratly Islands",
+    "center": [
+      114.938243,
+      10.398748999999999
+    ],
+    "centroid": [
+      114.938243,
+      10.398748999999999
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 100,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 253,
+    "adcode": "-99",
+    "name": "克利珀顿岛",
+    "name_en": "Clipperton Island",
+    "name_local": "Clipperton Island",
+    "center": [
+      -109.22229949999999,
+      10.296291499999999
+    ],
+    "centroid": [
+      -109.22229949999999,
+      10.296291499999999
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 254,
+    "adcode": "MO",
+    "name": "澳门",
+    "name_en": "Macau",
+    "name_local": "Macao",
+    "center": [
+      113.55368050000001,
+      22.163072
+    ],
+    "centroid": [
+      113.55368050000001,
+      22.163072
+    ],
+    "isoCode": "MO",
+    "isoCode3": "MAC",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 640445,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 255,
+    "adcode": "-99",
+    "name": "阿什莫尔和卡捷群岛",
+    "name_en": "Ashmore and Cartier Islands",
+    "name_local": "Ashmore and Cartier Islands",
+    "center": [
+      123.5863955,
+      -12.4325905
+    ],
+    "centroid": [
+      123.5863955,
+      -12.4325905
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 256,
+    "adcode": "-99",
+    "name": "巴霍努埃沃浅滩",
+    "name_en": "Bajo Nuevo Bank",
+    "name_local": "Bajo Nuevo Bank (Petrel Islands)",
+    "center": [
+      -79.9878435,
+      15.795193000000001
+    ],
+    "centroid": [
+      -79.9878435,
+      15.795193000000001
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 257,
+    "adcode": "-99",
+    "name": "塞拉尼拉浅滩",
+    "name_en": "Serranilla Bank",
+    "name_local": "Serranilla Bank",
+    "center": [
+      -78.638641,
+      15.8646915
+    ],
+    "centroid": [
+      -78.638641,
+      15.8646915
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "Latin America & Caribbean",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  },
+  {
+    "id": 258,
+    "adcode": "-99",
+    "name": "黄岩岛",
+    "name_en": "Scarborough Shoal",
+    "name_local": "Scarborough Reef",
+    "center": [
+      117.75377399999999,
+      15.1522255
+    ],
+    "centroid": [
+      117.75377399999999,
+      15.1522255
+    ],
+    "isoCode": "-99",
+    "isoCode3": "-99",
+    "continent": "Unknown",
+    "region": "East Asia & Pacific",
+    "population": 0,
+    "area_sqkm": 0,
+    "sovereignty": "Sovereign"
+  }
+]

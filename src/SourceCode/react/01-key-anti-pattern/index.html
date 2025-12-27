@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Key 错误使用示例 - React 核心原理</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    h1 {
+      color: #333;
+      margin-bottom: 10px;
+    }
+    
+    .description {
+      color: #666;
+      margin-bottom: 30px;
+      line-height: 1.6;
+    }
+    
+    .demo-section {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    
+    .demo-section h2 {
+      color: #333;
+      margin-bottom: 15px;
+      font-size: 18px;
+    }
+    
+    .demo-section.wrong h2::before {
+      content: '❌ ';
+    }
+    
+    .demo-section.correct h2::before {
+      content: '✅ ';
+    }
+    
+    .controls {
+      margin-bottom: 20px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    
+    button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+    
+    button.primary {
+      background: #1890ff;
+      color: white;
+    }
+    
+    button.primary:hover {
+      background: #40a9ff;
+    }
+    
+    button.danger {
+      background: #ff4d4f;
+      color: white;
+    }
+    
+    button.danger:hover {
+      background: #ff7875;
+    }
+    
+    button.success {
+      background: #52c41a;
+      color: white;
+    }
+    
+    button.success:hover {
+      background: #73d13d;
+    }
+    
+    .todo-list {
+      list-style: none;
+    }
+    
+    .todo-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px;
+      margin-bottom: 8px;
+      background: #fafafa;
+      border-radius: 4px;
+      border-left: 3px solid #1890ff;
+      transition: all 0.3s;
+    }
+    
+    .todo-item.flash {
+      animation: flash 0.5s;
+    }
+    
+    @keyframes flash {
+      0%, 100% { background: #fafafa; }
+      50% { background: #fff7e6; }
+    }
+    
+    .todo-item input[type="text"] {
+      flex: 1;
+      padding: 8px;
+      border: 1px solid #d9d9d9;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+    
+    .todo-item input[type="text"]:focus {
+      outline: none;
+      border-color: #1890ff;
+      box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+    }
+    
+    .todo-item button {
+      padding: 6px 12px;
+      font-size: 12px;
+    }
+    
+    .warning {
+      background: #fff7e6;
+      border: 1px solid #ffd666;
+      padding: 12px;
+      border-radius: 4px;
+      color: #d46b08;
+      margin-bottom: 15px;
+      line-height: 1.6;
+    }
+    
+    .info {
+      background: #e6f7ff;
+      border: 1px solid #91d5ff;
+      padding: 12px;
+      border-radius: 4px;
+      color: #096dd9;
+      margin-bottom: 15px;
+      line-height: 1.6;
+    }
+    
+    .render-count {
+      display: inline-block;
+      background: #52c41a;
+      color: white;
+      padding: 2px 8px;
+      border-radius: 3px;
+      font-size: 12px;
+      margin-left: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Key 错误使用示例</h1>
+    <p class="description">
+      本示例演示在列表中使用 index 作为 key 的问题。<br>
+      操作步骤：输入一些文字 → 删除第一项 → 观察输入框内容的变化
+    </p>
+    
+    <div id="root"></div>
+  </div>
+
+  <script type="module">
+    import React, { useState, useRef } from 'https://esm.sh/react@18.2.0';
+    import ReactDOM from 'https://esm.sh/react-dom@18.2.0';
+
+    // ❌ 错误示例：使用 index 作为 key
+    function TodoItemWrong({ todo, onDelete }) {
+      const renderCount = useRef(0);
+      renderCount.current++;
+      
+      return (
+        <div className="todo-item">
+          <span style={{ width: '100px' }}>ID: {todo.id}</span>
+          <input 
+            type="text" 
+            defaultValue={todo.text}
+            placeholder="输入一些文字试试..."
+          />
+          <span className="render-count">渲染 {renderCount.current} 次</span>
+          <button className="danger" onClick={onDelete}>删除</button>
+        </div>
+      );
+    }
+
+    function WrongKeyDemo() {
+      const [todos, setTodos] = useState([
+        { id: 'a', text: '任务 A' },
+        { id: 'b', text: '任务 B' },
+        { id: 'c', text: '任务 C' },
+      ]);
+
+      const addTodo = () => {
+        const newId = String.fromCharCode(97 + todos.length);
+        setTodos([...todos, { id: newId, text: `任务 ${newId.toUpperCase()}` }]);
+      };
+
+      const deleteFirst = () => {
+        setTodos(todos.slice(1));
+      };
+
+      const reset = () => {
+        setTodos([
+          { id: 'a', text: '任务 A' },
+          { id: 'b', text: '任务 B' },
+          { id: 'c', text: '任务 C' },
+        ]);
+      };
+
+      return (
+        <div className="demo-section wrong">
+          <h2>使用 index 作为 key（错误示例）</h2>
+          <div className="warning">
+            <strong>问题：</strong>当你在输入框中输入文字后删除第一项，会发现输入的内容出现在错误的位置！
+            <br/>
+            <strong>原因：</strong>React 使用 key 来识别元素。使用 index 作为 key 时，删除第一项后，
+            原来 index=1 的元素变成了 index=0，React 认为是同一个元素被更新了，而不是删除了。
+          </div>
+          
+          <div className="controls">
+            <button className="success" onClick={addTodo}>添加任务</button>
+            <button className="danger" onClick={deleteFirst}>删除第一项</button>
+            <button className="primary" onClick={reset}>重置</button>
+          </div>
+
+          <div className="todo-list">
+            {todos.map((todo, index) => (
+              <TodoItemWrong 
+                key={index}  // ❌ 使用 index 作为 key
+                todo={todo} 
+                onDelete={() => setTodos(todos.filter((_, i) => i !== index))}
+              />
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    // ✅ 正确示例：使用稳定的 id 作为 key
+    function TodoItemCorrect({ todo, onDelete }) {
+      const renderCount = useRef(0);
+      renderCount.current++;
+      
+      return (
+        <div className="todo-item">
+          <span style={{ width: '100px' }}>ID: {todo.id}</span>
+          <input 
+            type="text" 
+            defaultValue={todo.text}
+            placeholder="输入一些文字试试..."
+          />
+          <span className="render-count">渲染 {renderCount.current} 次</span>
+          <button className="danger" onClick={onDelete}>删除</button>
+        </div>
+      );
+    }
+
+    function CorrectKeyDemo() {
+      const [todos, setTodos] = useState([
+        { id: 'a', text: '任务 A' },
+        { id: 'b', text: '任务 B' },
+        { id: 'c', text: '任务 C' },
+      ]);
+
+      const addTodo = () => {
+        const newId = String.fromCharCode(97 + todos.length);
+        setTodos([...todos, { id: newId, text: `任务 ${newId.toUpperCase()}` }]);
+      };
+
+      const deleteFirst = () => {
+        setTodos(todos.slice(1));
+      };
+
+      const reset = () => {
+        setTodos([
+          { id: 'a', text: '任务 A' },
+          { id: 'b', text: '任务 B' },
+          { id: 'c', text: '任务 C' },
+        ]);
+      };
+
+      return (
+        <div className="demo-section correct">
+          <h2>使用稳定的 id 作为 key（正确示例）</h2>
+          <div className="info">
+            <strong>改进：</strong>使用数据的唯一标识（如 ID）作为 key，删除第一项后，输入的内容会保持在正确的位置。
+            <br/>
+            <strong>原理：</strong>React 通过 id 识别每个元素，删除时真正移除对应的组件实例，其他组件保持不变。
+            观察渲染次数：删除第一项时，只有第一项被销毁，其他项的渲染次数不变。
+          </div>
+          
+          <div className="controls">
+            <button className="success" onClick={addTodo}>添加任务</button>
+            <button className="danger" onClick={deleteFirst}>删除第一项</button>
+            <button className="primary" onClick={reset}>重置</button>
+          </div>
+
+          <div className="todo-list">
+            {todos.map((todo) => (
+              <TodoItemCorrect 
+                key={todo.id}  // ✅ 使用 id 作为 key
+                todo={todo} 
+                onDelete={() => setTodos(todos.filter(t => t.id !== todo.id))}
+              />
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    function App() {
+      return (
+        <>
+          <WrongKeyDemo />
+          <CorrectKeyDemo />
+        </>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>
+
