@@ -1,0 +1,56 @@
+:root {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  color: #111827;
+}
+
+body {
+  margin: 0;
+}
+
+.sub-page {
+  padding: 12px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  appearance: none;
+  border: 1px solid #d1d5db;
+  background: #ffffff;
+  padding: 8px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.pre {
+  white-space: pre-wrap;
+  background: #0b1020;
+  color: #e5e7eb;
+  padding: 12px;
+  border-radius: 10px;
+  overflow: auto;
+}
+
+

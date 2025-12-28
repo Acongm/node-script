@@ -26,9 +26,13 @@ examples/
 ├── 05-fiber/                       # Fiber 架构
 │   ├── fiber-structure.js          # Fiber 数据结构
 │   └── work-loop.js                # 工作循环
-└── 06-performance/                 # 性能对比
+├── 06-performance/                 # 性能对比
     ├── problem.jsx                 # 性能问题
     └── solution.jsx                # 解决方案
+└── 08-qiankun-isolation/           # qiankun：JS/CSS 隔离机制（最小实现）
+    ├── README.md
+    ├── 01-js-sandbox-mini.js
+    └── 02-css-isolation-mini.js
 ```
 
 ## 🎯 阅读顺序
@@ -71,6 +75,12 @@ examples/
 ```
 06-performance/problem.jsx    → 性能问题
 06-performance/solution.jsx   → 优化方案
+```
+
+### 7. 微前端（qiankun 隔离）(15 分钟)
+```
+08-qiankun-isolation/01-js-sandbox-mini.js   → Proxy/快照沙箱 + 副作用清理
+08-qiankun-isolation/02-css-isolation-mini.js → scoped CSS / Shadow DOM 隔离
 ```
 
 ## 💡 如何阅读

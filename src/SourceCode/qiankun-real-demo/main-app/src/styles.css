@@ -1,0 +1,75 @@
+:root {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  color: #111827;
+  background: #f5f7fb;
+}
+
+body {
+  margin: 0;
+}
+
+.page {
+  max-width: 980px;
+  margin: 24px auto;
+  padding: 0 16px 48px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 12px 0;
+}
+
+.row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.btn {
+  appearance: none;
+  border: 1px solid #d1d5db;
+  background: #ffffff;
+  padding: 8px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.btn:hover {
+  border-color: #9ca3af;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.subapp-container {
+  border: 1px dashed #c7d2fe;
+  border-radius: 10px;
+  padding: 12px;
+  min-height: 120px;
+  background: #f8fafc;
+}
+
+.pre {
+  white-space: pre-wrap;
+  background: #0b1020;
+  color: #e5e7eb;
+  padding: 12px;
+  border-radius: 10px;
+  overflow: auto;
+  max-height: 260px;
+}
+
+.box {
+  flex: 1;
+  min-width: 280px;
+}
+
+
