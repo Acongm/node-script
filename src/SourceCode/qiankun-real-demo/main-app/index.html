@@ -6,6 +6,10 @@
     <title>qiankun 主应用 Demo</title>
   </head>
   <body>
+    <!-- ✅ 固定测试元素：确保主应用 HTML 始终存在 -->
+    <div id="main-app-test" style="position: fixed; top: 0; left: 0; right: 0; background: #10b981; color: white; padding: 8px 16px; z-index: 99999; font-size: 14px; font-weight: bold;">
+      🟢 主应用 HTML 测试元素（如果这个消失了，说明 HTML 被修改了）
+    </div>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>

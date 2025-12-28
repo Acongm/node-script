@@ -6,12 +6,42 @@
 
 body {
   margin: 0;
+  /* ✅ 确保主应用 body 始终可见 */
+  background: #f5f7fb;
+  overflow-x: hidden;
 }
 
 .page {
   max-width: 980px;
   margin: 24px auto;
-  padding: 0 16px 48px;
+  padding: 24px 16px 48px;
+  background: #ffffff;
+  border: 3px solid #10b981;
+  border-radius: 12px;
+  position: relative;
+  /* ✅ 确保主应用始终在最上层，且不会被覆盖 */
+  z-index: 1;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  /* ✅ 确保主应用内容始终可见 */
+  min-height: 100vh;
+  display: block;
+  /* ✅ 确保主应用不会被子应用覆盖 */
+  isolation: isolate;
+}
+
+/* ✅ 主应用容器的视觉标识 */
+.page::before {
+  content: '【主应用容器 - 始终显示】';
+  position: absolute;
+  top: -16px;
+  left: 16px;
+  background: #10b981;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+  z-index: 10;
 }
 
 .card {
@@ -50,11 +80,47 @@ body {
 }
 
 .subapp-container {
-  border: 1px dashed #c7d2fe;
+  border: 3px solid #6366f1;
   border-radius: 10px;
-  padding: 12px;
-  min-height: 120px;
-  background: #f8fafc;
+  padding: 16px;
+  min-height: 200px;
+  max-height: 600px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: #eef2ff;
+  position: relative;
+  /* ✅ 确保子应用内容不会溢出到主应用 */
+  box-sizing: border-box;
+  /* ✅ 确保子应用容器在主应用内部，不会覆盖主应用 */
+  z-index: 0;
+  isolation: isolate;
+}
+
+/* ✅ 确保子应用容器有明确的视觉边界 */
+.subapp-container::before {
+  content: '【子应用容器】';
+  position: absolute;
+  top: -12px;
+  left: 12px;
+  background: #6366f1;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* ✅ 空容器时显示占位文字（用 CSS，不触发 React DOM 操作） */
+.subapp-container-empty::after {
+  content: '（进入 /sub 或点"挂载子应用"后，子应用会渲染到这里）';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #6b7280;
+  font-size: 14px;
+  white-space: nowrap;
+  pointer-events: none;
 }
 
 .pre {

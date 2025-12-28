@@ -1,14 +1,25 @@
-:root {
+/* ✅ 子应用样式只作用于 #sub-root 内部，不影响主应用 */
+/* ⚠️ 注意：如果启用了 strictStyleIsolation，qiankun 会用 Shadow DOM 包裹子应用，样式会自动隔离 */
+#sub-root {
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
   color: #111827;
-}
-
-body {
-  margin: 0;
+  width: 100%;
+  /* ✅ 移除 height: 100%，避免子应用占满整个容器 */
+  box-sizing: border-box;
+  /* ✅ 确保子应用不会溢出 */
+  overflow: visible;
+  /* ✅ 确保子应用不会覆盖主应用 */
+  position: relative;
+  z-index: 0;
 }
 
 .sub-page {
   padding: 12px;
+  /* ✅ 确保子应用不会覆盖主应用 */
+  position: relative;
+  z-index: 0;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .card {

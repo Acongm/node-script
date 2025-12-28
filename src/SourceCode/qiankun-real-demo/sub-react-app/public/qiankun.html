@@ -1,18 +1,9 @@
-<!doctype html>
-<html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>sub-react-app for qiankun</title>
-  </head>
-  <body>
-    <!-- qiankun 会把这个 HTML 模板注入到主应用 container 里 -->
-    <!-- ⚠️ 避免与主应用的 #root 冲突，子应用使用独立的 root id -->
-    <div id="sub-root"></div>
+<!-- ✅ qiankun HTML Entry：只保留 body 内容，不要包含 html/head 标签 -->
+<!-- qiankun 会提取这个 HTML 的内容并注入到指定的 container 中 -->
+<!-- ⚠️ 避免与主应用的 #root 冲突，子应用使用独立的 root id -->
+<div id="sub-root"></div>
 
-    <!-- 关键：不要用 type="module"，用普通 script，让 qiankun 可以执行 -->
-    <script src="/qiankun-entry.js"></script>
-  </body>
-</html>
+<!-- 关键：不要用 type="module"，用普通 script，让 qiankun 可以执行 -->
+<script src="/qiankun-entry.js"></script>
 
 
