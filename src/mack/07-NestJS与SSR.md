@@ -7,7 +7,6 @@ NestJS 的核心概念：模块、控制器、服务、依赖注入、装饰器�
 
 **【作答】：**
 
-```
 模块 (Module):
 - 是应用的基本组织单位，使用 @Module() 装饰器定义
 - 每个模块封装相关的功能（控制器、服务、导入、导出）
@@ -47,7 +46,6 @@ NestJS 的核心概念：模块、控制器、服务、依赖注入、装饰器�
 6. 控制器调用服务方法处理业务逻辑
 7. 返回响应给客户端
 整个过程实现了关注点分离：路由→控制器→服务→数据层
-```
 
 ---
 
@@ -56,7 +54,6 @@ NestJS 相比 Express/Koa 的优势是什么？适用场景有什么不同？
 
 **【作答】：**
 
-```
 NestJS 优势:
 1. 架构清晰：基于模块化设计，强制分层（Controller-Service-Repository）
 2. 依赖注入：内置 IoC 容器，便于测试和模块解耦
@@ -87,7 +84,6 @@ Express/Koa 适合：
 - 团队熟悉底层原理，需要高度定制
 - 简单的 RESTful API 服务
 - 学习和教学场景
-```
 
 ---
 
@@ -96,7 +92,6 @@ Express/Koa 适合：
 
 **【作答】：**
 
-```
 SSR (Server-Side Rendering):
 原理:
 - 服务器接收到请求后，在服务端执行 JavaScript 代码
@@ -171,7 +166,6 @@ SSG (Static Site Generation):
 - 营销页面、落地页
 - 内容相对固定的网站
 - 需要极致性能的场景
-```
 
 ---
 
@@ -180,7 +174,6 @@ SSR 的核心流程是什么？从请求到返回 HTML 经历哪些步骤？数�
 
 **【作答】：**
 
-```
 核心流程:
 1. 用户请求 → 服务器接收 HTTP 请求
 2. 路由匹配 → 根据 URL 匹配对应的路由组件
@@ -217,7 +210,6 @@ Hydration:
 - Hydration 后，后续的路由切换和数据更新都在客户端完成
 - 这是一个"接管"过程：从静态 HTML 转为可交互的 SPA
 - 性能优化：可以只对关键组件进行 hydration（Partial Hydration）
-```
 
 ---
 
@@ -226,10 +218,9 @@ SSR 同构代码需要注意哪些问题？window/document 不存在、Node.js A
 
 **【作答】：**
 
-```
 环境差异处理:
 - 使用 typeof window !== 'undefined' 判断客户端环境
-- 使用 process.env.NODE_ENV 或 process.browser 判断服务端
+- 使用 process__.env.NODE_ENV 或 process__.browser 判断服务端
 - 创建统一的 isServer/isClient 工具函数
 - 对于只在客户端运行的代码，使用动态导入（dynamic import）
 - 使用条件渲染：只在客户端渲染特定组件
@@ -261,7 +252,6 @@ SSR 同构代码需要注意哪些问题？window/document 不存在、Node.js A
 - 对于包含浏览器 API 的库，使用 dynamic import 延迟加载
 - 使用 babel-plugin-transform-require-ignore 忽略某些模块
 - 常见问题库：chart.js、three.js 等需要特殊处理
-```
 
 ---
 
@@ -270,7 +260,6 @@ SSR 性能优化策略有哪些？缓存、流式渲染、部分 Hydration、组
 
 **【作答】：**
 
-```
 页面/组件缓存:
 - 页面级缓存：对相同 URL 的请求缓存渲染结果（Redis、内存缓存）
 - 组件级缓存：缓存无状态或数据变化少的组件渲染结果
@@ -309,7 +298,6 @@ SSR 性能优化策略有哪些？缓存、流式渲染、部分 Hydration、组
 8. 监控指标：监控 TTFB、FCP、LCP 等性能指标
 9. 降级策略：服务端渲染失败时降级到客户端渲染
 10. 边缘计算：使用 Edge Functions（如 Vercel Edge、Cloudflare Workers）就近渲染
-```
 
 ---
 
